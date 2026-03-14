@@ -1,1 +1,386 @@
-
+[
+  {
+    "english": "North",
+    "pos": "n.",
+    "chinese": "北",
+    "example": "The city is located in the north of the country."
+  },
+  {
+    "english": "South",
+    "pos": "n.",
+    "chinese": "南",
+    "example": "Birds fly south for the winter."
+  },
+  {
+    "english": "East",
+    "pos": "n.",
+    "chinese": "东",
+    "example": "The sun rises in the east."
+  },
+  {
+    "english": "West",
+    "pos": "n.",
+    "chinese": "西",
+    "example": "The coast is on the west side of the island."
+  },
+  {
+    "english": "Northeast",
+    "pos": "n.",
+    "chinese": "东北",
+    "example": "The wind is blowing from the northeast."
+  },
+  {
+    "english": "Northwest",
+    "pos": "n.",
+    "chinese": "西北",
+    "example": "Drive northwest on Route 66."
+  },
+  {
+    "english": "Southeast",
+    "pos": "n.",
+    "chinese": "东南",
+    "example": "They moved to the southeast for a warmer climate."
+  },
+  {
+    "english": "Southwest",
+    "pos": "n.",
+    "chinese": "西南",
+    "example": "The national park is in the southwest region."
+  },
+  {
+    "english": "Next to",
+    "pos": "prep.",
+    "chinese": "在……旁边",
+    "example": "The bank is next to the post office."
+  },
+  {
+    "english": "Beside",
+    "pos": "prep.",
+    "chinese": "紧挨着 / 在……旁边",
+    "example": "She sat beside him during the lecture."
+  },
+  {
+    "english": "Opposite",
+    "pos": "prep.",
+    "chinese": "在……正对面",
+    "example": "The cafe is opposite the train station."
+  },
+  {
+    "english": "Across from",
+    "pos": "prep.",
+    "chinese": "在……对面（隔着街道或空间）",
+    "example": "My house is across from the park."
+  },
+  {
+    "english": "Between... and...",
+    "pos": "prep.",
+    "chinese": "在……和……之间",
+    "example": "The library is between the school and the park."
+  },
+  {
+    "english": "In front of",
+    "pos": "prep.",
+    "chinese": "在……前面",
+    "example": "There is a bus stop in front of the museum."
+  },
+  {
+    "english": "Behind",
+    "pos": "prep.",
+    "chinese": "在……后面",
+    "example": "The parking lot is behind the building."
+  },
+  {
+    "english": "On the corner of...",
+    "pos": "phrase",
+    "chinese": "在……的拐角/转角处",
+    "example": "The pharmacy is on the corner of Main Street and 1st Avenue."
+  },
+  {
+    "english": "Adjacent to",
+    "pos": "adj.",
+    "chinese": "与……毗邻 / 紧接",
+    "example": "The new hotel is adjacent to the shopping mall."
+  },
+  {
+    "english": "In the center of",
+    "pos": "phrase",
+    "chinese": "在……的中心",
+    "example": "There is a large fountain in the center of the square."
+  },
+  {
+    "english": "In the middle of",
+    "pos": "phrase",
+    "chinese": "在……的中间",
+    "example": "Don't stop in the middle of the road."
+  },
+  {
+    "english": "Parallel to",
+    "pos": "adj.",
+    "chinese": "与……平行",
+    "example": "Riverside Drive runs parallel to the river."
+  },
+  {
+    "english": "Go straight ahead",
+    "pos": "phrase",
+    "chinese": "一直往前走",
+    "example": "Go straight ahead for two blocks."
+  },
+  {
+    "english": "Turn left",
+    "pos": "phrase",
+    "chinese": "左转",
+    "example": "Turn left at the traffic lights."
+  },
+  {
+    "english": "Turn right",
+    "pos": "phrase",
+    "chinese": "右转",
+    "example": "Turn right when you see the gas station."
+  },
+  {
+    "english": "Go past...",
+    "pos": "phrase",
+    "chinese": "经过 / 路过……",
+    "example": "Go past the supermarket, and you'll see the hospital."
+  },
+  {
+    "english": "Cross the street",
+    "pos": "phrase",
+    "chinese": "穿过街道",
+    "example": "Cross the street using the pedestrian crossing."
+  },
+  {
+    "english": "Cross the intersection",
+    "pos": "phrase",
+    "chinese": "穿过十字路口",
+    "example": "Cross the intersection carefully."
+  },
+  {
+    "english": "Take the first right",
+    "pos": "phrase",
+    "chinese": "在第一个路口右转",
+    "example": "Take the first right, and the store is right there."
+  },
+  {
+    "english": "Take the second right",
+    "pos": "phrase",
+    "chinese": "在第二个路口右转",
+    "example": "Take the second right, and the restaurant will be on your left."
+  },
+  {
+    "english": "Intersection",
+    "pos": "n.",
+    "chinese": "十字路口 / 交叉路口",
+    "example": "Turn right at the next intersection."
+  },
+  {
+    "english": "Crossroads",
+    "pos": "n.",
+    "chinese": "交叉路口 / 十字路口",
+    "example": "We met at the crossroads near the town."
+  },
+  {
+    "english": "Landmark",
+    "pos": "n.",
+    "chinese": "地标 / 标志性建筑",
+    "example": "The Eiffel Tower is a famous landmark in Paris."
+  },
+  {
+    "english": "Coordinates",
+    "pos": "n.",
+    "chinese": "坐标",
+    "example": "Enter the coordinates into your GPS."
+  },
+  {
+    "english": "Latitude",
+    "pos": "n.",
+    "chinese": "纬度",
+    "example": "The map shows the lines of latitude."
+  },
+  {
+    "english": "Longitude",
+    "pos": "n.",
+    "chinese": "经度",
+    "example": "Can you check the longitude of this location?"
+  },
+  {
+    "english": "Scale",
+    "pos": "n.",
+    "chinese": "（地图）比例尺",
+    "example": "According to the map's scale, one inch represents ten miles."
+  },
+  {
+    "english": "Library",
+    "pos": "n.",
+    "chinese": "图书馆",
+    "example": "I spend most of my weekends studying in the library."
+  },
+  {
+    "english": "Lecture Hall",
+    "pos": "n.",
+    "chinese": "阶梯教室 / 大报告厅",
+    "example": "The introductory psychology class is held in the main lecture hall."
+  },
+  {
+    "english": "Laboratory",
+    "pos": "n.",
+    "chinese": "实验室",
+    "example": "The physics laboratory has new equipment."
+  },
+  {
+    "english": "Lab",
+    "pos": "n.",
+    "chinese": "实验室（简称）",
+    "example": "Students must wear safety goggles in the chemistry lab."
+  },
+  {
+    "english": "Computer Lab",
+    "pos": "n.",
+    "chinese": "计算机房",
+    "example": "You can print your assignment at the computer lab on the second floor."
+  },
+  {
+    "english": "Auditorium",
+    "pos": "n.",
+    "chinese": "大礼堂",
+    "example": "The graduation ceremony will take place in the school auditorium."
+  },
+  {
+    "english": "Dormitory",
+    "pos": "n.",
+    "chinese": "学生宿舍",
+    "example": "Freshmen are usually required to live in the dormitory."
+  },
+  {
+    "english": "Dorm",
+    "pos": "n.",
+    "chinese": "宿舍（简称）",
+    "example": "My dorm is quite close to the library."
+  },
+  {
+    "english": "Residence Hall",
+    "pos": "n.",
+    "chinese": "学生宿舍楼",
+    "example": "The new residence hall has air conditioning in every room."
+  },
+  {
+    "english": "Dining Hall",
+    "pos": "n.",
+    "chinese": "学生食堂",
+    "example": "The food in the dining hall is actually quite good this semester."
+  },
+  {
+    "english": "Cafeteria",
+    "pos": "n.",
+    "chinese": "自助餐厅 / 食堂",
+    "example": "Let's grab a quick lunch at the cafeteria."
+  },
+  {
+    "english": "Student Union",
+    "pos": "n.",
+    "chinese": "学生活动中心",
+    "example": "Let's meet at the coffee shop in the student union."
+  },
+  {
+    "english": "Student Center",
+    "pos": "n.",
+    "chinese": "学生活动中心",
+    "example": "The club fair is being held in the student center."
+  },
+  {
+    "english": "Clinic",
+    "pos": "n.",
+    "chinese": "校医院 / 诊所",
+    "example": "You can get a flu shot at the campus clinic."
+  },
+  {
+    "english": "Health Center",
+    "pos": "n.",
+    "chinese": "医务室 / 健康中心",
+    "example": "If you feel sick, you should go to the campus health center."
+  },
+  {
+    "english": "Laundry Room",
+    "pos": "n.",
+    "chinese": "洗衣房",
+    "example": "There is a shared laundry room in the basement of our dorm."
+  },
+  {
+    "english": "Gymnasium",
+    "pos": "n.",
+    "chinese": "体育馆",
+    "example": "The indoor volleyball game is in the main gymnasium."
+  },
+  {
+    "english": "Gym",
+    "pos": "n.",
+    "chinese": "健身房 / 体育馆（简称）",
+    "example": "Many students go to the gym to work out after classes."
+  },
+  {
+    "english": "Stadium",
+    "pos": "n.",
+    "chinese": "体育场",
+    "example": "The football game will be held at the college stadium tonight."
+  },
+  {
+    "english": "Track and Field",
+    "pos": "n.",
+    "chinese": "田径场",
+    "example": "She runs five laps around the track and field every morning."
+  },
+  {
+    "english": "Basketball Court",
+    "pos": "n.",
+    "chinese": "篮球场",
+    "example": "The outdoor basketball court is always busy in the evening."
+  },
+  {
+    "english": "Tennis Court",
+    "pos": "n.",
+    "chinese": "网球场",
+    "example": "You need to book the tennis court in advance."
+  },
+  {
+    "english": "Quad",
+    "pos": "n.",
+    "chinese": "四方院 / 校园中心广场（简称）",
+    "example": "Students love to read on the grass in the quad when it's sunny."
+  },
+  {
+    "english": "Quadrangle",
+    "pos": "n.",
+    "chinese": "四方院 / 矩形广场",
+    "example": "The historic buildings surround the main quadrangle."
+  },
+  {
+    "english": "Administration Building",
+    "pos": "n.",
+    "chinese": "行政主楼",
+    "example": "You need to submit these forms to the administration building."
+  },
+  {
+    "english": "Admissions Office",
+    "pos": "n.",
+    "chinese": "招生办公室",
+    "example": "The admissions office is offering campus tours for prospective students."
+  },
+  {
+    "english": "Career Center",
+    "pos": "n.",
+    "chinese": "就业指导中心",
+    "example": "The career center helps students polish their resumes and find internships."
+  },
+  {
+    "english": "Campus Security",
+    "pos": "n.",
+    "chinese": "校园安保处 / 保卫处",
+    "example": "If you lose your ID card, please report it to campus security."
+  },
+  {
+    "english": "Main Gate",
+    "pos": "n.",
+    "chinese": "正门 / 主校门",
+    "example": "The shuttle bus leaves from the main gate every 15 minutes."
+  }
+]
