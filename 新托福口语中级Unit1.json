@@ -1,1 +1,164 @@
-
+[
+  {
+    "english": "exquisite",
+    "pos": "adj.",
+    "pronunciation": "/ɪkˈskwɪz.ɪt/",
+    "chinese": "精美的，精致的",
+    "example": "The hotel's dining room is decorated with exquisite chandeliers."
+  },
+  {
+    "english": "collaborative",
+    "pos": "adj.",
+    "pronunciation": "/kəˈlæb.ɚ.ə.t̬ɪv/",
+    "chinese": "合作的，协作的",
+    "example": "The project was a collaborative effort between the two departments."
+  },
+  {
+    "english": "exclusive",
+    "pos": "adj.",
+    "pronunciation": "/ɪkˈskluː.sɪv/",
+    "chinese": "专属的，独有的",
+    "example": "The club offers exclusive access to the private beach for its members."
+  },
+  {
+    "english": "passionate",
+    "pos": "adj.",
+    "pronunciation": "/ˈpæʃ.ən.ət/",
+    "chinese": "热情的，热衷的",
+    "example": "She is very passionate about environmental protection."
+  },
+  {
+    "english": "trail",
+    "pos": "n.",
+    "pronunciation": "/treɪl/",
+    "chinese": "小径；路径",
+    "example": "We followed a narrow trail through the forest to reach the lake."
+  },
+  {
+    "english": "self-portrait",
+    "pos": "n.",
+    "pronunciation": "/ˌselfˈpɔːr.trɪt/",
+    "chinese": "自画像",
+    "example": "Van Gogh is famous for his many emotional self-portraits."
+  },
+  {
+    "english": "ease academic stress",
+    "pos": "phrase",
+    "chinese": "缓解学业压力",
+    "example": "Listening to music can help students ease academic stress during finals."
+  },
+  {
+    "english": "beginner-friendly",
+    "pos": "phrase",
+    "chinese": "对新手友好的，适合初学者的",
+    "example": "This coding tutorial is very beginner-friendly and easy to follow."
+  },
+  {
+    "english": "social media account",
+    "pos": "phrase",
+    "chinese": "俱乐部社交媒体账号",
+    "example": "Don't forget to follow our official social media account for updates."
+  },
+  {
+    "english": "competition level",
+    "pos": "phrase",
+    "chinese": "竞赛级别的",
+    "example": "The school team is training hard to reach a professional competition level."
+  },
+  {
+    "english": "on a regular basis",
+    "pos": "phrase",
+    "chinese": "定期地，常规地",
+    "example": "We meet on a regular basis to discuss the progress of the project."
+  },
+  {
+    "english": "first-aid kit",
+    "pos": "phrase",
+    "chinese": "急救包",
+    "example": "Every hiker should carry a basic first-aid kit in their backpack."
+  },
+  {
+    "english": "free of charge",
+    "pos": "phrase",
+    "chinese": "免费的",
+    "example": "The museum offers guided tours free of charge on Sundays."
+  },
+  {
+    "english": "prior art skills",
+    "pos": "phrase",
+    "chinese": "先前的艺术技能",
+    "example": "No prior art skills are required to join this introductory painting class."
+  },
+  {
+    "english": "local art museums",
+    "pos": "phrase",
+    "chinese": "当地艺术博物馆",
+    "example": "The club often organizes field trips to local art museums."
+  },
+  {
+    "english": "light snack",
+    "pos": "phrase",
+    "chinese": "轻便小吃；小零食",
+    "example": "I'll pack some fruit and nuts as a light snack for the journey."
+  },
+  {
+    "english": "gain volunteer experience",
+    "pos": "phrase",
+    "chinese": "获得志愿者经验",
+    "example": "Students are encouraged to gain volunteer experience at the local shelter."
+  },
+  {
+    "english": "a wide range of",
+    "pos": "phrase",
+    "chinese": "广泛的；各种各样的",
+    "example": "The bookstore offers a wide range of titles from fiction to biography."
+  },
+  {
+    "english": "advanced math concept",
+    "pos": "phrase",
+    "chinese": "高阶数学概念",
+    "example": "Calculus involves many advanced math concepts that require deep study."
+  },
+  {
+    "english": "tough equation",
+    "pos": "phrase",
+    "chinese": "有难度的方程式",
+    "example": "It took the professor several minutes to solve the tough equation on the board."
+  },
+  {
+    "english": "STEM course and career",
+    "pos": "phrase",
+    "chinese": "科学、技术、工程、数学课程与职业",
+    "example": "Many girls are being encouraged to pursue STEM courses and careers."
+  },
+  {
+    "english": "photo editing trick",
+    "pos": "phrase",
+    "chinese": "照片编辑技巧",
+    "example": "He shared a useful photo editing trick to make the colors pop."
+  },
+  {
+    "english": "photography equipment",
+    "pos": "phrase",
+    "chinese": "摄影设备",
+    "example": "Professional photography equipment can be quite expensive to maintain."
+  },
+  {
+    "english": "feature excellent works",
+    "pos": "phrase",
+    "chinese": "展出来优秀作品",
+    "example": "The gallery will feature excellent works from young local artists."
+  },
+  {
+    "english": "useful and detailed feedback",
+    "pos": "phrase",
+    "chinese": "有用且详细的反馈",
+    "example": "The teacher gave me useful and detailed feedback on my essay."
+  },
+  {
+    "english": "debate competition",
+    "pos": "phrase",
+    "chinese": "辩论比赛",
+    "example": "Our school won first prize in the national debate competition."
+  }
+]
