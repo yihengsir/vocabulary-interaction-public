@@ -1,4 +1,3 @@
-
 [
   {
     "english": "plagiarism",
@@ -108,119 +107,102 @@
   {
     "english": "academic probation",
     "pos": "phrase",
-    "pronunciation": "/ˌæk.əˈdem.ɪk proʊˈbeɪ.ʃən/",
     "chinese": "学术留校察看",
     "example": "Students whose grades fall below a certain standard may be placed on academic probation."
   },
   {
     "english": "violate academic integrity",
     "pos": "phrase",
-    "pronunciation": "/ˈvaɪ.ə.leɪt ˌæk.əˈdem.ɪk ɪnˈteɡ.rə.t̬i/",
     "chinese": "违反学术诚信",
     "example": "Cheating on a final exam is a serious way to violate academic integrity."
   },
   {
     "english": "college admission interview",
     "pos": "phrase",
-    "pronunciation": "/ˈkɑː.lɪdʒ ədˈmɪʃ.ən ˈɪn.t̬ɚ.vjuː/",
     "chinese": "大学入学面试",
     "example": "He practiced answering common questions to prepare for his college admission interview."
   },
   {
     "english": "grab the audience's immediate attention",
     "pos": "phrase",
-    "pronunciation": "/ɡræb ði ˈɑː.di.ənsɪz ɪˈmiː.di.ət əˈten.ʃən/",
     "chinese": "立即吸引观众的注意力",
     "example": "A strong opening hook is essential to grab the audience's immediate attention."
   },
   {
     "english": "build professional networks",
     "pos": "phrase",
-    "pronunciation": "/bɪld prəˈfeʃ.ən.əl ˈnet.wɝːks/",
     "chinese": "建立职业人脉",
     "example": "Attending industry conferences is a great way to build professional networks."
   },
   {
     "english": "map out",
     "pos": "phrase",
-    "pronunciation": "/mæp aʊt/",
     "chinese": "规划；详细安排",
     "example": "We need to map out a clear strategy before launching the new product."
   },
   {
     "english": "freeze up",
     "pos": "phrase",
-    "pronunciation": "/friːz ʌp/",
     "chinese": "僵住；不知所措",
     "example": "It's completely normal to freeze up when speaking in front of a large crowd for the first time."
   },
   {
     "english": "job path",
     "pos": "phrase",
-    "pronunciation": "/dʒɑːb pæθ/",
     "chinese": "职业道路；职业发展路径",
     "example": "Choosing a job path requires careful consideration of your skills and long-term interests."
   },
   {
     "english": "guest speaker",
     "pos": "phrase",
-    "pronunciation": "/ɡest ˈspiː.kɚ/",
     "chinese": "嘉宾演讲者；特邀发言人",
     "example": "The university invited a famous entrepreneur to be the guest speaker at the graduation ceremony."
   },
   {
     "english": "internship plan",
     "pos": "phrase",
-    "pronunciation": "/ˈɪn.tɝːn.ʃɪp plæn/",
     "chinese": "实习计划",
     "example": "Her internship plan outlines the key marketing projects she will complete over the summer."
   },
   {
     "english": "career aspirations",
     "pos": "phrase",
-    "pronunciation": "/kəˈrɪr ˌæs.pəˈreɪ.ʃənz/",
     "chinese": "职业抱负",
     "example": "During the interview, the manager asked him about his long-term career aspirations."
   },
   {
     "english": "thesis statement",
     "pos": "phrase",
-    "pronunciation": "/ˈθiː.sɪs ˈsteɪt.mənt/",
     "chinese": "论点陈述",
     "example": "Your essay needs a clear and concise thesis statement in the introductory paragraph."
   },
   {
     "english": "align with",
     "pos": "phrase",
-    "pronunciation": "/əˈlaɪn wɪð/",
     "chinese": "与…… 一致；符合",
     "example": "Make sure your personal goals align with the core values of the company you want to work for."
   },
   {
     "english": "research paper",
     "pos": "phrase",
-    "pronunciation": "/ˈriː.sɝːtʃ ˈpeɪ.pɚ/",
     "chinese": "研究论文",
     "example": "She spent three weeks gathering data in the library for her final research paper."
   },
   {
     "english": "topic sentence",
     "pos": "phrase",
-    "pronunciation": "/ˈtɑː.pɪk ˈsen.təns/",
     "chinese": "主题句",
     "example": "Each paragraph should start with a strong topic sentence that introduces its main idea."
   },
   {
     "english": "citation style",
     "pos": "phrase",
-    "pronunciation": "/saɪˈteɪ.ʃən staɪl/",
     "chinese": "引用格式",
     "example": "The history professor requires all students to use the Chicago citation style for their assignments."
   },
   {
     "english": "business casual",
     "pos": "phrase",
-    "pronunciation": "/ˈbɪz.nɪs ˈkæʒ.u.əl/",
     "chinese": "商务休闲装",
     "example": "The dress code for our office is business casual, so you don't need to wear a full suit."
   }
