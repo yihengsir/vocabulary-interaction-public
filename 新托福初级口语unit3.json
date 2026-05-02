@@ -1,0 +1,134 @@
+[
+  {
+    "english": "microwave oven",
+    "pos": "n.",
+    "chinese": "微波炉",
+    "example": "There is a microwave oven in the dormitory kitchen."
+  },
+  {
+    "english": "laundry basket",
+    "pos": "n.",
+    "chinese": "洗衣篮",
+    "example": "Please put your dirty clothes in the laundry basket."
+  },
+  {
+    "english": "couch",
+    "pos": "n.",
+    "chinese": "沙发",
+    "example": "We sat on the couch and watched a movie."
+  },
+  {
+    "english": "bulletin board",
+    "pos": "n.",
+    "chinese": "公告板",
+    "example": "You can find the room numbers on the bulletin board."
+  },
+  {
+    "english": "sharpener",
+    "pos": "n.",
+    "chinese": "卷笔刀",
+    "example": "My pencil is blunt. Do you have a sharpener?"
+  },
+  {
+    "english": "detergent",
+    "pos": "n.",
+    "chinese": "洗涤剂",
+    "example": "Don't forget to buy laundry detergent before washing your clothes."
+  },
+  {
+    "english": "stain",
+    "pos": "n.",
+    "chinese": "污渍",
+    "example": "There is a coffee stain on my shirt."
+  },
+  {
+    "english": "charging sockets",
+    "pos": "n.",
+    "chinese": "充电插座",
+    "example": "The library has many charging sockets near the tables."
+  },
+  {
+    "english": "update",
+    "pos": "n.",
+    "chinese": "更新的信息",
+    "example": "Check the website for the latest update on exam schedules."
+  },
+  {
+    "english": "wrinkle",
+    "pos": "n.",
+    "chinese": "皱纹",
+    "example": "This shirt has many wrinkles. I need to iron it."
+  },
+  {
+    "english": "lounge",
+    "pos": "n.",
+    "chinese": "休息室",
+    "example": "Let's meet in the student lounge after class."
+  },
+  {
+    "english": "iron",
+    "pos": "n.",
+    "chinese": "熨斗",
+    "example": "Could you pass me the iron? I need to press my pants."
+  },
+  {
+    "english": "cart",
+    "pos": "n.",
+    "chinese": "手推车",
+    "example": "Use a cart to carry all those heavy books."
+  },
+  {
+    "english": "eraser",
+    "pos": "n.",
+    "chinese": "橡皮擦",
+    "example": "May I borrow your eraser? I made a mistake on my homework."
+  },
+  {
+    "english": "calculator",
+    "pos": "n.",
+    "chinese": "计算器",
+    "example": "You are allowed to use a calculator during the math test."
+  },
+  {
+    "english": "backpack",
+    "pos": "n.",
+    "chinese": "背包",
+    "example": "He always carries his laptop in his backpack."
+  },
+  {
+    "english": "printer",
+    "pos": "n.",
+    "chinese": "打印机",
+    "example": "The printer in the computer lab is out of paper."
+  },
+  {
+    "english": "librarian",
+    "pos": "n.",
+    "chinese": "图书管理员",
+    "example": "Ask the librarian if you need help finding a book."
+  },
+  {
+    "english": "scanner",
+    "pos": "n.",
+    "chinese": "扫描仪",
+    "example": "You can use the scanner to make digital copies of your notes."
+  },
+  {
+    "english": "counter",
+    "pos": "n.",
+    "chinese": "柜台",
+    "example": "Please return your books at the front counter."
+  },
+  {
+    "english": "staff",
+    "pos": "n.",
+    "chinese": "员工",
+    "example": "The library staff are very friendly and helpful."
+  },
+  {
+    "english": "swipe",
+    "pos": "v.",
+    "chinese": "刷（卡）",
+    "example": "You need to swipe your student ID card to enter the gym."
+  }
+]

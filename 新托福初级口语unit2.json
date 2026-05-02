@@ -1,0 +1,104 @@
+[
+  {
+    "english": "verify membership",
+    "pos": "phrase",
+    "chinese": "验证会员身份",
+    "example": "You need to verify your membership before you can borrow books."
+  },
+  {
+    "english": "due date",
+    "pos": "phrase",
+    "chinese": "到期日",
+    "example": "The due date for this assignment is next Monday."
+  },
+  {
+    "english": "checked-out items",
+    "pos": "phrase",
+    "chinese": "借出物品",
+    "example": "Please return all checked-out items to the library on time."
+  },
+  {
+    "english": "disturb wildlife",
+    "pos": "phrase",
+    "chinese": "惊扰野生动物",
+    "example": "Visitors are asked not to disturb wildlife in the park."
+  },
+  {
+    "english": "designated walkways",
+    "pos": "phrase",
+    "chinese": "指定人行道",
+    "example": "Please stay on the designated walkways to protect the grass."
+  },
+  {
+    "english": "maintain cleanliness",
+    "pos": "phrase",
+    "chinese": "保持清洁",
+    "example": "All students should help maintain cleanliness in the cafeteria."
+  },
+  {
+    "english": "security gates",
+    "pos": "phrase",
+    "chinese": "安检门",
+    "example": "You must pass through the security gates to enter the stadium."
+  },
+  {
+    "english": "parking spaces",
+    "pos": "phrase",
+    "chinese": "停车位",
+    "example": "There are only a few parking spaces available near the library."
+  },
+  {
+    "english": "expiration date",
+    "pos": "phrase",
+    "chinese": "保质期；有效期",
+    "example": "Always check the expiration date before buying milk."
+  },
+  {
+    "english": "return trays",
+    "pos": "phrase",
+    "chinese": "归还托盘",
+    "example": "Please return trays to the rack after finishing your meal."
+  },
+  {
+    "english": "are prohibited from",
+    "pos": "phrase",
+    "chinese": "被禁止",
+    "example": "Students are prohibited from using phones during the exam."
+  },
+  {
+    "english": "are forbidden to",
+    "pos": "phrase",
+    "chinese": "被禁止",
+    "example": "You are forbidden to enter the laboratory without permission."
+  },
+  {
+    "english": "are obligated to",
+    "pos": "phrase",
+    "chinese": "有义务",
+    "example": "Citizens are obligated to pay taxes according to the law."
+  },
+  {
+    "english": "are required to",
+    "pos": "phrase",
+    "chinese": "被要求",
+    "example": "All freshmen are required to live in dormitories."
+  },
+  {
+    "english": "are advised to",
+    "pos": "phrase",
+    "chinese": "被建议",
+    "example": "You are advised to arrive at the airport two hours early."
+  },
+  {
+    "english": "are recommended to",
+    "pos": "phrase",
+    "chinese": "被推荐",
+    "example": "Students are recommended to take at least one science course."
+  },
+  {
+    "english": "are supposed to",
+    "pos": "phrase",
+    "chinese": "应该",
+    "example": "You are supposed to turn off your phone in the lecture hall."
+  }
+]
