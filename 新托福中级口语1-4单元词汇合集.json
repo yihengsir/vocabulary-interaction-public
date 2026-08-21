@@ -1,0 +1,794 @@
+[
+  {
+    "english": "beginner-friendly",
+    "pos": "adj.",
+    "chinese": "适合初学者的",
+    "example": "This photography course is beginner-friendly, so students do not need any prior experience."
+  },
+  {
+    "english": "exquisite",
+    "pos": "adj.",
+    "chinese": "精美的；精致的",
+    "example": "The museum displayed an exquisite painting from the nineteenth century."
+  },
+  {
+    "english": "collaborative",
+    "pos": "adj.",
+    "chinese": "合作的；协作的",
+    "example": "The class uses collaborative projects to help students learn from one another."
+  },
+  {
+    "english": "exclusive",
+    "pos": "adj.",
+    "chinese": "独家的；专属的",
+    "example": "Members can attend exclusive workshops that are not open to the public."
+  },
+  {
+    "english": "passionate",
+    "pos": "adj.",
+    "chinese": "热情的；充满热爱的",
+    "example": "She is passionate about art and hopes to become a designer."
+  },
+  {
+    "english": "competition-level",
+    "pos": "adj.",
+    "chinese": "竞赛级别的",
+    "example": "The school offers competition-level training for students who want to enter contests."
+  },
+  {
+    "english": "trail",
+    "pos": "n.",
+    "chinese": "小径；步道",
+    "example": "We followed a quiet trail through the forest during the school trip."
+  },
+  {
+    "english": "self-portrait",
+    "pos": "n.",
+    "chinese": "自画像",
+    "example": "For the final project, each student has to create a self-portrait."
+  },
+  {
+    "english": "ease academic stress",
+    "pos": "v. phrase",
+    "chinese": "缓解学业压力",
+    "example": "Playing sports after class can help students ease academic stress."
+  },
+  {
+    "english": "social media account",
+    "pos": "n. phrase",
+    "chinese": "社交媒体账号",
+    "example": "The club uses its social media account to share event updates."
+  },
+  {
+    "english": "on a regular basis",
+    "pos": "adv. phrase",
+    "chinese": "定期地；经常地",
+    "example": "Students should review new vocabulary on a regular basis."
+  },
+  {
+    "english": "first-aid kit",
+    "pos": "n. phrase",
+    "chinese": "急救包",
+    "example": "Every school trip should include a first-aid kit in case someone gets hurt."
+  },
+  {
+    "english": "free of charge",
+    "pos": "adj. phrase",
+    "chinese": "免费的",
+    "example": "Students can use the campus gym free of charge."
+  },
+  {
+    "english": "prior art skills",
+    "pos": "n. phrase",
+    "chinese": "已有的美术技能",
+    "example": "You do not need prior art skills to join this beginner course."
+  },
+  {
+    "english": "local art museums",
+    "pos": "n. phrase",
+    "chinese": "当地艺术博物馆",
+    "example": "The class visits local art museums to learn about different styles."
+  },
+  {
+    "english": "light snack",
+    "pos": "n. phrase",
+    "chinese": "简便小吃；轻食",
+    "example": "The café sells drinks and light snacks for students between classes."
+  },
+  {
+    "english": "gain volunteer experience",
+    "pos": "v. phrase",
+    "chinese": "获得志愿服务经验",
+    "example": "Joining the event can help students gain volunteer experience."
+  },
+  {
+    "english": "a wide range of",
+    "pos": "adj. phrase",
+    "chinese": "各种各样的；广泛的",
+    "example": "The program offers a wide range of courses, from art to computer science."
+  },
+  {
+    "english": "advanced math concept",
+    "pos": "n. phrase",
+    "chinese": "高级数学概念",
+    "example": "The teacher explained the advanced math concept with a simple example."
+  },
+  {
+    "english": "tough equation",
+    "pos": "n. phrase",
+    "chinese": "难解的方程",
+    "example": "I asked my teacher for help when I could not solve a tough equation."
+  },
+  {
+    "english": "STEM course and career",
+    "pos": "n. phrase",
+    "chinese": "STEM课程和职业",
+    "example": "The workshop introduces students to different STEM courses and careers."
+  },
+  {
+    "english": "photo editing trick",
+    "pos": "n. phrase",
+    "chinese": "照片编辑技巧",
+    "example": "The instructor showed us a simple photo editing trick."
+  },
+  {
+    "english": "photography equipment",
+    "pos": "n. phrase",
+    "chinese": "摄影设备",
+    "example": "Students can borrow photography equipment from the media center."
+  },
+  {
+    "english": "feature excellent works",
+    "pos": "v. phrase",
+    "chinese": "展示优秀作品",
+    "example": "The school website will feature excellent works created by students."
+  },
+  {
+    "english": "useful and detailed feedback",
+    "pos": "n. phrase",
+    "chinese": "有用且详细的反馈",
+    "example": "The teacher gave me useful and detailed feedback on my presentation."
+  },
+  {
+    "english": "debate competition",
+    "pos": "n. phrase",
+    "chinese": "辩论比赛",
+    "example": "Our school team won second place in a debate competition."
+  },
+  {
+    "english": "plagiarism",
+    "pos": "n.",
+    "chinese": "抄袭；剽窃",
+    "example": "Plagiarism can lead to serious academic consequences."
+  },
+  {
+    "english": "citation",
+    "pos": "n.",
+    "chinese": "引用；引文",
+    "example": "You need a citation whenever you use information from another source."
+  },
+  {
+    "english": "cluttered",
+    "pos": "adj.",
+    "chinese": "杂乱的",
+    "example": "The slide looked cluttered because it contained too much text."
+  },
+  {
+    "english": "relatable",
+    "pos": "adj.",
+    "chinese": "容易产生共鸣的",
+    "example": "Her story was relatable because many students had similar experiences."
+  },
+  {
+    "english": "overview",
+    "pos": "n.",
+    "chinese": "概述；概览",
+    "example": "The professor gave us a short overview of the course on the first day."
+  },
+  {
+    "english": "objective",
+    "pos": "adj.",
+    "chinese": "客观的",
+    "example": "A good research paper should be clear and objective."
+  },
+  {
+    "english": "draft",
+    "pos": "n.",
+    "chinese": "草稿",
+    "example": "I finished the first draft of my essay last night."
+  },
+  {
+    "english": "expulsion",
+    "pos": "n.",
+    "chinese": "开除；退学处分",
+    "example": "Repeated cheating can result in expulsion from school."
+  },
+  {
+    "english": "beforehand",
+    "pos": "adv.",
+    "chinese": "事先；提前",
+    "example": "I prepared several questions beforehand for the interview."
+  },
+  {
+    "english": "panic",
+    "pos": "v./n.",
+    "chinese": "惊慌；恐慌",
+    "example": "Do not panic if you forget one point during your speech."
+  },
+  {
+    "english": "resume",
+    "pos": "n.",
+    "chinese": "简历",
+    "example": "A clear resume can help you make a good first impression on employers."
+  },
+  {
+    "english": "evidence",
+    "pos": "n.",
+    "chinese": "证据",
+    "example": "You should use strong evidence to support your main idea."
+  },
+  {
+    "english": "thoroughly",
+    "pos": "adv.",
+    "chinese": "彻底地；全面地",
+    "example": "I reviewed my notes thoroughly before the exam."
+  },
+  {
+    "english": "appropriate",
+    "pos": "adj.",
+    "chinese": "合适的；恰当的",
+    "example": "Business casual clothes are appropriate for many interviews."
+  },
+  {
+    "english": "violate academic integrity",
+    "pos": "v. phrase",
+    "chinese": "违反学术诚信",
+    "example": "Copying another student’s work can violate academic integrity."
+  },
+  {
+    "english": "college admission interview",
+    "pos": "n. phrase",
+    "chinese": "大学入学面试",
+    "example": "I practiced common questions before my college admission interview."
+  },
+  {
+    "english": "grab the audience’s immediate attention",
+    "pos": "v. phrase",
+    "chinese": "立刻吸引观众的注意力",
+    "example": "A surprising fact can grab the audience’s immediate attention."
+  },
+  {
+    "english": "build professional networks",
+    "pos": "v. phrase",
+    "chinese": "建立职业人脉",
+    "example": "Internships allow students to build professional networks before graduation."
+  },
+  {
+    "english": "map out",
+    "pos": "v. phrase",
+    "chinese": "规划；制定",
+    "example": "I like to map out my study plan at the beginning of each week."
+  },
+  {
+    "english": "freeze up",
+    "pos": "v. phrase",
+    "chinese": "突然紧张得说不出话；僵住",
+    "example": "Some students freeze up when they have to speak in front of a large audience."
+  },
+  {
+    "english": "job path",
+    "pos": "n. phrase",
+    "chinese": "职业道路",
+    "example": "Talking to professionals can help students understand a possible job path."
+  },
+  {
+    "english": "guest speaker",
+    "pos": "n. phrase",
+    "chinese": "特邀演讲者",
+    "example": "The guest speaker shared her experience working in the technology industry."
+  },
+  {
+    "english": "internship plan",
+    "pos": "n. phrase",
+    "chinese": "实习计划",
+    "example": "I discussed my internship plan with my academic adviser."
+  },
+  {
+    "english": "career aspirations",
+    "pos": "n. phrase",
+    "chinese": "职业理想；职业抱负",
+    "example": "The interview helped me think more clearly about my career aspirations."
+  },
+  {
+    "english": "thesis statement",
+    "pos": "n. phrase",
+    "chinese": "论文中心论点",
+    "example": "A strong thesis statement tells readers the main point of the paper."
+  },
+  {
+    "english": "align with",
+    "pos": "v. phrase",
+    "chinese": "与……一致；符合",
+    "example": "This course aligns with my future career goals."
+  },
+  {
+    "english": "research paper",
+    "pos": "n. phrase",
+    "chinese": "研究论文",
+    "example": "We have to write a ten-page research paper by the end of the semester."
+  },
+  {
+    "english": "topic sentences",
+    "pos": "n. phrase",
+    "chinese": "主题句",
+    "example": "Clear topic sentences make an essay easier to follow."
+  },
+  {
+    "english": "citation style",
+    "pos": "n. phrase",
+    "chinese": "引用格式",
+    "example": "The professor asked us to use the same citation style throughout the paper."
+  },
+  {
+    "english": "business casual",
+    "pos": "n. phrase",
+    "chinese": "商务休闲装",
+    "example": "The company recommends business casual for the interview."
+  },
+  {
+    "english": "academic probation",
+    "pos": "n. phrase",
+    "chinese": "学业留校察看",
+    "example": "Students with very low grades may be placed on academic probation."
+  },
+  {
+    "english": "visual aid",
+    "pos": "n. phrase",
+    "chinese": "视觉辅助材料",
+    "example": "A simple chart can be an effective visual aid during a presentation."
+  },
+  {
+    "english": "replenish",
+    "pos": "v.",
+    "chinese": "补充；补足",
+    "example": "The staff replenishes the drinks every morning."
+  },
+  {
+    "english": "out-of-stock",
+    "pos": "adj.",
+    "chinese": "缺货的",
+    "example": "The notebook I wanted was out of stock, so I chose another one."
+  },
+  {
+    "english": "checkout",
+    "pos": "n.",
+    "chinese": "结账处；结账",
+    "example": "The line at the checkout was long after lunch."
+  },
+  {
+    "english": "mascot",
+    "pos": "n.",
+    "chinese": "吉祥物",
+    "example": "The school mascot appears on many T-shirts and stickers."
+  },
+  {
+    "english": "restock",
+    "pos": "v.",
+    "chinese": "补货",
+    "example": "The store needs to restock bottled water before the weekend."
+  },
+  {
+    "english": "sticker",
+    "pos": "n.",
+    "chinese": "贴纸",
+    "example": "I put a school sticker on my laptop."
+  },
+  {
+    "english": "refrigerated display",
+    "pos": "n. phrase",
+    "chinese": "冷藏展示柜",
+    "example": "The sandwiches are kept in a refrigerated display near the entrance."
+  },
+  {
+    "english": "cultural T-shirt",
+    "pos": "n. phrase",
+    "chinese": "文化主题T恤",
+    "example": "The shop sells cultural T-shirts with local designs."
+  },
+  {
+    "english": "international cuisine",
+    "pos": "n. phrase",
+    "chinese": "国际美食",
+    "example": "The food festival lets students try different international cuisines."
+  },
+  {
+    "english": "diverse taste",
+    "pos": "n. phrase",
+    "chinese": "多样的口味",
+    "example": "The cafeteria offers many dishes to satisfy diverse tastes."
+  },
+  {
+    "english": "process payment",
+    "pos": "v. phrase",
+    "chinese": "处理付款",
+    "example": "The cashier can process payment by card or phone."
+  },
+  {
+    "english": "collect tray",
+    "pos": "v. phrase",
+    "chinese": "收餐盘",
+    "example": "Students should collect their trays after finishing lunch."
+  },
+  {
+    "english": "scan barcode",
+    "pos": "v. phrase",
+    "chinese": "扫描条形码",
+    "example": "The cashier scans the barcode before putting the item in the bag."
+  },
+  {
+    "english": "inventory list",
+    "pos": "n. phrase",
+    "chinese": "库存清单",
+    "example": "The manager checks the inventory list before ordering more products."
+  },
+  {
+    "english": "expiration date",
+    "pos": "n. phrase",
+    "chinese": "保质期；有效期",
+    "example": "Always check the expiration date before buying milk."
+  },
+  {
+    "english": "reminder message",
+    "pos": "n. phrase",
+    "chinese": "提醒信息",
+    "example": "The system sends a reminder message one day before the deadline."
+  },
+  {
+    "english": "due date",
+    "pos": "n. phrase",
+    "chinese": "截止日期",
+    "example": "The due date for the project is next Friday."
+  },
+  {
+    "english": "designated shelf",
+    "pos": "n. phrase",
+    "chinese": "指定货架",
+    "example": "Please return the books to the designated shelf."
+  },
+  {
+    "english": "cardio machine",
+    "pos": "n. phrase",
+    "chinese": "有氧器械",
+    "example": "I usually use a cardio machine for twenty minutes before lifting weights."
+  },
+  {
+    "english": "free weight",
+    "pos": "n. phrase",
+    "chinese": "自由重量器械",
+    "example": "The gym has a separate area for free weights."
+  },
+  {
+    "english": "wipe equipment",
+    "pos": "v. phrase",
+    "chinese": "擦拭器械",
+    "example": "Members should wipe the equipment after using it."
+  },
+  {
+    "english": "rowing machine",
+    "pos": "n. phrase",
+    "chinese": "划船机",
+    "example": "The rowing machine gives you a good full-body workout."
+  },
+  {
+    "english": "locker room",
+    "pos": "n. phrase",
+    "chinese": "更衣室",
+    "example": "I left my backpack in the locker room before class."
+  },
+  {
+    "english": "storage locker",
+    "pos": "n. phrase",
+    "chinese": "储物柜",
+    "example": "Students can rent a storage locker for the semester."
+  },
+  {
+    "english": "fitness class",
+    "pos": "n. phrase",
+    "chinese": "健身课程",
+    "example": "I signed up for a fitness class with my roommate."
+  },
+  {
+    "english": "wrap present",
+    "pos": "v. phrase",
+    "chinese": "包装礼物",
+    "example": "The store can wrap the present for you at no extra cost."
+  },
+  {
+    "english": "logo-printed paper",
+    "pos": "n. phrase",
+    "chinese": "印有标志的纸张",
+    "example": "The gift was wrapped in logo-printed paper from the school store."
+  },
+  {
+    "english": "meet quality standard",
+    "pos": "v. phrase",
+    "chinese": "达到质量标准",
+    "example": "All products must meet the school’s quality standard before they are sold."
+  },
+  {
+    "english": "tutorial session",
+    "pos": "n. phrase",
+    "chinese": "辅导课",
+    "example": "I attended a tutorial session to review the hardest part of the lesson."
+  },
+  {
+    "english": "grade assignment",
+    "pos": "v. phrase",
+    "chinese": "批改作业；给作业评分",
+    "example": "The teaching assistant helps grade assignments every week."
+  },
+  {
+    "english": "review difficult key concept",
+    "pos": "v. phrase",
+    "chinese": "复习困难的核心概念",
+    "example": "The teacher spent extra time reviewing a difficult key concept before the test."
+  },
+  {
+    "english": "adjust lecture slide",
+    "pos": "v. phrase",
+    "chinese": "调整讲课幻灯片",
+    "example": "The professor adjusted the lecture slides after receiving student feedback."
+  },
+  {
+    "english": "remind classmate",
+    "pos": "v. phrase",
+    "chinese": "提醒同学",
+    "example": "I reminded my classmate about our group meeting."
+  },
+  {
+    "english": "reduce stress and anxiety",
+    "pos": "v. phrase",
+    "chinese": "减轻压力和焦虑",
+    "example": "Regular exercise can reduce stress and anxiety before exams."
+  },
+  {
+    "english": "clarify key concept",
+    "pos": "v. phrase",
+    "chinese": "澄清核心概念",
+    "example": "The example helped clarify a key concept from the lecture."
+  },
+  {
+    "english": "scholarship",
+    "pos": "n.",
+    "chinese": "奖学金",
+    "example": "She received a scholarship that covered most of her tuition."
+  },
+  {
+    "english": "factual",
+    "pos": "adj.",
+    "chinese": "基于事实的；事实性的",
+    "example": "The report should be factual rather than based on personal opinions."
+  },
+  {
+    "english": "initial",
+    "pos": "adj.",
+    "chinese": "最初的；初始的",
+    "example": "My initial plan was to study business, but I later changed my major."
+  },
+  {
+    "english": "intelligible",
+    "pos": "adj.",
+    "chinese": "清楚易懂的",
+    "example": "His explanation was simple and intelligible even for beginners."
+  },
+  {
+    "english": "precise",
+    "pos": "adj.",
+    "chinese": "准确的；精确的",
+    "example": "Please give precise examples to support your opinion."
+  },
+  {
+    "english": "routine",
+    "pos": "adj./n.",
+    "chinese": "常规的；日常惯例",
+    "example": "Checking my schedule every morning is part of my daily routine."
+  },
+  {
+    "english": "humanity",
+    "pos": "n.",
+    "chinese": "人类；人性",
+    "example": "The course discusses major problems facing humanity today."
+  },
+  {
+    "english": "philosophy",
+    "pos": "n.",
+    "chinese": "哲学",
+    "example": "I took a philosophy class because I enjoy discussing big questions."
+  },
+  {
+    "english": "grant",
+    "pos": "v./n.",
+    "chinese": "授予；拨款",
+    "example": "The university granted him extra time to finish the project."
+  },
+  {
+    "english": "insist",
+    "pos": "v.",
+    "chinese": "坚持认为；坚称",
+    "example": "My professor insists that we cite every outside source."
+  },
+  {
+    "english": "field",
+    "pos": "n.",
+    "chinese": "领域；场地",
+    "example": "She hopes to work in the field of environmental science."
+  },
+  {
+    "english": "reschedule",
+    "pos": "v.",
+    "chinese": "重新安排时间",
+    "example": "We had to reschedule the meeting because two members were absent."
+  },
+  {
+    "english": "like-minded",
+    "pos": "adj.",
+    "chinese": "志同道合的",
+    "example": "The club helps students meet like-minded people with similar interests."
+  },
+  {
+    "english": "financial aid",
+    "pos": "n. phrase",
+    "chinese": "经济资助",
+    "example": "Many students apply for financial aid to help pay for college."
+  },
+  {
+    "english": "financial burdens",
+    "pos": "n. phrase",
+    "chinese": "经济负担",
+    "example": "Scholarships can reduce financial burdens on students and their families."
+  },
+  {
+    "english": "part-time job",
+    "pos": "n. phrase",
+    "chinese": "兼职工作",
+    "example": "I have a part-time job at the campus bookstore."
+  },
+  {
+    "english": "sign up for",
+    "pos": "v. phrase",
+    "chinese": "报名参加",
+    "example": "I decided to sign up for a public speaking course."
+  },
+  {
+    "english": "clash with",
+    "pos": "v. phrase",
+    "chinese": "与……冲突",
+    "example": "My volunteer shift clashes with my chemistry class."
+  },
+  {
+    "english": "pick up habits",
+    "pos": "v. phrase",
+    "chinese": "养成习惯",
+    "example": "Students often pick up good study habits from organized classmates."
+  },
+  {
+    "english": "care deeply about",
+    "pos": "v. phrase",
+    "chinese": "非常关心；十分在意",
+    "example": "I care deeply about environmental protection and animal welfare."
+  },
+  {
+    "english": "the growing issue of",
+    "pos": "n. phrase",
+    "chinese": "日益严重的……问题",
+    "example": "The lecture focused on the growing issue of online misinformation."
+  },
+  {
+    "english": "stay in textbooks",
+    "pos": "v. phrase",
+    "chinese": "停留在课本中",
+    "example": "Knowledge should not stay in textbooks; students should learn how to use it."
+  },
+  {
+    "english": "align with",
+    "pos": "v. phrase",
+    "chinese": "与……一致；符合",
+    "example": "This course aligns with my future career goals."
+  },
+  {
+    "english": "bridge the gap between ... and ...",
+    "pos": "v. phrase",
+    "chinese": "弥合……与……之间的差距",
+    "example": "Internships can bridge the gap between classroom learning and real work."
+  },
+  {
+    "english": "know about",
+    "pos": "v. phrase",
+    "chinese": "了解",
+    "example": "Students should know about different career options before choosing a major."
+  },
+  {
+    "english": "put it into action",
+    "pos": "v. phrase",
+    "chinese": "付诸行动",
+    "example": "Learning a skill is useful only when you can put it into action."
+  },
+  {
+    "english": "maintain higher focus and efficiency",
+    "pos": "v. phrase",
+    "chinese": "保持更高的专注度和效率",
+    "example": "A quiet study space helps me maintain higher focus and efficiency."
+  },
+  {
+    "english": "fit well with daily plans",
+    "pos": "v. phrase",
+    "chinese": "很好地融入日常计划",
+    "example": "Online classes can fit well with students’ daily plans."
+  },
+  {
+    "english": "avoid scheduling conflicts",
+    "pos": "v. phrase",
+    "chinese": "避免时间安排冲突",
+    "example": "Using a shared calendar can help group members avoid scheduling conflicts."
+  },
+  {
+    "english": "boost future career prospects",
+    "pos": "v. phrase",
+    "chinese": "提升未来职业前景",
+    "example": "Learning a second language can boost future career prospects."
+  },
+  {
+    "english": "promote critical thinking",
+    "pos": "v. phrase",
+    "chinese": "促进批判性思维",
+    "example": "Class discussions can promote critical thinking by exposing students to different ideas."
+  },
+  {
+    "english": "promote cross-cultural understanding",
+    "pos": "v. phrase",
+    "chinese": "促进跨文化理解",
+    "example": "Study-abroad programs can promote cross-cultural understanding."
+  },
+  {
+    "english": "develop empathy",
+    "pos": "v. phrase",
+    "chinese": "培养同理心",
+    "example": "Reading stories about different lives can help students develop empathy."
+  },
+  {
+    "english": "equip ... with practical technical skills",
+    "pos": "v. phrase",
+    "chinese": "使……掌握实用技术技能",
+    "example": "STEM programs can equip students with practical technical skills."
+  },
+  {
+    "english": "solve real-world issues",
+    "pos": "v. phrase",
+    "chinese": "解决现实问题",
+    "example": "Engineering students often use classroom knowledge to solve real-world issues."
+  },
+  {
+    "english": "combine my interest in ... with problem-solving",
+    "pos": "v. phrase",
+    "chinese": "把我对……的兴趣与解决问题结合起来",
+    "example": "Computer science lets me combine my interest in technology with problem-solving."
+  },
+  {
+    "english": "a key skill for social interactions",
+    "pos": "n. phrase",
+    "chinese": "社交互动中的一项关键技能",
+    "example": "Empathy is a key skill for social interactions."
+  },
+  {
+    "english": "increase competition while reducing cooperation",
+    "pos": "v. phrase",
+    "chinese": "增加竞争同时减少合作",
+    "example": "Too many individual rewards may increase competition while reducing cooperation."
+  },
+  {
+    "english": "build close relationships",
+    "pos": "v. phrase",
+    "chinese": "建立亲密关系",
+    "example": "Group activities can help students build close relationships with classmates."
+  }
+]
