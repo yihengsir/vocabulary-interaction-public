@@ -1,0 +1,302 @@
+[
+  {
+    "english": "dissolve",
+    "pos": "v.",
+    "chinese": "溶解",
+    "example": ""
+  },
+  {
+    "english": "favor",
+    "pos": "v.",
+    "chinese": "偏向；更倾向于支持",
+    "example": ""
+  },
+  {
+    "english": "freezing",
+    "pos": "n.",
+    "chinese": "冰点；结冰的温度",
+    "example": ""
+  },
+  {
+    "english": "hinder",
+    "pos": "n.",
+    "chinese": "阻碍；妨碍",
+    "example": ""
+  },
+  {
+    "english": "ninety",
+    "pos": "n.",
+    "chinese": "九十（用于构成1990年代等）",
+    "example": ""
+  },
+  {
+    "english": "outward",
+    "pos": "adv.",
+    "chinese": "向外地；朝外地",
+    "example": ""
+  },
+  {
+    "english": "pine",
+    "pos": "adj.",
+    "chinese": "松树的；松木的",
+    "example": ""
+  },
+  {
+    "english": "shimmer",
+    "pos": "n.",
+    "chinese": "微光闪烁；闪烁的光泽",
+    "example": ""
+  },
+  {
+    "english": "surrounding",
+    "pos": "n.",
+    "chinese": "周围环境；四周",
+    "example": ""
+  },
+  {
+    "english": "tax",
+    "pos": "v.",
+    "chinese": "使耗费精力；使劳累",
+    "example": ""
+  },
+  {
+    "english": "wrench",
+    "pos": "n.",
+    "chinese": "扳手；阻碍因素",
+    "example": ""
+  },
+  {
+    "english": "yield",
+    "pos": "n.",
+    "chinese": "产量；产出",
+    "example": ""
+  },
+  {
+    "english": "arm",
+    "pos": "n.",
+    "chinese": "臂；触手；手臂",
+    "example": ""
+  },
+  {
+    "english": "adaptable",
+    "pos": "adj.",
+    "chinese": "适应能力强的；能适应的",
+    "example": ""
+  },
+  {
+    "english": "adequate",
+    "pos": "adj.",
+    "chinese": "足够的；充足的",
+    "example": ""
+  },
+  {
+    "english": "altar",
+    "pos": "n.",
+    "chinese": "祭坛",
+    "example": ""
+  },
+  {
+    "english": "alternate",
+    "pos": "v.",
+    "chinese": "交替使用；轮换",
+    "example": ""
+  },
+  {
+    "english": "axe",
+    "pos": "n.",
+    "chinese": "斧头",
+    "example": ""
+  },
+  {
+    "english": "barrier",
+    "pos": "n.",
+    "chinese": "屏障；障碍物",
+    "example": ""
+  },
+  {
+    "english": "bind",
+    "pos": "v.",
+    "chinese": "使结合；黏合",
+    "example": ""
+  },
+  {
+    "english": "capability",
+    "pos": "n.",
+    "chinese": "能力；性能",
+    "example": ""
+  },
+  {
+    "english": "cathedral",
+    "pos": "n.",
+    "chinese": "大教堂",
+    "example": ""
+  },
+  {
+    "english": "characteristic",
+    "pos": "adj.",
+    "chinese": "典型的；特有的",
+    "example": ""
+  },
+  {
+    "english": "coherent",
+    "pos": "adj.",
+    "chinese": "连贯的；一致的",
+    "example": ""
+  },
+  {
+    "english": "commerce",
+    "pos": "n.",
+    "chinese": "商业；贸易",
+    "example": ""
+  },
+  {
+    "english": "compensate",
+    "pos": "v.",
+    "chinese": "补偿；弥补",
+    "example": ""
+  },
+  {
+    "english": "compromise",
+    "pos": "v.",
+    "chinese": "损害；削弱",
+    "example": ""
+  },
+  {
+    "english": "crab",
+    "pos": "n.",
+    "chinese": "蟹（甲壳类节肢动物）",
+    "example": ""
+  },
+  {
+    "english": "crawl",
+    "pos": "v.",
+    "chinese": "爬行；缓慢移动",
+    "example": ""
+  },
+  {
+    "english": "decorate",
+    "pos": "v.",
+    "chinese": "装饰；点缀",
+    "example": ""
+  },
+  {
+    "english": "deliberate",
+    "pos": "adj.",
+    "chinese": "故意的；有意的",
+    "example": ""
+  },
+  {
+    "english": "discipline",
+    "pos": "n.",
+    "chinese": "学科；领域",
+    "example": ""
+  },
+  {
+    "english": "ease",
+    "pos": "n.",
+    "chinese": "容易；便利；轻松",
+    "example": ""
+  },
+  {
+    "english": "emergence",
+    "pos": "n.",
+    "chinese": "出现；兴起",
+    "example": ""
+  },
+  {
+    "english": "essentially",
+    "pos": "adv.",
+    "chinese": "基本上；本质上",
+    "example": ""
+  },
+  {
+    "english": "exceptional",
+    "pos": "adj.",
+    "chinese": "例外的；独特的",
+    "example": ""
+  },
+  {
+    "english": "exceptionally",
+    "pos": "adv.",
+    "chinese": "极其；异常地",
+    "example": ""
+  },
+  {
+    "english": "exhaustion",
+    "pos": "n.",
+    "chinese": "精疲力竭；耗尽",
+    "example": ""
+  },
+  {
+    "english": "existing",
+    "pos": "adj.",
+    "chinese": "先前的；已有的",
+    "example": ""
+  },
+  {
+    "english": "expressive",
+    "pos": "adj.",
+    "chinese": "富有表现力的",
+    "example": ""
+  },
+  {
+    "english": "extensive",
+    "pos": "adj.",
+    "chinese": "广阔的；大面积的",
+    "example": ""
+  },
+  {
+    "english": "fame",
+    "pos": "n.",
+    "chinese": "名声；声誉",
+    "example": ""
+  },
+  {
+    "english": "fascination",
+    "pos": "n.",
+    "chinese": "着迷；浓厚兴趣",
+    "example": ""
+  },
+  {
+    "english": "fiber",
+    "pos": "n.",
+    "chinese": "纤维",
+    "example": ""
+  },
+  {
+    "english": "financially",
+    "pos": "adv.",
+    "chinese": "经济上；财务上",
+    "example": ""
+  },
+  {
+    "english": "finely",
+    "pos": "adv.",
+    "chinese": "精细地；细致地",
+    "example": ""
+  },
+  {
+    "english": "fingernail",
+    "pos": "n.",
+    "chinese": "手指甲",
+    "example": ""
+  },
+  {
+    "english": "genuine",
+    "pos": "adj.",
+    "chinese": "真正的；真实的",
+    "example": ""
+  },
+  {
+    "english": "genuinely",
+    "pos": "adv.",
+    "chinese": "真正地；确实地",
+    "example": ""
+  },
+  {
+    "english": "god",
+    "pos": "n.",
+    "chinese": "神；神明",
+    "example": ""
+  }
+]

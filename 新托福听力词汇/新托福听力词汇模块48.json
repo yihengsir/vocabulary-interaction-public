@@ -1,0 +1,302 @@
+[
+  {
+    "english": "biologist",
+    "pos": "n.",
+    "chinese": "生物学家",
+    "example": "In 1967, astronomer Carl Sagan and biologist Harold Morowitz published a provocative paper in the journal Nature."
+  },
+  {
+    "english": "centric",
+    "pos": "adj.",
+    "chinese": "以…为中心的；以…为核心的",
+    "example": "LEDs that can purify the air, improve your mood through human-centric lighting, or even transmit data in a system known as Li-Fi."
+  },
+  {
+    "english": "childlike",
+    "pos": "adj.",
+    "chinese": "孩子般的；稚气的（常含贬义，指不成熟）",
+    "example": "Unfortunately, this led to some critics saying his work, such as the Migration series, was childlike or even crude."
+  },
+  {
+    "english": "clothe",
+    "pos": "n.",
+    "chinese": "衣服；衣物（总称）",
+    "example": "These days, Frida Kahlo's best-known artworks are her paintings, especially her self-portraits, showing her with a serious expression, thick eyebrows and traditional Mexican clothes."
+  },
+  {
+    "english": "co",
+    "pos": "affix",
+    "chinese": "共同（前缀，表示“一起、共同”）",
+    "example": "It sees humans and other species, animals, plants, even fungi, as co participants in shared worlds."
+  },
+  {
+    "english": "columbian",
+    "pos": "adj.",
+    "chinese": "哥伦布时期之前的（美洲）",
+    "example": "Poverty Point is a testament to the advanced engineering skills of pre-Columbian societies in North America."
+  },
+  {
+    "english": "compressive",
+    "pos": "adj.",
+    "chinese": "压缩的；抗压的",
+    "example": "Concrete has excellent compressive strength, meaning it can be squeezed hard without breaking."
+  },
+  {
+    "english": "concentric",
+    "pos": "adj.",
+    "chinese": "同心的（围绕同一中心）",
+    "example": "The builders created massive earth and mounds, some arranged in concentric half-circles."
+  },
+  {
+    "english": "conditioning",
+    "pos": "n.",
+    "chinese": "（空气）调节；空调",
+    "example": "That means less need for air conditioning and more natural comfort."
+  },
+  {
+    "english": "confrontation",
+    "pos": "n.",
+    "chinese": "对抗；冲突；对峙",
+    "example": "When a male isn't having a confrontation with another male in the aquarium, though, his scarlet hue is less bright."
+  },
+  {
+    "english": "corrosion",
+    "pos": "n.",
+    "chinese": "腐蚀；侵蚀",
+    "example": "Environmental factors, particularly in regions with salty air like coastal areas, can lead to steel corrosion, which affects its strength."
+  },
+  {
+    "english": "critique",
+    "pos": "n.",
+    "chinese": "批评；评论性意见",
+    "example": "It's a fair critique."
+  },
+  {
+    "english": "cylindrical",
+    "pos": "adj.",
+    "chinese": "圆柱形的",
+    "example": "And because the pipes are cylindrical, not conical like some other wind instruments, it produces a sound that's rich and sharp."
+  },
+  {
+    "english": "detour",
+    "pos": "n.",
+    "chinese": "绕行路线；偏离直路的迂回路径",
+    "example": "Now, with the help of new tracking devices, scientists can track precise routes, including stopover points and even detours."
+  },
+  {
+    "english": "diagonal",
+    "pos": "adj.",
+    "chinese": "对角线的；斜向的",
+    "example": "In the painting, Lawrence used bold colors and strong diagonal shapes to create a sense of motion, which is representative of many of his paintings."
+  },
+  {
+    "english": "distinct",
+    "pos": "adj.",
+    "chinese": "独特的；明显不同的",
+    "example": "The stargazer fish is recognized for its distinct eyes, which face upward."
+  },
+  {
+    "english": "downside",
+    "pos": "n.",
+    "chinese": "缺点；不利的一面",
+    "example": "This portability also had a downside; however, tapestries were susceptible to damage during transit."
+  },
+  {
+    "english": "drafter",
+    "pos": "n.",
+    "chinese": "绘图员；制图者",
+    "example": "But he taught himself, practiced on his own to be a drafter, someone who makes technical drawings."
+  },
+  {
+    "english": "dreamlike",
+    "pos": "adj.",
+    "chinese": "梦幻般的；如梦的",
+    "example": "In literature, authors like Franz Kafka explored themes of alienation and existential angst in his bizarre, dreamlike fiction."
+  },
+  {
+    "english": "dutch",
+    "pos": "adj.",
+    "chinese": "荷兰的；荷兰人的",
+    "example": "Consider the work of Dutch artist Samuel van Hoogstraten, whose paintings gave viewers the illusion of stepping into another room or looking through a window."
+  },
+  {
+    "english": "entangled",
+    "pos": "adj.",
+    "chinese": "纠缠的；紧密交织的",
+    "example": "Next, I'll explore how this multi-species perspective reshapes research methods, what it means to study not just human cultures, but the entangled lives of humans and other beings."
+  },
+  {
+    "english": "excavation",
+    "pos": "n.",
+    "chinese": "挖掘；发掘",
+    "example": "But the excavation of the ancient site of Gobekli Tepe threw a wrench in this whole story."
+  },
+  {
+    "english": "experimentation",
+    "pos": "n.",
+    "chinese": "实验；试验",
+    "example": "To address these challenges, some startups adopt a strategy that emphasizes speed, experimentation, and customer feedback."
+  },
+  {
+    "english": "fiberglas",
+    "pos": "n.",
+    "chinese": "玻璃纤维（一种轻质高强度的合成材料）",
+    "example": "Alternatives like stainless steel or fiberglass being explored, but they come with higher costs."
+  },
+  {
+    "english": "footprint",
+    "pos": "n.",
+    "chinese": "碳足迹（人类活动产生的温室气体排放总量）",
+    "example": "So that lowers electricity bills and also significantly reduces the carbon footprint."
+  },
+  {
+    "english": "forage",
+    "pos": "v.",
+    "chinese": "觅食；搜寻（食物或资源）",
+    "example": "Take the studies of mushroom foraging in Siberia."
+  },
+  {
+    "english": "fresco",
+    "pos": "n.",
+    "chinese": "湿壁画（在湿灰泥墙上绘制的画）",
+    "example": "Unlike frescoes, which was the walls, tapestries could be rolled up and transported from one location to another, allowing their owners to display their wealth wherever they went."
+  },
+  {
+    "english": "freshwater",
+    "pos": "n.",
+    "chinese": "淡水的；淡水（非海水的水）",
+    "example": "It's actually real life: Scarlet Badis, a freshwater fish."
+  },
+  {
+    "english": "fundamentally",
+    "pos": "adv.",
+    "chinese": "根本上；从根本上",
+    "example": "Social media platforms offer new arenas for interaction, and these virtual public spaces are fundamentally altering the traditional public sphere."
+  },
+  {
+    "english": "fungi",
+    "pos": "v.",
+    "chinese": "真菌（包括霉菌和蘑菇等）",
+    "example": "It sees humans and other species, animals, plants, even fungi, as co participants in shared worlds."
+  },
+  {
+    "english": "geometry",
+    "pos": "n.",
+    "chinese": "几何学（研究形状、大小和空间关系的数学分支）",
+    "example": "Um, that required significant understanding of geometry, um, now these structures were made without metal tools."
+  },
+  {
+    "english": "gracefully",
+    "pos": "adv.",
+    "chinese": "优雅地；优美地",
+    "example": "This slippery film is what allows skaters to move so gracefully."
+  },
+  {
+    "english": "grandeur",
+    "pos": "n.",
+    "chinese": "宏伟；壮丽；宏大",
+    "example": "Their cities were designed not just for grandeur but for functionality, though that balance wasn't always perfect."
+  },
+  {
+    "english": "groundbreaking",
+    "pos": "adj.",
+    "chinese": "开创性的；突破性的",
+    "example": "Mahoy created a groundbreaking piece called light space modulator, a motorized sculpture of spinning metal and glass."
+  },
+  {
+    "english": "heartland",
+    "pos": "n.",
+    "chinese": "中心地带；核心区域",
+    "example": "In 2025, scientists analyzed stagmites from caves near the former Maya heartlands."
+  },
+  {
+    "english": "hiding",
+    "pos": "n.",
+    "chinese": "隐藏；躲藏",
+    "example": "Plants act as hiding places and border lines between males' territories."
+  },
+  {
+    "english": "implicitly",
+    "pos": "adv.",
+    "chinese": "含蓄地；隐含地",
+    "example": "Then electric cars can be implicitly touted as a way of resolving the mental conflict."
+  },
+  {
+    "english": "incandescent",
+    "pos": "n.",
+    "chinese": "白炽的；白炽灯",
+    "example": "Unlike traditional incandescent bulbs, which waste a lot of energy as heat, LEDs are incredibly efficient — that’s their biggest benefit."
+  },
+  {
+    "english": "indicative",
+    "pos": "adj.",
+    "chinese": "表明…的；暗示…的",
+    "example": "On the flip side, spaces that are restrictive or that exclude certain people are often indicative of societal divisions and inequalities."
+  },
+  {
+    "english": "inequality",
+    "pos": "n.",
+    "chinese": "不平等；不均等（社会群体之间在资源、机会或地位上的差异）",
+    "example": "On the flip side, spaces that are restrictive or that exclude certain people are often indicative of societal divisions and inequalities."
+  },
+  {
+    "english": "informed",
+    "pos": "adj.",
+    "chinese": "知情的；基于充分信息的（决策）",
+    "example": "Understanding opportunity cost helps individuals as well as businesses make informed decisions that maximize their benefits and minimize their losses."
+  },
+  {
+    "english": "insert",
+    "pos": "v.",
+    "chinese": "插入；嵌入（把某物放进另一物之中）",
+    "example": "Imagine taking a regular piano and transforming its sound by inserting everyday objects like screws, bolts."
+  },
+  {
+    "english": "insulate",
+    "pos": "v.",
+    "chinese": "使隔热；使保温（阻止热量传递）",
+    "example": "Tapestries were not only decorative pieces, but also served practical purposes, such as insulating the cold stone walls of castles."
+  },
+  {
+    "english": "intrigue",
+    "pos": "v.",
+    "chinese": "使感兴趣；引起好奇心",
+    "example": "Imagine a bustling community of people building something so innovative that it would still intrigue us thousands of years later."
+  },
+  {
+    "english": "metabolic",
+    "pos": "n.",
+    "chinese": "代谢的；新陈代谢的",
+    "example": "Although research is ongoing, results so far do show some metabolic benefits."
+  },
+  {
+    "english": "try",
+    "pos": "v.",
+    "chinese": "尝试、试图；试用",
+    "example": ""
+  },
+  {
+    "english": "saturday",
+    "pos": "prop.n.",
+    "chinese": "星期六",
+    "example": ""
+  },
+  {
+    "english": "please",
+    "pos": "interj.",
+    "chinese": "请（用于礼貌地请求或指示）",
+    "example": ""
+  },
+  {
+    "english": "yesterday",
+    "pos": "n.",
+    "chinese": "昨天；昨日",
+    "example": ""
+  },
+  {
+    "english": "friday",
+    "pos": "prop.n.",
+    "chinese": "星期五",
+    "example": ""
+  }
+]

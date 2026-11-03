@@ -1,0 +1,302 @@
+[
+  {
+    "english": "upstairs",
+    "pos": "adv.",
+    "chinese": "在楼上；往楼上",
+    "example": ""
+  },
+  {
+    "english": "gray",
+    "pos": "adj.",
+    "chinese": "灰色的",
+    "example": ""
+  },
+  {
+    "english": "hole",
+    "pos": "n.",
+    "chinese": "洞；孔",
+    "example": ""
+  },
+  {
+    "english": "ideal",
+    "pos": "adj.",
+    "chinese": "理想的；最适合的",
+    "example": ""
+  },
+  {
+    "english": "poor",
+    "pos": "adj.",
+    "chinese": "贫穷的；较差的",
+    "example": ""
+  },
+  {
+    "english": "tea",
+    "pos": "n.",
+    "chinese": "茶；茶叶",
+    "example": ""
+  },
+  {
+    "english": "electrophone",
+    "pos": "n.",
+    "chinese": "电子乐器",
+    "example": ""
+  },
+  {
+    "english": "squid",
+    "pos": "n.",
+    "chinese": "鱿鱼；一种能喷水推进、可跃出水面滑翔的头足类海洋动物",
+    "example": ""
+  },
+  {
+    "english": "above",
+    "pos": "adj.",
+    "chinese": "上方的；位于地面以上的",
+    "example": ""
+  },
+  {
+    "english": "acknowledge",
+    "pos": "v.",
+    "chinese": "承认；认可某事物的存在或重要性",
+    "example": ""
+  },
+  {
+    "english": "analyse",
+    "pos": "v.",
+    "chinese": "分析；对事物进行细致分解研究",
+    "example": ""
+  },
+  {
+    "english": "analysis",
+    "pos": "n.",
+    "chinese": "分析；对数据或信息进行的系统研究",
+    "example": ""
+  },
+  {
+    "english": "ape",
+    "pos": "n.",
+    "chinese": "猿；大型无尾灵长类动物",
+    "example": ""
+  },
+  {
+    "english": "atomic",
+    "pos": "adj.",
+    "chinese": "原子的；与原子相关的",
+    "example": ""
+  },
+  {
+    "english": "awareness",
+    "pos": "n.",
+    "chinese": "意识；对周围环境或情况的感知",
+    "example": ""
+  },
+  {
+    "english": "awkward",
+    "pos": "adj.",
+    "chinese": "笨拙的；难以操作或使用的",
+    "example": ""
+  },
+  {
+    "english": "beloved",
+    "pos": "adj.",
+    "chinese": "受喜爱的；备受青睐的",
+    "example": ""
+  },
+  {
+    "english": "bow",
+    "pos": "n.",
+    "chinese": "琴弓",
+    "example": ""
+  },
+  {
+    "english": "brief",
+    "pos": "adj.",
+    "chinese": "短暂的",
+    "example": ""
+  },
+  {
+    "english": "buyer",
+    "pos": "n.",
+    "chinese": "买家；购买者",
+    "example": ""
+  },
+  {
+    "english": "calculate",
+    "pos": "v.",
+    "chinese": "精心策划的；经过计算的",
+    "example": ""
+  },
+  {
+    "english": "carriage",
+    "pos": "n.",
+    "chinese": "马车",
+    "example": ""
+  },
+  {
+    "english": "caution",
+    "pos": "n.",
+    "chinese": "谨慎；小心",
+    "example": ""
+  },
+  {
+    "english": "celebrity",
+    "pos": "n.",
+    "chinese": "名人；明星",
+    "example": ""
+  },
+  {
+    "english": "chaos",
+    "pos": "n.",
+    "chinese": "混乱；无序",
+    "example": ""
+  },
+  {
+    "english": "circular",
+    "pos": "adj.",
+    "chinese": "圆形的；循环的",
+    "example": ""
+  },
+  {
+    "english": "civil",
+    "pos": "adj.",
+    "chinese": "公民的；民权的",
+    "example": ""
+  },
+  {
+    "english": "combination",
+    "pos": "n.",
+    "chinese": "结合；组合",
+    "example": ""
+  },
+  {
+    "english": "competitor",
+    "pos": "n.",
+    "chinese": "竞争对手",
+    "example": ""
+  },
+  {
+    "english": "conscious",
+    "pos": "adj.",
+    "chinese": "有意识的；意识到的",
+    "example": ""
+  },
+  {
+    "english": "contrary",
+    "pos": "adj.",
+    "chinese": "相反的",
+    "example": ""
+  },
+  {
+    "english": "damp",
+    "pos": "adj.",
+    "chinese": "潮湿的",
+    "example": ""
+  },
+  {
+    "english": "dedicate",
+    "pos": "v.",
+    "chinese": "致力于；专用于",
+    "example": ""
+  },
+  {
+    "english": "depression",
+    "pos": "n.",
+    "chinese": "抑郁；抑郁症",
+    "example": ""
+  },
+  {
+    "english": "diameter",
+    "pos": "n.",
+    "chinese": "直径；横截面宽度",
+    "example": ""
+  },
+  {
+    "english": "dirt",
+    "pos": "n.",
+    "chinese": "泥土；土壤",
+    "example": ""
+  },
+  {
+    "english": "disc",
+    "pos": "n.",
+    "chinese": "圆盘；圆盘状物",
+    "example": ""
+  },
+  {
+    "english": "diving",
+    "pos": "n.",
+    "chinese": "潜水",
+    "example": ""
+  },
+  {
+    "english": "endanger",
+    "pos": "v.",
+    "chinese": "使遭受危险；危及",
+    "example": ""
+  },
+  {
+    "english": "equal",
+    "pos": "adj.",
+    "chinese": "相等的；同等的",
+    "example": ""
+  },
+  {
+    "english": "equality",
+    "pos": "n.",
+    "chinese": "平等；均等",
+    "example": ""
+  },
+  {
+    "english": "establishment",
+    "pos": "n.",
+    "chinese": "建立；确立",
+    "example": ""
+  },
+  {
+    "english": "estimate",
+    "pos": "v.",
+    "chinese": "估计；估算",
+    "example": ""
+  },
+  {
+    "english": "evident",
+    "pos": "adj.",
+    "chinese": "明显的；显而易见的",
+    "example": ""
+  },
+  {
+    "english": "excess",
+    "pos": "n.",
+    "chinese": "过度；无节制",
+    "example": ""
+  },
+  {
+    "english": "extreme",
+    "pos": "adj.",
+    "chinese": "极端的；极度的",
+    "example": ""
+  },
+  {
+    "english": "frustrated",
+    "pos": "adj.",
+    "chinese": "沮丧的；受挫的",
+    "example": ""
+  },
+  {
+    "english": "fur",
+    "pos": "n.",
+    "chinese": "毛皮",
+    "example": ""
+  },
+  {
+    "english": "geography",
+    "pos": "n.",
+    "chinese": "地理学",
+    "example": ""
+  },
+  {
+    "english": "gesture",
+    "pos": "n.",
+    "chinese": "手势；动作",
+    "example": ""
+  }
+]

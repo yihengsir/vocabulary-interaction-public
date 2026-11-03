@@ -1,0 +1,302 @@
+[
+  {
+    "english": "habit",
+    "pos": "n.",
+    "chinese": "习惯；习性",
+    "example": ""
+  },
+  {
+    "english": "copy",
+    "pos": "n.",
+    "chinese": "副本；一份",
+    "example": ""
+  },
+  {
+    "english": "affectionately",
+    "pos": "adv.",
+    "chinese": "亲切地；深情地",
+    "example": ""
+  },
+  {
+    "english": "aspire",
+    "pos": "v.",
+    "chinese": "渴望；立志",
+    "example": ""
+  },
+  {
+    "english": "badge",
+    "pos": "n.",
+    "chinese": "徽章；名牌",
+    "example": ""
+  },
+  {
+    "english": "beautify",
+    "pos": "v.",
+    "chinese": "美化；使变美",
+    "example": ""
+  },
+  {
+    "english": "cabinet",
+    "pos": "n.",
+    "chinese": "橱柜；储物柜",
+    "example": ""
+  },
+  {
+    "english": "cardboard",
+    "pos": "n.",
+    "chinese": "硬纸板；纸板",
+    "example": ""
+  },
+  {
+    "english": "compatible",
+    "pos": "adj.",
+    "chinese": "兼容的；相容的",
+    "example": ""
+  },
+  {
+    "english": "comprehensive",
+    "pos": "adj.",
+    "chinese": "全面的；综合的",
+    "example": ""
+  },
+  {
+    "english": "dawn",
+    "pos": "n.",
+    "chinese": "黎明；破晓",
+    "example": ""
+  },
+  {
+    "english": "distract",
+    "pos": "v.",
+    "chinese": "使分心；分散注意力",
+    "example": ""
+  },
+  {
+    "english": "donate",
+    "pos": "v.",
+    "chinese": "捐赠；捐献",
+    "example": ""
+  },
+  {
+    "english": "fabulous",
+    "pos": "adj.",
+    "chinese": "极好的；绝妙的",
+    "example": ""
+  },
+  {
+    "english": "finance",
+    "pos": "n.",
+    "chinese": "金融；财务；理财",
+    "example": ""
+  },
+  {
+    "english": "lastly",
+    "pos": "adv.",
+    "chinese": "最后；最后一点",
+    "example": ""
+  },
+  {
+    "english": "lid",
+    "pos": "n.",
+    "chinese": "盖子",
+    "example": ""
+  },
+  {
+    "english": "microwave",
+    "pos": "n.",
+    "chinese": "微波炉",
+    "example": ""
+  },
+  {
+    "english": "paperwork",
+    "pos": "n.",
+    "chinese": "文书工作；书面手续",
+    "example": ""
+  },
+  {
+    "english": "peel",
+    "pos": "n.",
+    "chinese": "果皮",
+    "example": ""
+  },
+  {
+    "english": "picky",
+    "pos": "adj.",
+    "chinese": "挑剔的",
+    "example": ""
+  },
+  {
+    "english": "prohibit",
+    "pos": "v.",
+    "chinese": "禁止",
+    "example": ""
+  },
+  {
+    "english": "pumpkin",
+    "pos": "n.",
+    "chinese": "南瓜",
+    "example": ""
+  },
+  {
+    "english": "replacement",
+    "pos": "n.",
+    "chinese": "替代品；替换物",
+    "example": ""
+  },
+  {
+    "english": "scan",
+    "pos": "v.",
+    "chinese": "扫描（二维码、证件等以读取信息）",
+    "example": ""
+  },
+  {
+    "english": "secondary",
+    "pos": "adj.",
+    "chinese": "次要的；附加的",
+    "example": ""
+  },
+  {
+    "english": "soak",
+    "pos": "v.",
+    "chinese": "（被雨等）淋湿，湿透",
+    "example": ""
+  },
+  {
+    "english": "strain",
+    "pos": "v.",
+    "chinese": "拉伤，扭伤（肌肉等）",
+    "example": ""
+  },
+  {
+    "english": "strictly",
+    "pos": "adv.",
+    "chinese": "严格地，严厉地",
+    "example": ""
+  },
+  {
+    "english": "temporarily",
+    "pos": "adv.",
+    "chinese": "暂时地，临时地",
+    "example": ""
+  },
+  {
+    "english": "thinker",
+    "pos": "n.",
+    "chinese": "思考者，思想家",
+    "example": ""
+  },
+  {
+    "english": "timing",
+    "pos": "n.",
+    "chinese": "时机，时间安排",
+    "example": ""
+  },
+  {
+    "english": "willing",
+    "pos": "adj.",
+    "chinese": "愿意的；乐意的",
+    "example": ""
+  },
+  {
+    "english": "file",
+    "pos": "n.",
+    "chinese": "文件；档案",
+    "example": ""
+  },
+  {
+    "english": "fan",
+    "pos": "n.",
+    "chinese": "粉丝，爱好者",
+    "example": ""
+  },
+  {
+    "english": "basketball",
+    "pos": "n.",
+    "chinese": "篮球（运动）",
+    "example": ""
+  },
+  {
+    "english": "catch",
+    "pos": "v.",
+    "chinese": "赶上（交通工具）；观看（节目）；引起（注意）；着火",
+    "example": ""
+  },
+  {
+    "english": "delicious",
+    "pos": "adj.",
+    "chinese": "美味的，可口的",
+    "example": ""
+  },
+  {
+    "english": "hobby",
+    "pos": "n.",
+    "chinese": "爱好，业余消遣",
+    "example": ""
+  },
+  {
+    "english": "news",
+    "pos": "n.",
+    "chinese": "新闻；消息",
+    "example": ""
+  },
+  {
+    "english": "Dr.",
+    "pos": "prop.n.",
+    "chinese": "博士（用于人名前的头衔）",
+    "example": ""
+  },
+  {
+    "english": "alley",
+    "pos": "n.",
+    "chinese": "（与某人）趣味相投的；合某人胃口的",
+    "example": ""
+  },
+  {
+    "english": "baking",
+    "pos": "n.",
+    "chinese": "烘焙；烤制（食物）",
+    "example": ""
+  },
+  {
+    "english": "fellowship",
+    "pos": "n.",
+    "chinese": "奖学金；研究员职位（资助）",
+    "example": ""
+  },
+  {
+    "english": "inconvenience",
+    "pos": "n.",
+    "chinese": "不便；麻烦",
+    "example": ""
+  },
+  {
+    "english": "inspiring",
+    "pos": "adj.",
+    "chinese": "鼓舞人心的；激励的",
+    "example": ""
+  },
+  {
+    "english": "pastry",
+    "pos": "n.",
+    "chinese": "糕点；酥皮点心",
+    "example": ""
+  },
+  {
+    "english": "photojournalist",
+    "pos": "n.",
+    "chinese": "新闻摄影记者",
+    "example": ""
+  },
+  {
+    "english": "reduced",
+    "pos": "adj.",
+    "chinese": "减少的；缩减的",
+    "example": ""
+  },
+  {
+    "english": "refill",
+    "pos": "n.",
+    "chinese": "续杯；重新装满（饮料或水）",
+    "example": ""
+  }
+]

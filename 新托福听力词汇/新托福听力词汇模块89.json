@@ -1,0 +1,302 @@
+[
+  {
+    "english": "universe",
+    "pos": "n.",
+    "chinese": "宇宙",
+    "example": ""
+  },
+  {
+    "english": "wound",
+    "pos": "n.",
+    "chinese": "伤口；创伤",
+    "example": ""
+  },
+  {
+    "english": "ancestor",
+    "pos": "n.",
+    "chinese": "祖先；原种",
+    "example": ""
+  },
+  {
+    "english": "happiness",
+    "pos": "n.",
+    "chinese": "幸福；快乐",
+    "example": ""
+  },
+  {
+    "english": "remote",
+    "pos": "adj.",
+    "chinese": "远程的；遥控的",
+    "example": ""
+  },
+  {
+    "english": "acidic",
+    "pos": "adj.",
+    "chinese": "酸性的；含酸的",
+    "example": ""
+  },
+  {
+    "english": "fossil",
+    "pos": "n.",
+    "chinese": "化石",
+    "example": ""
+  },
+  {
+    "english": "bioacoustic",
+    "pos": "n.",
+    "chinese": "生物声学（研究生物如何产生和感知声音的学科）",
+    "example": ""
+  },
+  {
+    "english": "centipede",
+    "pos": "n.",
+    "chinese": "蜈蚣（一种身体细长、多足、每体节一对足的节肢动物）",
+    "example": ""
+  },
+  {
+    "english": "segmentation",
+    "pos": "n.",
+    "chinese": "细分（将整体按特征划分为不同部分或群体的做法）",
+    "example": ""
+  },
+  {
+    "english": "cup",
+    "pos": "n.",
+    "chinese": "杯子（一种用于盛放饮料的小型容器）",
+    "example": ""
+  },
+  {
+    "english": "son",
+    "pos": "n.",
+    "chinese": "儿子（男性子女）",
+    "example": ""
+  },
+  {
+    "english": "amplification",
+    "pos": "n.",
+    "chinese": "放大（声音）；扩音",
+    "example": ""
+  },
+  {
+    "english": "adobe",
+    "pos": "n.",
+    "chinese": "土坯（用黏土、沙子、水等天然材料制成的建筑用砖）",
+    "example": ""
+  },
+  {
+    "english": "algae",
+    "pos": "n.",
+    "chinese": "藻类（生活在水中的光合作用生物，无根茎叶分化）",
+    "example": ""
+  },
+  {
+    "english": "gut",
+    "pos": "n.",
+    "chinese": "肠道（消化系统的一部分，尤指消化道）",
+    "example": ""
+  },
+  {
+    "english": "nanotechnology",
+    "pos": "n.",
+    "chinese": "纳米技术（在极小尺度上操控物质的技术领域）",
+    "example": ""
+  },
+  {
+    "english": "thick",
+    "pos": "adj.",
+    "chinese": "厚的；浓密的",
+    "example": ""
+  },
+  {
+    "english": "piano",
+    "pos": "n.",
+    "chinese": "钢琴",
+    "example": ""
+  },
+  {
+    "english": "tired",
+    "pos": "adj.",
+    "chinese": "疲倦的；累的",
+    "example": ""
+  },
+  {
+    "english": "compass",
+    "pos": "n.",
+    "chinese": "指南针",
+    "example": ""
+  },
+  {
+    "english": "ethnographic",
+    "pos": "adj.",
+    "chinese": "民族志的",
+    "example": ""
+  },
+  {
+    "english": "harp",
+    "pos": "n.",
+    "chinese": "竖琴",
+    "example": ""
+  },
+  {
+    "english": "sampling",
+    "pos": "n.",
+    "chinese": "采样（音乐）",
+    "example": ""
+  },
+  {
+    "english": "theremin",
+    "pos": "n.",
+    "chinese": "特雷门琴",
+    "example": ""
+  },
+  {
+    "english": "belly",
+    "pos": "n.",
+    "chinese": "腹部",
+    "example": ""
+  },
+  {
+    "english": "military",
+    "pos": "adj.",
+    "chinese": "军事的；军用的",
+    "example": ""
+  },
+  {
+    "english": "soldier",
+    "pos": "n.",
+    "chinese": "士兵；军人",
+    "example": ""
+  },
+  {
+    "english": "bath",
+    "pos": "n.",
+    "chinese": "浴场；公共浴室",
+    "example": ""
+  },
+  {
+    "english": "drum",
+    "pos": "n.",
+    "chinese": "鼓",
+    "example": ""
+  },
+  {
+    "english": "farmer",
+    "pos": "n.",
+    "chinese": "农民；农场主",
+    "example": ""
+  },
+  {
+    "english": "horse",
+    "pos": "n.",
+    "chinese": "马",
+    "example": ""
+  },
+  {
+    "english": "rabbit",
+    "pos": "n.",
+    "chinese": "兔子",
+    "example": ""
+  },
+  {
+    "english": "sky",
+    "pos": "n.",
+    "chinese": "天空",
+    "example": ""
+  },
+  {
+    "english": "island",
+    "pos": "n.",
+    "chinese": "岛；岛屿",
+    "example": ""
+  },
+  {
+    "english": "plaster",
+    "pos": "n.",
+    "chinese": "石膏",
+    "example": ""
+  },
+  {
+    "english": "retention",
+    "pos": "n.",
+    "chinese": "保持；保留",
+    "example": ""
+  },
+  {
+    "english": "synthetic",
+    "pos": "adj.",
+    "chinese": "合成的；人造的",
+    "example": ""
+  },
+  {
+    "english": "agility",
+    "pos": "n.",
+    "chinese": "敏捷性；灵活应变能力",
+    "example": ""
+  },
+  {
+    "english": "survive",
+    "pos": "v.",
+    "chinese": "存活；生存",
+    "example": ""
+  },
+  {
+    "english": "adaptation",
+    "pos": "n.",
+    "chinese": "适应（性变化）；演化适应",
+    "example": ""
+  },
+  {
+    "english": "arthropod",
+    "pos": "n.",
+    "chinese": "节肢动物",
+    "example": ""
+  },
+  {
+    "english": "chromatophore",
+    "pos": "n.",
+    "chinese": "色素细胞（头足类动物皮肤下含色素的细胞）",
+    "example": ""
+  },
+  {
+    "english": "diner",
+    "pos": "n.",
+    "chinese": "用餐者，食客",
+    "example": ""
+  },
+  {
+    "english": "embryo",
+    "pos": "n.",
+    "chinese": "胚胎（发育早期的生物体）",
+    "example": ""
+  },
+  {
+    "english": "kelp",
+    "pos": "n.",
+    "chinese": "海带；大型褐藻",
+    "example": ""
+  },
+  {
+    "english": "landfill",
+    "pos": "n.",
+    "chinese": "垃圾填埋场",
+    "example": ""
+  },
+  {
+    "english": "median",
+    "pos": "adj.",
+    "chinese": "中央的，位于中线的",
+    "example": ""
+  },
+  {
+    "english": "migratory",
+    "pos": "n.",
+    "chinese": "迁徙的（指动物随季节迁移的）",
+    "example": ""
+  },
+  {
+    "english": "nonfiction",
+    "pos": "n.",
+    "chinese": "非虚构作品（基于真实事件或事实的创作）",
+    "example": ""
+  }
+]

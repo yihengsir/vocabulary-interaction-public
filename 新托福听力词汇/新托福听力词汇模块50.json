@@ -1,0 +1,302 @@
+[
+  {
+    "english": "next",
+    "pos": "adj.",
+    "chinese": "下一个的；紧接着的",
+    "example": ""
+  },
+  {
+    "english": "last",
+    "pos": "adj.",
+    "chinese": "上一个的；最近的；最后的",
+    "example": ""
+  },
+  {
+    "english": "well",
+    "pos": "interj.",
+    "chinese": "（用于句首，表示引出话题或稍作停顿）嗯，那么",
+    "example": ""
+  },
+  {
+    "english": "few",
+    "pos": "adj.",
+    "chinese": "少数（的）；几个——表示数量不多，或与可数名词复数连用表示少量",
+    "example": ""
+  },
+  {
+    "english": "yes",
+    "pos": "interj.",
+    "chinese": "是的；对（表示同意或确认对方所说的话）",
+    "example": ""
+  },
+  {
+    "english": "okay",
+    "pos": "interj.",
+    "chinese": "（用于句首或应答）好，那么；行，可以",
+    "example": ""
+  },
+  {
+    "english": "much",
+    "pos": "adj.",
+    "chinese": "多少；用于询问或表示数量",
+    "example": ""
+  },
+  {
+    "english": "oh",
+    "pos": "interj.",
+    "chinese": "哦；表示惊讶、领悟或引起注意的感叹词",
+    "example": ""
+  },
+  {
+    "english": "have",
+    "pos": "v.",
+    "chinese": "有；拥有；具有",
+    "example": ""
+  },
+  {
+    "english": "just",
+    "pos": "adv.",
+    "chinese": "仅仅、只是；就、直接（表示简单或无需多虑）",
+    "example": ""
+  },
+  {
+    "english": "thank",
+    "pos": "n.",
+    "chinese": "感谢；谢意（用于表达感激，常用复数 thanks）",
+    "example": ""
+  },
+  {
+    "english": "time",
+    "pos": "n.",
+    "chinese": "时间；时候、次",
+    "example": ""
+  },
+  {
+    "english": "know",
+    "pos": "v.",
+    "chinese": "知道；了解；认识",
+    "example": ""
+  },
+  {
+    "english": "go",
+    "pos": "v.",
+    "chinese": "去；前往；变得（进入某状态）",
+    "example": ""
+  },
+  {
+    "english": "at",
+    "pos": "adv.",
+    "chinese": "至多；至少（用于数量或程度的下限/上限表达）",
+    "example": ""
+  },
+  {
+    "english": "think",
+    "pos": "v.",
+    "chinese": "思考；认为；觉得",
+    "example": ""
+  },
+  {
+    "english": "host",
+    "pos": "v.",
+    "chinese": "举办；主办（活动、聚会等）",
+    "example": ""
+  },
+  {
+    "english": "get",
+    "pos": "v.",
+    "chinese": "获得；到达；变得",
+    "example": ""
+  },
+  {
+    "english": "do",
+    "pos": "v.",
+    "chinese": "做；进行；干（表示执行某动作或活动）",
+    "example": ""
+  },
+  {
+    "english": "new",
+    "pos": "adj.",
+    "chinese": "新的；新近出现的；不熟悉的",
+    "example": ""
+  },
+  {
+    "english": "see",
+    "pos": "v.",
+    "chinese": "看见；明白、理解",
+    "example": ""
+  },
+  {
+    "english": "work",
+    "pos": "v.",
+    "chinese": "工作；运转；起作用",
+    "example": ""
+  },
+  {
+    "english": "take",
+    "pos": "v.",
+    "chinese": "拿、取；采取、选择（路线、做法等）；带走",
+    "example": ""
+  },
+  {
+    "english": "student",
+    "pos": "n.",
+    "chinese": "学生",
+    "example": ""
+  },
+  {
+    "english": "class",
+    "pos": "n.",
+    "chinese": "课程；班级；课堂",
+    "example": ""
+  },
+  {
+    "english": "like",
+    "pos": "interj.",
+    "chinese": "像……一样；如同（用于比较）",
+    "example": ""
+  },
+  {
+    "english": "look",
+    "pos": "v.",
+    "chinese": "看；寻找",
+    "example": ""
+  },
+  {
+    "english": "year",
+    "pos": "n.",
+    "chinese": "年；年份；学年",
+    "example": ""
+  },
+  {
+    "english": "want",
+    "pos": "v.",
+    "chinese": "想要、希望（做某事）",
+    "example": ""
+  },
+  {
+    "english": "right",
+    "pos": "interj.",
+    "chinese": "（表示同意、确认或想起）对，哦对",
+    "example": ""
+  },
+  {
+    "english": "listen",
+    "pos": "v.",
+    "chinese": "听；倾听",
+    "example": ""
+  },
+  {
+    "english": "really",
+    "pos": "adv.",
+    "chinese": "确实；非常；真正地（用于加强语气或程度）",
+    "example": ""
+  },
+  {
+    "english": "start",
+    "pos": "v.",
+    "chinese": "开始；着手（做某事）",
+    "example": ""
+  },
+  {
+    "english": "great",
+    "pos": "adj.",
+    "chinese": "极好的；很棒的；出色的",
+    "example": ""
+  },
+  {
+    "english": "there",
+    "pos": "adv.",
+    "chinese": "在那里；在那边（指某个已提到或双方已知的地点）",
+    "example": ""
+  },
+  {
+    "english": "hear",
+    "pos": "v.",
+    "chinese": "听说；得知；听见",
+    "example": ""
+  },
+  {
+    "english": "close",
+    "pos": "adv.",
+    "chinese": "靠近地；接近地",
+    "example": ""
+  },
+  {
+    "english": "yeah",
+    "pos": "interj.",
+    "chinese": "是的；对",
+    "example": ""
+  },
+  {
+    "english": "too",
+    "pos": "adv.",
+    "chinese": "也；还（表示补充或同样）；太；过于（表示程度过分）",
+    "example": ""
+  },
+  {
+    "english": "say",
+    "pos": "v.",
+    "chinese": "说；讲；表达（口头说出或陈述）",
+    "example": ""
+  },
+  {
+    "english": "give",
+    "pos": "v.",
+    "chinese": "给；给予；提供",
+    "example": ""
+  },
+  {
+    "english": "keep",
+    "pos": "v.",
+    "chinese": "保持；使持续处于某种状态",
+    "example": ""
+  },
+  {
+    "english": "day",
+    "pos": "n.",
+    "chinese": "一天；白天；日子",
+    "example": ""
+  },
+  {
+    "english": "group",
+    "pos": "n.",
+    "chinese": "组；群体；小组",
+    "example": ""
+  },
+  {
+    "english": "yet",
+    "pos": "adv.",
+    "chinese": "还（未）；至今（尚未）——用于否定句或疑问句中表示某事到目前仍未发生",
+    "example": ""
+  },
+  {
+    "english": "be",
+    "pos": "v.",
+    "chinese": "存在；有（there be 结构，表示某处有某物）",
+    "example": ""
+  },
+  {
+    "english": "here",
+    "pos": "adv.",
+    "chinese": "在这里；在此处（指说话者所在或所指的地点、场合）",
+    "example": ""
+  },
+  {
+    "english": "first",
+    "pos": "adj.",
+    "chinese": "第一的；首次的",
+    "example": ""
+  },
+  {
+    "english": "week",
+    "pos": "n.",
+    "chinese": "周；星期（七天的时间单位）",
+    "example": ""
+  },
+  {
+    "english": "learn",
+    "pos": "v.",
+    "chinese": "学习；学会；得知",
+    "example": ""
+  }
+]

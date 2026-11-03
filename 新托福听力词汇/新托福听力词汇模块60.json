@@ -1,0 +1,302 @@
+[
+  {
+    "english": "overdue",
+    "pos": "adj.",
+    "chinese": "早该发生的；逾期未完成的",
+    "example": ""
+  },
+  {
+    "english": "parmesan",
+    "pos": "v.",
+    "chinese": "帕尔马干酪（一种硬质意大利奶酪）",
+    "example": ""
+  },
+  {
+    "english": "partially",
+    "pos": "adv.",
+    "chinese": "部分地；不完全地",
+    "example": ""
+  },
+  {
+    "english": "permitting",
+    "pos": "n.",
+    "chinese": "允许；许可（常用于 weather permitting 等短语）",
+    "example": ""
+  },
+  {
+    "english": "photocopied",
+    "pos": "adj.",
+    "chinese": "被复印的",
+    "example": ""
+  },
+  {
+    "english": "placement",
+    "pos": "n.",
+    "chinese": "安排；安置；放置",
+    "example": ""
+  },
+  {
+    "english": "plane",
+    "pos": "n.",
+    "chinese": "飞机",
+    "example": ""
+  },
+  {
+    "english": "populate",
+    "pos": "v.",
+    "chinese": "自动填充；自动填入（数据或选项）",
+    "example": ""
+  },
+  {
+    "english": "quitting",
+    "pos": "n.",
+    "chinese": "辞职；退出（工作）",
+    "example": ""
+  },
+  {
+    "english": "recyclable",
+    "pos": "adj.",
+    "chinese": "可回收的",
+    "example": ""
+  },
+  {
+    "english": "refresher",
+    "pos": "n.",
+    "chinese": "复习；重温；提醒（常指对知识的简要回顾）",
+    "example": ""
+  },
+  {
+    "english": "replenish",
+    "pos": "v.",
+    "chinese": "补充；重新装满",
+    "example": ""
+  },
+  {
+    "english": "reschedule",
+    "pos": "v.",
+    "chinese": "重新安排（时间）",
+    "example": ""
+  },
+  {
+    "english": "residency",
+    "pos": "n.",
+    "chinese": "居住身份；居民身份",
+    "example": ""
+  },
+  {
+    "english": "respectfully",
+    "pos": "adv.",
+    "chinese": "恭敬地；有礼貌地",
+    "example": ""
+  },
+  {
+    "english": "robotic",
+    "pos": "n.",
+    "chinese": "机器人技术；机器人学",
+    "example": ""
+  },
+  {
+    "english": "spending",
+    "pos": "n.",
+    "chinese": "开支；花费",
+    "example": ""
+  },
+  {
+    "english": "spokesperson",
+    "pos": "n.",
+    "chinese": "发言人；代表",
+    "example": ""
+  },
+  {
+    "english": "stargazing",
+    "pos": "n.",
+    "chinese": "观星；观察夜空中的星星",
+    "example": ""
+  },
+  {
+    "english": "suite",
+    "pos": "n.",
+    "chinese": "套房；成套房间",
+    "example": ""
+  },
+  {
+    "english": "supplemental",
+    "pos": "adj.",
+    "chinese": "补充的；附加的",
+    "example": ""
+  },
+  {
+    "english": "tenant",
+    "pos": "n.",
+    "chinese": "租户；房客",
+    "example": ""
+  },
+  {
+    "english": "tester",
+    "pos": "n.",
+    "chinese": "测试者；试用人员",
+    "example": ""
+  },
+  {
+    "english": "treasurer",
+    "pos": "n.",
+    "chinese": "财务主管；司库",
+    "example": ""
+  },
+  {
+    "english": "unfiltered",
+    "pos": "adj.",
+    "chinese": "未经过滤的；真实的",
+    "example": ""
+  },
+  {
+    "english": "voiceover",
+    "pos": "n.",
+    "chinese": "旁白；画外音",
+    "example": ""
+  },
+  {
+    "english": "waiting",
+    "pos": "n.",
+    "chinese": "等候；等待（如候补名单中的等待）",
+    "example": ""
+  },
+  {
+    "english": "dessert",
+    "pos": "n.",
+    "chinese": "甜点；餐后甜品",
+    "example": ""
+  },
+  {
+    "english": "come by",
+    "pos": "phr.",
+    "chinese": "（用于短语 come by）获得；得到",
+    "example": ""
+  },
+  {
+    "english": "must-have",
+    "pos": "phr.",
+    "chinese": "必需品；必备条件",
+    "example": ""
+  },
+  {
+    "english": "hop",
+    "pos": "v.",
+    "chinese": "快速上（车）；跳上",
+    "example": ""
+  },
+  {
+    "english": "indoor",
+    "pos": "adv.",
+    "chinese": "在室内；在户内",
+    "example": ""
+  },
+  {
+    "english": "outing",
+    "pos": "v.",
+    "chinese": "外出活动；集体出游",
+    "example": ""
+  },
+  {
+    "english": "sort of",
+    "pos": "phr.",
+    "chinese": "有点；稍微；大致上",
+    "example": ""
+  },
+  {
+    "english": "vice",
+    "pos": "n.",
+    "chinese": "副职的；副的（用于职位名称前，表示副手）",
+    "example": ""
+  },
+  {
+    "english": "tennis",
+    "pos": "n.",
+    "chinese": "网球（运动）",
+    "example": ""
+  },
+  {
+    "english": "accidentally",
+    "pos": "adv.",
+    "chinese": "意外地；偶然地",
+    "example": ""
+  },
+  {
+    "english": "accurate",
+    "pos": "adj.",
+    "chinese": "准确的；精确的",
+    "example": ""
+  },
+  {
+    "english": "afterwards",
+    "pos": "adv.",
+    "chinese": "之后；后来",
+    "example": ""
+  },
+  {
+    "english": "agenda",
+    "pos": "n.",
+    "chinese": "议程；日程安排",
+    "example": ""
+  },
+  {
+    "english": "airline",
+    "pos": "n.",
+    "chinese": "航空公司",
+    "example": ""
+  },
+  {
+    "english": "approval",
+    "pos": "n.",
+    "chinese": "批准；认可",
+    "example": ""
+  },
+  {
+    "english": "arise",
+    "pos": "v.",
+    "chinese": "出现；发生",
+    "example": ""
+  },
+  {
+    "english": "aside",
+    "pos": "adv.",
+    "chinese": "放到一边；搁置",
+    "example": ""
+  },
+  {
+    "english": "assistance",
+    "pos": "n.",
+    "chinese": "帮助；协助",
+    "example": ""
+  },
+  {
+    "english": "assistant",
+    "pos": "n.",
+    "chinese": "助理；助手",
+    "example": ""
+  },
+  {
+    "english": "avenue",
+    "pos": "n.",
+    "chinese": "大街；林荫道",
+    "example": ""
+  },
+  {
+    "english": "bet",
+    "pos": "v.",
+    "chinese": "敢断定；确信",
+    "example": ""
+  },
+  {
+    "english": "bowl",
+    "pos": "v.",
+    "chinese": "打保龄球",
+    "example": ""
+  },
+  {
+    "english": "brainstorming",
+    "pos": "n.",
+    "chinese": "头脑风暴；集思广益",
+    "example": ""
+  }
+]

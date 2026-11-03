@@ -1,0 +1,302 @@
+[
+  {
+    "english": "bird",
+    "pos": "n.",
+    "chinese": "鸟；禽类",
+    "example": ""
+  },
+  {
+    "english": "head",
+    "pos": "n.",
+    "chinese": "头；头部",
+    "example": ""
+  },
+  {
+    "english": "famous",
+    "pos": "adj.",
+    "chinese": "著名的；出名的",
+    "example": ""
+  },
+  {
+    "english": "fish",
+    "pos": "n.",
+    "chinese": "鱼；鱼类",
+    "example": ""
+  },
+  {
+    "english": "ball",
+    "pos": "n.",
+    "chinese": "球；球状物",
+    "example": ""
+  },
+  {
+    "english": "paint",
+    "pos": "n.",
+    "chinese": "油漆；涂料",
+    "example": ""
+  },
+  {
+    "english": "healthy",
+    "pos": "adj.",
+    "chinese": "健康的；有益健康的",
+    "example": ""
+  },
+  {
+    "english": "parent",
+    "pos": "n.",
+    "chinese": "父母；家长",
+    "example": ""
+  },
+  {
+    "english": "door",
+    "pos": "n.",
+    "chinese": "门；门口",
+    "example": ""
+  },
+  {
+    "english": "bright",
+    "pos": "adj.",
+    "chinese": "明亮的；鲜艳的",
+    "example": ""
+  },
+  {
+    "english": "fill",
+    "pos": "v.",
+    "chinese": "填满；充满；使（空间、容器等）被占满",
+    "example": ""
+  },
+  {
+    "english": "hot",
+    "pos": "adj.",
+    "chinese": "热的；高温的",
+    "example": ""
+  },
+  {
+    "english": "smart",
+    "pos": "adj.",
+    "chinese": "聪明的；明智的",
+    "example": ""
+  },
+  {
+    "english": "ride",
+    "pos": "v.",
+    "chinese": "骑（自行车等）",
+    "example": ""
+  },
+  {
+    "english": "brother",
+    "pos": "n.",
+    "chinese": "兄弟；哥哥；弟弟",
+    "example": ""
+  },
+  {
+    "english": "bike",
+    "pos": "n.",
+    "chinese": "自行车",
+    "example": ""
+  },
+  {
+    "english": "white",
+    "pos": "adj.",
+    "chinese": "白色的",
+    "example": ""
+  },
+  {
+    "english": "celebrate",
+    "pos": "v.",
+    "chinese": "庆祝；颂扬",
+    "example": ""
+  },
+  {
+    "english": "cloud",
+    "pos": "n.",
+    "chinese": "云；云层",
+    "example": ""
+  },
+  {
+    "english": "frog",
+    "pos": "n.",
+    "chinese": "青蛙",
+    "example": ""
+  },
+  {
+    "english": "thin",
+    "pos": "adj.",
+    "chinese": "薄的；细的",
+    "example": ""
+  },
+  {
+    "english": "black",
+    "pos": "adj.",
+    "chinese": "黑色的；黑人的",
+    "example": ""
+  },
+  {
+    "english": "stone",
+    "pos": "n.",
+    "chinese": "石头；石块",
+    "example": ""
+  },
+  {
+    "english": "fourth",
+    "pos": "adj.",
+    "chinese": "第四的（序数词）",
+    "example": ""
+  },
+  {
+    "english": "other",
+    "pos": "adj.",
+    "chinese": "其他的；另外的",
+    "example": ""
+  },
+  {
+    "english": "many",
+    "pos": "adj.",
+    "chinese": "许多的；大量的（用于修饰可数名词复数）",
+    "example": ""
+  },
+  {
+    "english": "so",
+    "pos": "adv.",
+    "chinese": "因此、所以；那么（用于引出话题或提问）；如此、这么（表程度）",
+    "example": ""
+  },
+  {
+    "english": "one",
+    "pos": "n.",
+    "chinese": "一个（人或事物）；代替前文提到的可数名词以避免重复",
+    "example": ""
+  },
+  {
+    "english": "most",
+    "pos": "adj.",
+    "chinese": "大多数的；最多的",
+    "example": ""
+  },
+  {
+    "english": "as",
+    "pos": "adv.",
+    "chinese": "如同；像……一样（用于比较）",
+    "example": ""
+  },
+  {
+    "english": "such",
+    "pos": "adj.",
+    "chinese": "这样的；如此的（用于举例或强调程度）",
+    "example": ""
+  },
+  {
+    "english": "that",
+    "pos": "adv.",
+    "chinese": "那么；如此（用于强调程度）",
+    "example": ""
+  },
+  {
+    "english": "make",
+    "pos": "v.",
+    "chinese": "制作、制造；使成为；做出（某种行为）",
+    "example": ""
+  },
+  {
+    "english": "less",
+    "pos": "adj.",
+    "chinese": "更少的；较少的（数量或程度较小）",
+    "example": ""
+  },
+  {
+    "english": "use",
+    "pos": "v.",
+    "chinese": "使用、利用（某物）；采用（某种方式）",
+    "example": ""
+  },
+  {
+    "english": "now",
+    "pos": "adv.",
+    "chinese": "现在；此刻",
+    "example": ""
+  },
+  {
+    "english": "also",
+    "pos": "adv.",
+    "chinese": "也；还；此外",
+    "example": ""
+  },
+  {
+    "english": "least",
+    "pos": "adj.",
+    "chinese": "至少；最少",
+    "example": ""
+  },
+  {
+    "english": "no",
+    "pos": "interj.",
+    "chinese": "不；不是（表示否定回答）",
+    "example": ""
+  },
+  {
+    "english": "people",
+    "pos": "n.",
+    "chinese": "人们；人（复数）",
+    "example": ""
+  },
+  {
+    "english": "today",
+    "pos": "n.",
+    "chinese": "今天；当今",
+    "example": ""
+  },
+  {
+    "english": "come",
+    "pos": "v.",
+    "chinese": "来；到来；变得",
+    "example": ""
+  },
+  {
+    "english": "often",
+    "pos": "adv.",
+    "chinese": "经常；常常（表示频率高）",
+    "example": ""
+  },
+  {
+    "english": "spark",
+    "pos": "v.",
+    "chinese": "引发；激起",
+    "example": ""
+  },
+  {
+    "english": "way",
+    "pos": "n.",
+    "chinese": "方式、方法；途径",
+    "example": ""
+  },
+  {
+    "english": "example",
+    "pos": "n.",
+    "chinese": "例子；实例；范例",
+    "example": ""
+  },
+  {
+    "english": "let",
+    "pos": "v.",
+    "chinese": "让；允许；使（某人做某事）",
+    "example": ""
+  },
+  {
+    "english": "art",
+    "pos": "n.",
+    "chinese": "艺术；美术（作品或创作活动）",
+    "example": ""
+  },
+  {
+    "english": "idea",
+    "pos": "n.",
+    "chinese": "想法；主意；概念",
+    "example": ""
+  },
+  {
+    "english": "hundred",
+    "pos": "n.",
+    "chinese": "百；数以百计",
+    "example": ""
+  }
+]

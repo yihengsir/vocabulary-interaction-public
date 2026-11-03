@@ -1,0 +1,302 @@
+[
+  {
+    "english": "help",
+    "pos": "n.",
+    "chinese": "帮助；协助",
+    "example": ""
+  },
+  {
+    "english": "monday",
+    "pos": "prop.n.",
+    "chinese": "星期一",
+    "example": ""
+  },
+  {
+    "english": "chance",
+    "pos": "n.",
+    "chinese": "机会；可能性；偶然",
+    "example": ""
+  },
+  {
+    "english": "extra",
+    "pos": "adj.",
+    "chinese": "额外的；多加的",
+    "example": ""
+  },
+  {
+    "english": "perfect",
+    "pos": "adj.",
+    "chinese": "完美的；理想的",
+    "example": ""
+  },
+  {
+    "english": "send",
+    "pos": "v.",
+    "chinese": "发送；寄送",
+    "example": ""
+  },
+  {
+    "english": "thursday",
+    "pos": "prop.n.",
+    "chinese": "星期四",
+    "example": ""
+  },
+  {
+    "english": "tuesday",
+    "pos": "prop.n.",
+    "chinese": "星期二",
+    "example": ""
+  },
+  {
+    "english": "sunday",
+    "pos": "prop.n.",
+    "chinese": "星期日，周日",
+    "example": ""
+  },
+  {
+    "english": "wednesday",
+    "pos": "prop.n.",
+    "chinese": "星期三",
+    "example": ""
+  },
+  {
+    "english": "party",
+    "pos": "n.",
+    "chinese": "聚会，派对",
+    "example": ""
+  },
+  {
+    "english": "phone",
+    "pos": "n.",
+    "chinese": "电话；手机；电话设备",
+    "example": ""
+  },
+  {
+    "english": "weather",
+    "pos": "n.",
+    "chinese": "天气；气候状况",
+    "example": ""
+  },
+  {
+    "english": "coffee",
+    "pos": "n.",
+    "chinese": "咖啡；咖啡饮品",
+    "example": ""
+  },
+  {
+    "english": "soon",
+    "pos": "adv.",
+    "chinese": "不久；很快",
+    "example": ""
+  },
+  {
+    "english": "borrow",
+    "pos": "v.",
+    "chinese": "借（入）；借用",
+    "example": ""
+  },
+  {
+    "english": "teach",
+    "pos": "v.",
+    "chinese": "教；教授",
+    "example": ""
+  },
+  {
+    "english": "evening",
+    "pos": "n.",
+    "chinese": "傍晚；晚上",
+    "example": ""
+  },
+  {
+    "english": "list",
+    "pos": "n.",
+    "chinese": "清单；列表",
+    "example": ""
+  },
+  {
+    "english": "summer",
+    "pos": "n.",
+    "chinese": "夏天；夏季",
+    "example": ""
+  },
+  {
+    "english": "sell",
+    "pos": "v.",
+    "chinese": "出售；销售",
+    "example": ""
+  },
+  {
+    "english": "favorite",
+    "pos": "adj.",
+    "chinese": "最喜欢的；最受喜爱的",
+    "example": ""
+  },
+  {
+    "english": "message",
+    "pos": "n.",
+    "chinese": "信息；消息",
+    "example": ""
+  },
+  {
+    "english": "stop",
+    "pos": "v.",
+    "chinese": "停止；停下；顺便拜访",
+    "example": ""
+  },
+  {
+    "english": "special",
+    "pos": "adj.",
+    "chinese": "特别的；特殊的；专用的",
+    "example": ""
+  },
+  {
+    "english": "mountain",
+    "pos": "n.",
+    "chinese": "山；山脉",
+    "example": ""
+  },
+  {
+    "english": "young",
+    "pos": "adj.",
+    "chinese": "年轻的；幼小的",
+    "example": ""
+  },
+  {
+    "english": "forget",
+    "pos": "v.",
+    "chinese": "忘记；遗忘",
+    "example": ""
+  },
+  {
+    "english": "word",
+    "pos": "n.",
+    "chinese": "词；单词",
+    "example": ""
+  },
+  {
+    "english": "ready",
+    "pos": "adj.",
+    "chinese": "准备好的；愿意或能够做某事的",
+    "example": ""
+  },
+  {
+    "english": "meal",
+    "pos": "n.",
+    "chinese": "一餐，一顿饭",
+    "example": ""
+  },
+  {
+    "english": "photo",
+    "pos": "n.",
+    "chinese": "照片；相片",
+    "example": ""
+  },
+  {
+    "english": "festival",
+    "pos": "n.",
+    "chinese": "节日；节庆活动",
+    "example": ""
+  },
+  {
+    "english": "price",
+    "pos": "n.",
+    "chinese": "价格；价钱",
+    "example": ""
+  },
+  {
+    "english": "shop",
+    "pos": "n.",
+    "chinese": "商店；店铺",
+    "example": ""
+  },
+  {
+    "english": "exciting",
+    "pos": "adj.",
+    "chinese": "令人兴奋的；激动人心的",
+    "example": ""
+  },
+  {
+    "english": "pool",
+    "pos": "n.",
+    "chinese": "水池；游泳池",
+    "example": ""
+  },
+  {
+    "english": "quiet",
+    "pos": "adj.",
+    "chinese": "安静的；寂静的",
+    "example": ""
+  },
+  {
+    "english": "visit",
+    "pos": "v.",
+    "chinese": "参观；访问；前往（某地或某机构）",
+    "example": ""
+  },
+  {
+    "english": "cafe",
+    "pos": "n.",
+    "chinese": "咖啡馆；小餐馆",
+    "example": ""
+  },
+  {
+    "english": "garden",
+    "pos": "n.",
+    "chinese": "花园；园地",
+    "example": ""
+  },
+  {
+    "english": "owner",
+    "pos": "n.",
+    "chinese": "所有者；物主",
+    "example": ""
+  },
+  {
+    "english": "classroom",
+    "pos": "n.",
+    "chinese": "教室",
+    "example": ""
+  },
+  {
+    "english": "band",
+    "pos": "n.",
+    "chinese": "乐队；乐团",
+    "example": ""
+  },
+  {
+    "english": "card",
+    "pos": "n.",
+    "chinese": "卡片；卡",
+    "example": ""
+  },
+  {
+    "english": "happy",
+    "pos": "adj.",
+    "chinese": "高兴的；愉快的；乐意的",
+    "example": ""
+  },
+  {
+    "english": "truck",
+    "pos": "n.",
+    "chinese": "卡车；货车",
+    "example": ""
+  },
+  {
+    "english": "seat",
+    "pos": "n.",
+    "chinese": "座位；席位",
+    "example": ""
+  },
+  {
+    "english": "lucky",
+    "pos": "adj.",
+    "chinese": "幸运的",
+    "example": ""
+  },
+  {
+    "english": "spring",
+    "pos": "n.",
+    "chinese": "春天；春季",
+    "example": ""
+  }
+]

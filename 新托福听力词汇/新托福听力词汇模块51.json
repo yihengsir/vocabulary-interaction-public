@@ -1,0 +1,302 @@
+[
+  {
+    "english": "begin",
+    "pos": "v.",
+    "chinese": "开始；着手进行",
+    "example": ""
+  },
+  {
+    "english": "two",
+    "pos": "num.",
+    "chinese": "二；两个",
+    "example": ""
+  },
+  {
+    "english": "free",
+    "pos": "adj.",
+    "chinese": "免费的；有空的；空闲的",
+    "example": ""
+  },
+  {
+    "english": "hour",
+    "pos": "n.",
+    "chinese": "小时；钟头；（复数）工作时间、营业时间",
+    "example": ""
+  },
+  {
+    "english": "tell",
+    "pos": "v.",
+    "chinese": "告诉；讲述",
+    "example": ""
+  },
+  {
+    "english": "very",
+    "pos": "adv.",
+    "chinese": "很；非常（用于加强程度）",
+    "example": ""
+  },
+  {
+    "english": "happen",
+    "pos": "v.",
+    "chinese": "发生；出现",
+    "example": ""
+  },
+  {
+    "english": "three",
+    "pos": "num.",
+    "chinese": "三；三个",
+    "example": ""
+  },
+  {
+    "english": "sure",
+    "pos": "interj.",
+    "chinese": "（表示同意或确认）当然，好的",
+    "example": ""
+  },
+  {
+    "english": "usually",
+    "pos": "adv.",
+    "chinese": "通常，一般",
+    "example": ""
+  },
+  {
+    "english": "maybe",
+    "pos": "adv.",
+    "chinese": "也许；可能——表示不确定的推测或建议",
+    "example": ""
+  },
+  {
+    "english": "join",
+    "pos": "v.",
+    "chinese": "加入；连接、接合",
+    "example": ""
+  },
+  {
+    "english": "open",
+    "pos": "adj.",
+    "chinese": "开着的；开放的；可用的",
+    "example": ""
+  },
+  {
+    "english": "wait",
+    "pos": "v.",
+    "chinese": "等待；等候（某人、某事或某时机）",
+    "example": ""
+  },
+  {
+    "english": "floor",
+    "pos": "n.",
+    "chinese": "地板，地面；楼层",
+    "example": ""
+  },
+  {
+    "english": "always",
+    "pos": "adv.",
+    "chinese": "总是；一直；始终（表示在所有时候或一贯如此）",
+    "example": ""
+  },
+  {
+    "english": "discuss",
+    "pos": "v.",
+    "chinese": "讨论，商议",
+    "example": ""
+  },
+  {
+    "english": "room",
+    "pos": "n.",
+    "chinese": "房间；空间；余地",
+    "example": ""
+  },
+  {
+    "english": "already",
+    "pos": "adv.",
+    "chinese": "已经；早已",
+    "example": ""
+  },
+  {
+    "english": "spend",
+    "pos": "v.",
+    "chinese": "花费（金钱、时间等）",
+    "example": ""
+  },
+  {
+    "english": "office",
+    "pos": "n.",
+    "chinese": "办公室；办事处；职务部门",
+    "example": ""
+  },
+  {
+    "english": "read",
+    "pos": "v.",
+    "chinese": "阅读；读",
+    "example": ""
+  },
+  {
+    "english": "night",
+    "pos": "n.",
+    "chinese": "夜晚；夜间",
+    "example": ""
+  },
+  {
+    "english": "old",
+    "pos": "adj.",
+    "chinese": "旧的；老的",
+    "example": ""
+  },
+  {
+    "english": "ask",
+    "pos": "v.",
+    "chinese": "询问；请求",
+    "example": ""
+  },
+  {
+    "english": "stay",
+    "pos": "v.",
+    "chinese": "保持（某种状态）",
+    "example": ""
+  },
+  {
+    "english": "item",
+    "pos": "n.",
+    "chinese": "物品；东西（可指具体物件或清单上的条目）",
+    "example": ""
+  },
+  {
+    "english": "never",
+    "pos": "adv.",
+    "chinese": "从不；绝不",
+    "example": ""
+  },
+  {
+    "english": "morning",
+    "pos": "n.",
+    "chinese": "早晨；上午",
+    "example": ""
+  },
+  {
+    "english": "game",
+    "pos": "n.",
+    "chinese": "游戏；比赛",
+    "example": ""
+  },
+  {
+    "english": "buy",
+    "pos": "v.",
+    "chinese": "购买；买",
+    "example": ""
+  },
+  {
+    "english": "else",
+    "pos": "adv.",
+    "chinese": "其他；别的",
+    "example": ""
+  },
+  {
+    "english": "event",
+    "pos": "n.",
+    "chinese": "事件；活动",
+    "example": ""
+  },
+  {
+    "english": "home",
+    "pos": "n.",
+    "chinese": "家；住所",
+    "example": ""
+  },
+  {
+    "english": "speak",
+    "pos": "v.",
+    "chinese": "说话；发言；表明（某种态度或事实）",
+    "example": ""
+  },
+  {
+    "english": "month",
+    "pos": "n.",
+    "chinese": "月；月份",
+    "example": ""
+  },
+  {
+    "english": "computer",
+    "pos": "n.",
+    "chinese": "计算机；电脑",
+    "example": ""
+  },
+  {
+    "english": "skill",
+    "pos": "n.",
+    "chinese": "技能；技巧",
+    "example": ""
+  },
+  {
+    "english": "enjoy",
+    "pos": "v.",
+    "chinese": "享受；喜爱；从…中获得乐趣",
+    "example": ""
+  },
+  {
+    "english": "team",
+    "pos": "n.",
+    "chinese": "团队；队伍（为共同目标一起工作或比赛的一群人）",
+    "example": ""
+  },
+  {
+    "english": "little",
+    "pos": "adj.",
+    "chinese": "少量的；一点点的；稍微",
+    "example": ""
+  },
+  {
+    "english": "in",
+    "pos": "adv.",
+    "chinese": "进入；在里面；加入（表示进入某处或参与某事）",
+    "example": ""
+  },
+  {
+    "english": "love",
+    "pos": "v.",
+    "chinese": "喜爱；非常喜欢",
+    "example": ""
+  },
+  {
+    "english": "trip",
+    "pos": "n.",
+    "chinese": "旅行；出行",
+    "example": ""
+  },
+  {
+    "english": "minute",
+    "pos": "n.",
+    "chinese": "分钟；片刻",
+    "example": ""
+  },
+  {
+    "english": "school",
+    "pos": "n.",
+    "chinese": "学校；学院",
+    "example": ""
+  },
+  {
+    "english": "job",
+    "pos": "n.",
+    "chinese": "工作；职业",
+    "example": ""
+  },
+  {
+    "english": "late",
+    "pos": "adj.",
+    "chinese": "晚的；迟到的；后期的",
+    "example": ""
+  },
+  {
+    "english": "program",
+    "pos": "n.",
+    "chinese": "项目；计划；课程项目",
+    "example": ""
+  },
+  {
+    "english": "guest",
+    "pos": "n.",
+    "chinese": "客人；宾客（受邀参加活动或到访的人）",
+    "example": ""
+  }
+]

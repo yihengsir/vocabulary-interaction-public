@@ -1,0 +1,302 @@
+[
+  {
+    "english": "comply",
+    "pos": "v.",
+    "chinese": "遵守、服从（规定）",
+    "example": ""
+  },
+  {
+    "english": "credibility",
+    "pos": "n.",
+    "chinese": "可信度、可靠性",
+    "example": ""
+  },
+  {
+    "english": "drill",
+    "pos": "v.",
+    "chinese": "深入探究；钻研",
+    "example": ""
+  },
+  {
+    "english": "forensic",
+    "pos": "adj.",
+    "chinese": "法医的；与法医科学相关的",
+    "example": ""
+  },
+  {
+    "english": "insensitive",
+    "pos": "adj.",
+    "chinese": "不体谅他人感受的；麻木不仁的",
+    "example": ""
+  },
+  {
+    "english": "portray",
+    "pos": "v.",
+    "chinese": "描绘；表现（以某种方式呈现）",
+    "example": ""
+  },
+  {
+    "english": "robust",
+    "pos": "adj.",
+    "chinese": "强健的；严格的；有力的",
+    "example": ""
+  },
+  {
+    "english": "rumble",
+    "pos": "v.",
+    "chinese": "发出隆隆声；轰鸣",
+    "example": ""
+  },
+  {
+    "english": "sacrifice",
+    "pos": "v.",
+    "chinese": "（为达到目的而）主动舍弃、牺牲（棋子）",
+    "example": ""
+  },
+  {
+    "english": "screenplay",
+    "pos": "n.",
+    "chinese": "电影剧本",
+    "example": ""
+  },
+  {
+    "english": "silhouette",
+    "pos": "n.",
+    "chinese": "轮廓；剪影",
+    "example": ""
+  },
+  {
+    "english": "stuffy",
+    "pos": "adj.",
+    "chinese": "闷热的；空气不流通的",
+    "example": ""
+  },
+  {
+    "english": "cofounder",
+    "pos": "n.",
+    "chinese": "共同创始人；联合创办人",
+    "example": ""
+  },
+  {
+    "english": "crane",
+    "pos": "n.",
+    "chinese": "鹤（折纸鹤）",
+    "example": ""
+  },
+  {
+    "english": "improv",
+    "pos": "n.",
+    "chinese": "即兴表演（喜剧）",
+    "example": ""
+  },
+  {
+    "english": "lighthouse",
+    "pos": "n.",
+    "chinese": "灯塔",
+    "example": ""
+  },
+  {
+    "english": "acceptable",
+    "pos": "adj.",
+    "chinese": "可接受的；令人满意的",
+    "example": ""
+  },
+  {
+    "english": "advise",
+    "pos": "v.",
+    "chinese": "告知；通知",
+    "example": ""
+  },
+  {
+    "english": "amusement",
+    "pos": "n.",
+    "chinese": "娱乐；消遣",
+    "example": ""
+  },
+  {
+    "english": "bake",
+    "pos": "v.",
+    "chinese": "烘焙；烤",
+    "example": ""
+  },
+  {
+    "english": "bother",
+    "pos": "v.",
+    "chinese": "使烦恼；打扰",
+    "example": ""
+  },
+  {
+    "english": "chapter",
+    "pos": "n.",
+    "chinese": "章；章节",
+    "example": ""
+  },
+  {
+    "english": "chat",
+    "pos": "v.",
+    "chinese": "交谈，聊天",
+    "example": ""
+  },
+  {
+    "english": "container",
+    "pos": "n.",
+    "chinese": "容器",
+    "example": ""
+  },
+  {
+    "english": "correctly",
+    "pos": "adv.",
+    "chinese": "正确地，准确地",
+    "example": ""
+  },
+  {
+    "english": "error",
+    "pos": "n.",
+    "chinese": "错误，差错",
+    "example": ""
+  },
+  {
+    "english": "fee",
+    "pos": "n.",
+    "chinese": "费用，服务费",
+    "example": ""
+  },
+  {
+    "english": "flour",
+    "pos": "n.",
+    "chinese": "面粉",
+    "example": ""
+  },
+  {
+    "english": "garage",
+    "pos": "n.",
+    "chinese": "车库，停车楼",
+    "example": ""
+  },
+  {
+    "english": "load",
+    "pos": "n.",
+    "chinese": "注意看，瞧一瞧（用于引起注意）",
+    "example": ""
+  },
+  {
+    "english": "napkin",
+    "pos": "n.",
+    "chinese": "餐巾纸；可堆肥的纸巾类物品",
+    "example": ""
+  },
+  {
+    "english": "overseas",
+    "pos": "adv.",
+    "chinese": "在海外，在国外",
+    "example": ""
+  },
+  {
+    "english": "peaceful",
+    "pos": "adj.",
+    "chinese": "和平的；安宁的",
+    "example": ""
+  },
+  {
+    "english": "receptionist",
+    "pos": "n.",
+    "chinese": "接待员；前台",
+    "example": ""
+  },
+  {
+    "english": "regret",
+    "pos": "v.",
+    "chinese": "对……感到抱歉；遗憾",
+    "example": ""
+  },
+  {
+    "english": "rumor",
+    "pos": "n.",
+    "chinese": "传闻；谣言",
+    "example": ""
+  },
+  {
+    "english": "secretary",
+    "pos": "n.",
+    "chinese": "秘书；文书",
+    "example": ""
+  },
+  {
+    "english": "sightseeing",
+    "pos": "n.",
+    "chinese": "观光；游览",
+    "example": ""
+  },
+  {
+    "english": "twice",
+    "pos": "adv.",
+    "chinese": "两次",
+    "example": ""
+  },
+  {
+    "english": "youth",
+    "pos": "n.",
+    "chinese": "青年；年轻人",
+    "example": ""
+  },
+  {
+    "english": "adhere",
+    "pos": "v.",
+    "chinese": "遵守、遵循（规则、标准等）",
+    "example": ""
+  },
+  {
+    "english": "counsel",
+    "pos": "n.",
+    "chinese": "忠告、建议；顾问",
+    "example": ""
+  },
+  {
+    "english": "diminish",
+    "pos": "v.",
+    "chinese": "削弱；使减少",
+    "example": ""
+  },
+  {
+    "english": "extracurricular",
+    "pos": "adj.",
+    "chinese": "课外的；业余的",
+    "example": ""
+  },
+  {
+    "english": "utilization",
+    "pos": "n.",
+    "chinese": "利用；使用",
+    "example": ""
+  },
+  {
+    "english": "airport",
+    "pos": "n.",
+    "chinese": "机场",
+    "example": ""
+  },
+  {
+    "english": "aunt",
+    "pos": "n.",
+    "chinese": "姑妈；姨妈；伯母；婶婶；舅妈",
+    "example": ""
+  },
+  {
+    "english": "cousin",
+    "pos": "n.",
+    "chinese": "堂/表兄弟姐妹",
+    "example": ""
+  },
+  {
+    "english": "dirty",
+    "pos": "adj.",
+    "chinese": "脏的；用过的（需要清洗的）",
+    "example": ""
+  },
+  {
+    "english": "sorry",
+    "pos": "adj.",
+    "chinese": "抱歉的；遗憾的",
+    "example": ""
+  }
+]

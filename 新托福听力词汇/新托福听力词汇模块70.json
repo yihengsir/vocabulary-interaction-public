@@ -1,0 +1,302 @@
+[
+  {
+    "english": "boat",
+    "pos": "n.",
+    "chinese": "船；小船",
+    "example": ""
+  },
+  {
+    "english": "boy",
+    "pos": "n.",
+    "chinese": "男孩",
+    "example": ""
+  },
+  {
+    "english": "café",
+    "pos": "n.",
+    "chinese": "咖啡馆；小餐馆",
+    "example": ""
+  },
+  {
+    "english": "celebration",
+    "pos": "n.",
+    "chinese": "庆祝活动；庆典",
+    "example": ""
+  },
+  {
+    "english": "code",
+    "pos": "n.",
+    "chinese": "代码；编码",
+    "example": ""
+  },
+  {
+    "english": "college",
+    "pos": "n.",
+    "chinese": "学院；大学",
+    "example": ""
+  },
+  {
+    "english": "driver",
+    "pos": "n.",
+    "chinese": "驱动程序；司机",
+    "example": ""
+  },
+  {
+    "english": "father",
+    "pos": "n.",
+    "chinese": "父亲",
+    "example": ""
+  },
+  {
+    "english": "following",
+    "pos": "adj.",
+    "chinese": "接下来的；随后的",
+    "example": ""
+  },
+  {
+    "english": "funny",
+    "pos": "adj.",
+    "chinese": "有趣的；好笑的",
+    "example": ""
+  },
+  {
+    "english": "greet",
+    "pos": "v.",
+    "chinese": "问候；迎接",
+    "example": ""
+  },
+  {
+    "english": "guy",
+    "pos": "n.",
+    "chinese": "家伙；人（尤指男性）",
+    "example": ""
+  },
+  {
+    "english": "jump",
+    "pos": "v.",
+    "chinese": "跳；跃",
+    "example": ""
+  },
+  {
+    "english": "lady",
+    "pos": "n.",
+    "chinese": "女士；夫人",
+    "example": ""
+  },
+  {
+    "english": "lovely",
+    "pos": "adj.",
+    "chinese": "美丽的；可爱的",
+    "example": ""
+  },
+  {
+    "english": "math",
+    "pos": "n.",
+    "chinese": "数学（学科）",
+    "example": ""
+  },
+  {
+    "english": "poem",
+    "pos": "n.",
+    "chinese": "诗；诗歌",
+    "example": ""
+  },
+  {
+    "english": "potato",
+    "pos": "n.",
+    "chinese": "土豆；马铃薯",
+    "example": ""
+  },
+  {
+    "english": "prince",
+    "pos": "n.",
+    "chinese": "王子",
+    "example": ""
+  },
+  {
+    "english": "reporter",
+    "pos": "n.",
+    "chinese": "记者；新闻通讯员",
+    "example": ""
+  },
+  {
+    "english": "sad",
+    "pos": "adj.",
+    "chinese": "令人难过的；悲伤的",
+    "example": ""
+  },
+  {
+    "english": "shower",
+    "pos": "n.",
+    "chinese": "淋浴设备；淋浴间",
+    "example": ""
+  },
+  {
+    "english": "shy",
+    "pos": "adj.",
+    "chinese": "害羞的；羞怯的",
+    "example": ""
+  },
+  {
+    "english": "sick",
+    "pos": "adj.",
+    "chinese": "恶心的；想吐的",
+    "example": ""
+  },
+  {
+    "english": "skirt",
+    "pos": "n.",
+    "chinese": "裙子",
+    "example": ""
+  },
+  {
+    "english": "subway",
+    "pos": "n.",
+    "chinese": "地铁",
+    "example": ""
+  },
+  {
+    "english": "table",
+    "pos": "n.",
+    "chinese": "桌子；台子",
+    "example": ""
+  },
+  {
+    "english": "thirty",
+    "pos": "num.",
+    "chinese": "三十",
+    "example": ""
+  },
+  {
+    "english": "more",
+    "pos": "adv.",
+    "chinese": "更；更加（用于构成比较级，表示程度更高）",
+    "example": ""
+  },
+  {
+    "english": "still",
+    "pos": "adv.",
+    "chinese": "仍然、依旧",
+    "example": ""
+  },
+  {
+    "english": "fast",
+    "pos": "adv.",
+    "chinese": "快速地；迅速地",
+    "example": ""
+  },
+  {
+    "english": "movie",
+    "pos": "n.",
+    "chinese": "电影",
+    "example": ""
+  },
+  {
+    "english": "watch",
+    "pos": "v.",
+    "chinese": "观看（影片、节目、演示等）",
+    "example": ""
+  },
+  {
+    "english": "wall",
+    "pos": "n.",
+    "chinese": "墙；墙壁",
+    "example": ""
+  },
+  {
+    "english": "teacher",
+    "pos": "n.",
+    "chinese": "教师；老师",
+    "example": ""
+  },
+  {
+    "english": "shoe",
+    "pos": "n.",
+    "chinese": "鞋；处境（in someone's shoes）",
+    "example": ""
+  },
+  {
+    "english": "money",
+    "pos": "n.",
+    "chinese": "钱；货币",
+    "example": ""
+  },
+  {
+    "english": "child",
+    "pos": "n.",
+    "chinese": "儿童；孩子",
+    "example": ""
+  },
+  {
+    "english": "number",
+    "pos": "n.",
+    "chinese": "数字；号码；数量",
+    "example": ""
+  },
+  {
+    "english": "difficult",
+    "pos": "adj.",
+    "chinese": "困难的；难以做到的",
+    "example": ""
+  },
+  {
+    "english": "video",
+    "pos": "n.",
+    "chinese": "视频；录像（可播放的动态影像内容）",
+    "example": ""
+  },
+  {
+    "english": "cold",
+    "pos": "adj.",
+    "chinese": "寒冷的；冷的",
+    "example": ""
+  },
+  {
+    "english": "gift",
+    "pos": "n.",
+    "chinese": "礼物；赠品",
+    "example": ""
+  },
+  {
+    "english": "glass",
+    "pos": "n.",
+    "chinese": "玻璃；玻璃杯",
+    "example": ""
+  },
+  {
+    "english": "almost",
+    "pos": "adv.",
+    "chinese": "几乎；差不多",
+    "example": ""
+  },
+  {
+    "english": "wheel",
+    "pos": "n.",
+    "chinese": "轮子；车轮",
+    "example": ""
+  },
+  {
+    "english": "full",
+    "pos": "adj.",
+    "chinese": "满的；完整的；全部的",
+    "example": ""
+  },
+  {
+    "english": "language",
+    "pos": "n.",
+    "chinese": "语言；语言体系",
+    "example": ""
+  },
+  {
+    "english": "expensive",
+    "pos": "adj.",
+    "chinese": "昂贵的；代价高的",
+    "example": ""
+  },
+  {
+    "english": "moment",
+    "pos": "n.",
+    "chinese": "片刻；瞬间；时刻",
+    "example": ""
+  }
+]

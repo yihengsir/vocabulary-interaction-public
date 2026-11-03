@@ -1,0 +1,302 @@
+[
+  {
+    "english": "sail",
+    "pos": "v.",
+    "chinese": "航行；乘船航行",
+    "example": ""
+  },
+  {
+    "english": "skip",
+    "pos": "v.",
+    "chinese": "跳过；略过",
+    "example": ""
+  },
+  {
+    "english": "soundtrack",
+    "pos": "n.",
+    "chinese": "配乐；背景音乐",
+    "example": ""
+  },
+  {
+    "english": "splash",
+    "pos": "n.",
+    "chinese": "（水花四溅的）飞溅；溅泼",
+    "example": ""
+  },
+  {
+    "english": "split",
+    "pos": "v.",
+    "chinese": "分裂；分开",
+    "example": ""
+  },
+  {
+    "english": "squash",
+    "pos": "v.",
+    "chinese": "南瓜（植物）",
+    "example": ""
+  },
+  {
+    "english": "stamp",
+    "pos": "v.",
+    "chinese": "印；压印",
+    "example": ""
+  },
+  {
+    "english": "starvation",
+    "pos": "n.",
+    "chinese": "饥饿；饿死",
+    "example": ""
+  },
+  {
+    "english": "sustain",
+    "pos": "v.",
+    "chinese": "维持；保持",
+    "example": ""
+  },
+  {
+    "english": "trader",
+    "pos": "n.",
+    "chinese": "商人；从事贸易的人",
+    "example": ""
+  },
+  {
+    "english": "transparent",
+    "pos": "adj.",
+    "chinese": "透明的；可透光的",
+    "example": ""
+  },
+  {
+    "english": "utterly",
+    "pos": "adv.",
+    "chinese": "完全地；彻底地",
+    "example": ""
+  },
+  {
+    "english": "vibrate",
+    "pos": "v.",
+    "chinese": "振动、颤动",
+    "example": ""
+  },
+  {
+    "english": "villa",
+    "pos": "n.",
+    "chinese": "别墅；乡间宅邸",
+    "example": ""
+  },
+  {
+    "english": "width",
+    "pos": "n.",
+    "chinese": "宽度；广度",
+    "example": ""
+  },
+  {
+    "english": "wipe out",
+    "pos": "phr.",
+    "chinese": "消灭；彻底摧毁",
+    "example": ""
+  },
+  {
+    "english": "worm",
+    "pos": "n.",
+    "chinese": "蠕虫；蚯蚓",
+    "example": ""
+  },
+  {
+    "english": "balloon",
+    "pos": "n.",
+    "chinese": "气球；充气物",
+    "example": ""
+  },
+  {
+    "english": "clearly",
+    "pos": "adv.",
+    "chinese": "明显地；清楚地",
+    "example": ""
+  },
+  {
+    "english": "hunter",
+    "pos": "n.",
+    "chinese": "猎人；以狩猎为生的人",
+    "example": ""
+  },
+  {
+    "english": "violin",
+    "pos": "n.",
+    "chinese": "小提琴",
+    "example": ""
+  },
+  {
+    "english": "tv",
+    "pos": "n.",
+    "chinese": "电视；电视机",
+    "example": ""
+  },
+  {
+    "english": "draw",
+    "pos": "v.",
+    "chinese": "画；绘制",
+    "example": ""
+  },
+  {
+    "english": "blank",
+    "pos": "adj.",
+    "chinese": "空白的；未写字的",
+    "example": ""
+  },
+  {
+    "english": "engineer",
+    "pos": "n.",
+    "chinese": "工程师",
+    "example": ""
+  },
+  {
+    "english": "laugh",
+    "pos": "v.",
+    "chinese": "笑；大笑",
+    "example": ""
+  },
+  {
+    "english": "ship",
+    "pos": "n.",
+    "chinese": "船；轮船",
+    "example": ""
+  },
+  {
+    "english": "sweet",
+    "pos": "adj.",
+    "chinese": "甜的；令人满意的（如最佳状态）",
+    "example": ""
+  },
+  {
+    "english": "bend",
+    "pos": "v.",
+    "chinese": "使弯曲；改变（现实等）",
+    "example": ""
+  },
+  {
+    "english": "freedom",
+    "pos": "n.",
+    "chinese": "自由；不受限制的状态",
+    "example": ""
+  },
+  {
+    "english": "agricultural",
+    "pos": "adj.",
+    "chinese": "农业的；与农业有关的",
+    "example": ""
+  },
+  {
+    "english": "anxiety",
+    "pos": "n.",
+    "chinese": "焦虑；忧虑",
+    "example": ""
+  },
+  {
+    "english": "beaver",
+    "pos": "n.",
+    "chinese": "河狸；海狸",
+    "example": ""
+  },
+  {
+    "english": "breast",
+    "pos": "n.",
+    "chinese": "胸；胸部（骨骼）",
+    "example": ""
+  },
+  {
+    "english": "capsule",
+    "pos": "n.",
+    "chinese": "囊；胶囊状包裹物",
+    "example": ""
+  },
+  {
+    "english": "freely",
+    "pos": "adv.",
+    "chinese": "自由地；不受限制地",
+    "example": ""
+  },
+  {
+    "english": "gorilla",
+    "pos": "n.",
+    "chinese": "大猩猩",
+    "example": ""
+  },
+  {
+    "english": "greenhouse",
+    "pos": "n.",
+    "chinese": "温室气体（大气中能吸收并重新辐射热量的气体）",
+    "example": ""
+  },
+  {
+    "english": "invasion",
+    "pos": "n.",
+    "chinese": "入侵；侵犯（对城市或国家的武装进入或攻击）",
+    "example": ""
+  },
+  {
+    "english": "organ",
+    "pos": "n.",
+    "chinese": "器官（生物体内具有特定功能的构造）",
+    "example": ""
+  },
+  {
+    "english": "probability",
+    "pos": "n.",
+    "chinese": "概率；可能性（某事发生的几率）",
+    "example": ""
+  },
+  {
+    "english": "clean",
+    "pos": "adj.",
+    "chinese": "干净的；清洁的（没有污垢或有害物质的）",
+    "example": ""
+  },
+  {
+    "english": "colour",
+    "pos": "n.",
+    "chinese": "颜色；色彩（物体反射光所呈现的视觉属性）",
+    "example": ""
+  },
+  {
+    "english": "row",
+    "pos": "n.",
+    "chinese": "一排，一行",
+    "example": ""
+  },
+  {
+    "english": "surprise",
+    "pos": "n.",
+    "chinese": "意外，令人惊讶的事",
+    "example": ""
+  },
+  {
+    "english": "tight",
+    "pos": "adj.",
+    "chinese": "紧的，紧密的；紧迫的",
+    "example": ""
+  },
+  {
+    "english": "fiddle",
+    "pos": "n.",
+    "chinese": "小提琴（尤指民间或乡村音乐中使用的提琴）",
+    "example": ""
+  },
+  {
+    "english": "artificial",
+    "pos": "adj.",
+    "chinese": "人造的；人工的",
+    "example": ""
+  },
+  {
+    "english": "attractive",
+    "pos": "adj.",
+    "chinese": "有吸引力的；好看的",
+    "example": ""
+  },
+  {
+    "english": "basket",
+    "pos": "n.",
+    "chinese": "篮子；筐",
+    "example": ""
+  }
+]

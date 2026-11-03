@@ -1,0 +1,302 @@
+[
+  {
+    "english": "investigative",
+    "pos": "adj.",
+    "chinese": "调查性的；从事调查的",
+    "example": ""
+  },
+  {
+    "english": "irish",
+    "pos": "adj.",
+    "chinese": "爱尔兰的；爱尔兰人的",
+    "example": ""
+  },
+  {
+    "english": "keynote",
+    "pos": "adj.",
+    "chinese": "主题的；主旨的",
+    "example": ""
+  },
+  {
+    "english": "lifesaver",
+    "pos": "n.",
+    "chinese": "救命恩人；帮大忙的人",
+    "example": ""
+  },
+  {
+    "english": "listing",
+    "pos": "n.",
+    "chinese": "列表；清单；房源信息",
+    "example": ""
+  },
+  {
+    "english": "locker",
+    "pos": "n.",
+    "chinese": "储物柜；寄物柜",
+    "example": ""
+  },
+  {
+    "english": "lonesome",
+    "pos": "adj.",
+    "chinese": "孤独的；寂寞的",
+    "example": ""
+  },
+  {
+    "english": "lookout",
+    "pos": "n.",
+    "chinese": "留意；警觉观察",
+    "example": ""
+  },
+  {
+    "english": "marsh",
+    "pos": "n.",
+    "chinese": "沼泽；湿地",
+    "example": ""
+  },
+  {
+    "english": "martial",
+    "pos": "adj.",
+    "chinese": "武术的；军事的",
+    "example": ""
+  },
+  {
+    "english": "meantime",
+    "pos": "n.",
+    "chinese": "其间；与此同时",
+    "example": ""
+  },
+  {
+    "english": "meetup",
+    "pos": "n.",
+    "chinese": "聚会；会面",
+    "example": ""
+  },
+  {
+    "english": "mellow",
+    "pos": "adj.",
+    "chinese": "柔和轻松的；不刺激的",
+    "example": ""
+  },
+  {
+    "english": "metallic",
+    "pos": "adj.",
+    "chinese": "金属的；金属质感的",
+    "example": ""
+  },
+  {
+    "english": "midterm",
+    "pos": "n.",
+    "chinese": "期中的；学期中间的",
+    "example": ""
+  },
+  {
+    "english": "misinformation",
+    "pos": "n.",
+    "chinese": "错误信息；虚假消息",
+    "example": ""
+  },
+  {
+    "english": "momentum",
+    "pos": "n.",
+    "chinese": "势头；动力",
+    "example": ""
+  },
+  {
+    "english": "motivational",
+    "pos": "adj.",
+    "chinese": "激励性的；鼓舞人心的",
+    "example": ""
+  },
+  {
+    "english": "mousse",
+    "pos": "n.",
+    "chinese": "慕斯（一种甜点）",
+    "example": ""
+  },
+  {
+    "english": "multipurpose",
+    "pos": "adj.",
+    "chinese": "多用途的；多功能的",
+    "example": ""
+  },
+  {
+    "english": "nighter",
+    "pos": "n.",
+    "chinese": "通宵（活动），熬夜的一夜",
+    "example": ""
+  },
+  {
+    "english": "nightly",
+    "pos": "adj.",
+    "chinese": "每夜的，夜间进行的",
+    "example": ""
+  },
+  {
+    "english": "nominate",
+    "pos": "v.",
+    "chinese": "提名，推荐（某人担任某职）",
+    "example": ""
+  },
+  {
+    "english": "notch",
+    "pos": "n.",
+    "chinese": "等级，档次（常用于 top notch 表示一流）",
+    "example": ""
+  },
+  {
+    "english": "notify",
+    "pos": "v.",
+    "chinese": "通知，告知",
+    "example": ""
+  },
+  {
+    "english": "nudge",
+    "pos": "v.",
+    "chinese": "轻推；催促，提醒（某人做某事）",
+    "example": ""
+  },
+  {
+    "english": "numbered",
+    "pos": "adj.",
+    "chinese": "有编号的，标了号码的",
+    "example": ""
+  },
+  {
+    "english": "optimal",
+    "pos": "adj.",
+    "chinese": "最佳的，最理想的",
+    "example": ""
+  },
+  {
+    "english": "ora",
+    "pos": "num.",
+    "chinese": "或者；或（连接并列成分）",
+    "example": ""
+  },
+  {
+    "english": "origami",
+    "pos": "n.",
+    "chinese": "折纸；折纸艺术",
+    "example": ""
+  },
+  {
+    "english": "outage",
+    "pos": "n.",
+    "chinese": "停电；供电中断",
+    "example": ""
+  },
+  {
+    "english": "outskirt",
+    "pos": "n.",
+    "chinese": "郊区；市郊（常用复数）",
+    "example": ""
+  },
+  {
+    "english": "overheat",
+    "pos": "v.",
+    "chinese": "过热；变得太热",
+    "example": ""
+  },
+  {
+    "english": "pacing",
+    "pos": "n.",
+    "chinese": "节奏；步调（尤指叙事节奏）",
+    "example": ""
+  },
+  {
+    "english": "paleontology",
+    "pos": "n.",
+    "chinese": "古生物学",
+    "example": ""
+  },
+  {
+    "english": "parenting",
+    "pos": "n.",
+    "chinese": "育儿；养育子女",
+    "example": ""
+  },
+  {
+    "english": "peek",
+    "pos": "n.",
+    "chinese": "一瞥；快速看一眼",
+    "example": ""
+  },
+  {
+    "english": "pertain",
+    "pos": "v.",
+    "chinese": "涉及；与……有关",
+    "example": ""
+  },
+  {
+    "english": "pharaoh",
+    "pos": "adj.",
+    "chinese": "法老的；古埃及法老相关的",
+    "example": ""
+  },
+  {
+    "english": "pianist",
+    "pos": "n.",
+    "chinese": "钢琴家；钢琴演奏者",
+    "example": ""
+  },
+  {
+    "english": "pickleball",
+    "pos": "n.",
+    "chinese": "匹克球（一种球拍运动）",
+    "example": ""
+  },
+  {
+    "english": "pickleballer",
+    "pos": "n.",
+    "chinese": "匹克球运动员；打匹克球的人",
+    "example": ""
+  },
+  {
+    "english": "pickup",
+    "pos": "n.",
+    "chinese": "取货；领取",
+    "example": ""
+  },
+  {
+    "english": "pitcher",
+    "pos": "n.",
+    "chinese": "（大）水壶；罐",
+    "example": ""
+  },
+  {
+    "english": "plentiful",
+    "pos": "adj.",
+    "chinese": "充足的；丰富的",
+    "example": ""
+  },
+  {
+    "english": "prep",
+    "pos": "n.",
+    "chinese": "食物准备（备餐）",
+    "example": ""
+  },
+  {
+    "english": "projector",
+    "pos": "n.",
+    "chinese": "投影仪",
+    "example": ""
+  },
+  {
+    "english": "punk",
+    "pos": "n.",
+    "chinese": "朋克（摇滚乐风格）",
+    "example": ""
+  },
+  {
+    "english": "pyramid",
+    "pos": "n.",
+    "chinese": "金字塔（形状或建筑）",
+    "example": ""
+  },
+  {
+    "english": "quantitative",
+    "pos": "adj.",
+    "chinese": "定量的",
+    "example": ""
+  }
+]

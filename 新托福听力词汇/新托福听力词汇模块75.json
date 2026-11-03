@@ -1,0 +1,302 @@
+[
+  {
+    "english": "trigger",
+    "pos": "v.",
+    "chinese": "引发；触发",
+    "example": ""
+  },
+  {
+    "english": "commons",
+    "pos": "n.",
+    "chinese": "公共区域；公共空间",
+    "example": ""
+  },
+  {
+    "english": "down",
+    "pos": "adv.",
+    "chinese": "向下；在下方",
+    "example": ""
+  },
+  {
+    "english": "guitar",
+    "pos": "n.",
+    "chinese": "吉他",
+    "example": ""
+  },
+  {
+    "english": "true",
+    "pos": "adj.",
+    "chinese": "真实的、真正的；确实的（表示同意）",
+    "example": ""
+  },
+  {
+    "english": "concentrate",
+    "pos": "v.",
+    "chinese": "集中注意力；专心（于某事）",
+    "example": ""
+  },
+  {
+    "english": "answer",
+    "pos": "v.",
+    "chinese": "回答；答复；解答（问题）",
+    "example": ""
+  },
+  {
+    "english": "describe",
+    "pos": "v.",
+    "chinese": "描述；形容",
+    "example": ""
+  },
+  {
+    "english": "biohacking",
+    "pos": "v.",
+    "chinese": "生物黑客行为；用技术手段优化身体机能",
+    "example": ""
+  },
+  {
+    "english": "hydrophone",
+    "pos": "n.",
+    "chinese": "水听器；水下测声仪",
+    "example": ""
+  },
+  {
+    "english": "mandible",
+    "pos": "n.",
+    "chinese": "（昆虫的）上颚；大颚",
+    "example": ""
+  },
+  {
+    "english": "bone",
+    "pos": "n.",
+    "chinese": "骨头；骨骼",
+    "example": ""
+  },
+  {
+    "english": "map",
+    "pos": "n.",
+    "chinese": "地图；示意图",
+    "example": ""
+  },
+  {
+    "english": "ten",
+    "pos": "num.",
+    "chinese": "十",
+    "example": ""
+  },
+  {
+    "english": "brighten",
+    "pos": "v.",
+    "chinese": "使明亮；使生辉",
+    "example": ""
+  },
+  {
+    "english": "dine",
+    "pos": "v.",
+    "chinese": "用餐；进餐",
+    "example": ""
+  },
+  {
+    "english": "eating",
+    "pos": "n.",
+    "chinese": "进食；饮食",
+    "example": ""
+  },
+  {
+    "english": "founder",
+    "pos": "n.",
+    "chinese": "创始人；创办者",
+    "example": ""
+  },
+  {
+    "english": "locally",
+    "pos": "adv.",
+    "chinese": "在当地；本地地",
+    "example": ""
+  },
+  {
+    "english": "melville",
+    "pos": "prop.n.",
+    "chinese": "梅尔维尔（姓氏，如作家赫尔曼·梅尔维尔）",
+    "example": ""
+  },
+  {
+    "english": "motivating",
+    "pos": "n.",
+    "chinese": "激励人的；有推动作用的",
+    "example": ""
+  },
+  {
+    "english": "nighttime",
+    "pos": "adj.",
+    "chinese": "夜间的；夜晚的",
+    "example": ""
+  },
+  {
+    "english": "ornithologist",
+    "pos": "n.",
+    "chinese": "鸟类学家",
+    "example": ""
+  },
+  {
+    "english": "responsiveness",
+    "pos": "n.",
+    "chinese": "响应能力；回应性",
+    "example": ""
+  },
+  {
+    "english": "restock",
+    "pos": "v.",
+    "chinese": "补充（货物、库存）；重新进货",
+    "example": ""
+  },
+  {
+    "english": "rye",
+    "pos": "prop.n.",
+    "chinese": "（用于地名或专名中的）Rye；赖伊",
+    "example": ""
+  },
+  {
+    "english": "smoothie",
+    "pos": "n.",
+    "chinese": "冰沙；果昔（将水果等搅打成的浓稠饮品）",
+    "example": ""
+  },
+  {
+    "english": "willow",
+    "pos": "n.",
+    "chinese": "柳树；柳属植物",
+    "example": ""
+  },
+  {
+    "english": "confuse",
+    "pos": "v.",
+    "chinese": "使困惑；使迷惑；把……弄混",
+    "example": ""
+  },
+  {
+    "english": "international",
+    "pos": "adj.",
+    "chinese": "国际的；涉及多个国家的",
+    "example": ""
+  },
+  {
+    "english": "private",
+    "pos": "adj.",
+    "chinese": "私人的；非公开的；专用的",
+    "example": ""
+  },
+  {
+    "english": "roof",
+    "pos": "n.",
+    "chinese": "屋顶；房顶",
+    "example": ""
+  },
+  {
+    "english": "soap",
+    "pos": "n.",
+    "chinese": "肥皂；皂",
+    "example": ""
+  },
+  {
+    "english": "rob",
+    "pos": "prop.n.",
+    "chinese": "罗布（男子名）",
+    "example": ""
+  },
+  {
+    "english": "nanoparticle",
+    "pos": "n.",
+    "chinese": "纳米颗粒；纳米粒子",
+    "example": ""
+  },
+  {
+    "english": "qualitative",
+    "pos": "adj.",
+    "chinese": "定性的；与性质或特征有关的（而非数量）",
+    "example": ""
+  },
+  {
+    "english": "adventure",
+    "pos": "n.",
+    "chinese": "冒险；奇遇",
+    "example": ""
+  },
+  {
+    "english": "attack",
+    "pos": "v.",
+    "chinese": "侵袭；攻击",
+    "example": ""
+  },
+  {
+    "english": "clue",
+    "pos": "n.",
+    "chinese": "线索；提示",
+    "example": ""
+  },
+  {
+    "english": "compare",
+    "pos": "v.",
+    "chinese": "比较；对比",
+    "example": ""
+  },
+  {
+    "english": "convenience",
+    "pos": "n.",
+    "chinese": "便利；方便",
+    "example": ""
+  },
+  {
+    "english": "death",
+    "pos": "n.",
+    "chinese": "死亡；死",
+    "example": ""
+  },
+  {
+    "english": "feather",
+    "pos": "n.",
+    "chinese": "羽毛",
+    "example": ""
+  },
+  {
+    "english": "globe",
+    "pos": "n.",
+    "chinese": "地球；全球",
+    "example": ""
+  },
+  {
+    "english": "independence",
+    "pos": "n.",
+    "chinese": "独立；自主",
+    "example": ""
+  },
+  {
+    "english": "labor",
+    "pos": "n.",
+    "chinese": "劳动；劳动力",
+    "example": ""
+  },
+  {
+    "english": "nearly",
+    "pos": "adv.",
+    "chinese": "几乎；将近",
+    "example": ""
+  },
+  {
+    "english": "roughly",
+    "pos": "adv.",
+    "chinese": "大约；粗略地",
+    "example": ""
+  },
+  {
+    "english": "uniform",
+    "pos": "adj.",
+    "chinese": "一致的；统一的",
+    "example": ""
+  },
+  {
+    "english": "wealth",
+    "pos": "n.",
+    "chinese": "财富；财产",
+    "example": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "english": "cyber",
+    "pos": "adj.",
+    "chinese": "网络的；与计算机网络相关的",
+    "example": ""
+  },
+  {
+    "english": "dame",
+    "pos": "n.",
+    "chinese": "夫人；贵妇（用于头衔或专有名称中）",
+    "example": ""
+  },
+  {
+    "english": "dawson",
+    "pos": "n.",
+    "chinese": "道森（地名或专有名称）",
+    "example": ""
+  },
+  {
+    "english": "daycare",
+    "pos": "n.",
+    "chinese": "日托中心；托儿所",
+    "example": ""
+  },
+  {
+    "english": "debater",
+    "pos": "n.",
+    "chinese": "辩论者；辩手",
+    "example": ""
+  },
+  {
+    "english": "defund",
+    "pos": "v.",
+    "chinese": "削减（或取消）对……的资金支持",
+    "example": ""
+  },
+  {
+    "english": "developer",
+    "pos": "n.",
+    "chinese": "开发者；研制者（如产品、游戏等的开发方）",
+    "example": ""
+  },
+  {
+    "english": "didn't",
+    "pos": "interj.",
+    "chinese": "（用于附加疑问句）不是吗？",
+    "example": ""
+  },
+  {
+    "english": "digitally",
+    "pos": "adv.",
+    "chinese": "以数字方式；通过电子方式",
+    "example": ""
+  },
+  {
+    "english": "disruption",
+    "pos": "n.",
+    "chinese": "干扰；中断；扰乱",
+    "example": ""
+  },
+  {
+    "english": "ditch",
+    "pos": "v.",
+    "chinese": "放弃；抛弃（计划、想法等）",
+    "example": ""
+  },
+  {
+    "english": "dome",
+    "pos": "n.",
+    "chinese": "穹顶；圆顶",
+    "example": ""
+  },
+  {
+    "english": "donor",
+    "pos": "n.",
+    "chinese": "捐赠者；捐献人",
+    "example": ""
+  },
+  {
+    "english": "dough",
+    "pos": "n.",
+    "chinese": "面团",
+    "example": ""
+  },
+  {
+    "english": "downtime",
+    "pos": "n.",
+    "chinese": "停机时间；（系统）停工期",
+    "example": ""
+  },
+  {
+    "english": "eclipse",
+    "pos": "n.",
+    "chinese": "（日、月）食",
+    "example": ""
+  },
+  {
+    "english": "econ",
+    "pos": "n.",
+    "chinese": "经济学（课程）",
+    "example": ""
+  },
+  {
+    "english": "economically",
+    "pos": "adv.",
+    "chinese": "在经济上；从经济角度",
+    "example": ""
+  },
+  {
+    "english": "egyptian",
+    "pos": "adj.",
+    "chinese": "埃及的；埃及人的",
+    "example": ""
+  },
+  {
+    "english": "energize",
+    "pos": "v.",
+    "chinese": "使精力充沛；使充满活力",
+    "example": ""
+  },
+  {
+    "english": "english",
+    "pos": "adj.",
+    "chinese": "英语的；与英语相关的",
+    "example": ""
+  },
+  {
+    "english": "ensue",
+    "pos": "v.",
+    "chinese": "随后发生；接着出现",
+    "example": ""
+  },
+  {
+    "english": "eventful",
+    "pos": "adj.",
+    "chinese": "多事的；充满大事的",
+    "example": ""
+  },
+  {
+    "english": "ex",
+    "pos": "n.",
+    "chinese": "前任的（用于名词前表示以前的）",
+    "example": ""
+  },
+  {
+    "english": "expedition",
+    "pos": "n.",
+    "chinese": "探险；远征；考察旅行",
+    "example": ""
+  },
+  {
+    "english": "explicitly",
+    "pos": "adv.",
+    "chinese": "明确地；清楚地",
+    "example": ""
+  },
+  {
+    "english": "florence",
+    "pos": "n.",
+    "chinese": "佛罗伦萨（意大利城市）",
+    "example": ""
+  },
+  {
+    "english": "folded",
+    "pos": "adj.",
+    "chinese": "折叠的",
+    "example": ""
+  },
+  {
+    "english": "footwear",
+    "pos": "n.",
+    "chinese": "鞋类",
+    "example": ""
+  },
+  {
+    "english": "forgot",
+    "pos": "v.",
+    "chinese": "忘记（做某事）",
+    "example": ""
+  },
+  {
+    "english": "formating",
+    "pos": "n.",
+    "chinese": "格式编排",
+    "example": ""
+  },
+  {
+    "english": "gauge",
+    "pos": "v.",
+    "chinese": "衡量，评估",
+    "example": ""
+  },
+  {
+    "english": "getting",
+    "pos": "n.",
+    "chinese": "开始（做某事）",
+    "example": ""
+  },
+  {
+    "english": "grading",
+    "pos": "n.",
+    "chinese": "评分，打分",
+    "example": ""
+  },
+  {
+    "english": "greener",
+    "pos": "n.",
+    "chinese": "更环保的",
+    "example": ""
+  },
+  {
+    "english": "grindstone",
+    "pos": "n.",
+    "chinese": "磨石（用于磨刀）",
+    "example": ""
+  },
+  {
+    "english": "halfway",
+    "pos": "adv.",
+    "chinese": "在中途，半途",
+    "example": ""
+  },
+  {
+    "english": "hallway",
+    "pos": "n.",
+    "chinese": "走廊，过道",
+    "example": ""
+  },
+  {
+    "english": "handmade",
+    "pos": "adj.",
+    "chinese": "手工制作的",
+    "example": ""
+  },
+  {
+    "english": "hassle",
+    "pos": "n.",
+    "chinese": "麻烦事；令人烦恼的事",
+    "example": ""
+  },
+  {
+    "english": "haywire",
+    "pos": "n.",
+    "chinese": "失控；出故障",
+    "example": ""
+  },
+  {
+    "english": "hoop",
+    "pos": "n.",
+    "chinese": "圈；环（常引申为需费力跨越的障碍）",
+    "example": ""
+  },
+  {
+    "english": "huh",
+    "pos": "interj.",
+    "chinese": "嗯？（表示疑问或没听清）",
+    "example": ""
+  },
+  {
+    "english": "hum",
+    "pos": "n.",
+    "chinese": "嗡嗡声；低沉的连续声",
+    "example": ""
+  },
+  {
+    "english": "hygienic",
+    "pos": "adj.",
+    "chinese": "卫生的；清洁的",
+    "example": ""
+  },
+  {
+    "english": "impactful",
+    "pos": "adj.",
+    "chinese": "有影响力的；令人印象深刻的",
+    "example": ""
+  },
+  {
+    "english": "inaugural",
+    "pos": "adj.",
+    "chinese": "首次的；开幕的",
+    "example": ""
+  },
+  {
+    "english": "inauguration",
+    "pos": "n.",
+    "chinese": "就职典礼；落成典礼；成立仪式",
+    "example": ""
+  },
+  {
+    "english": "individually",
+    "pos": "adv.",
+    "chinese": "单独地；个别地",
+    "example": ""
+  },
+  {
+    "english": "intro",
+    "pos": "n.",
+    "chinese": "引言；开头部分",
+    "example": ""
+  }
+]

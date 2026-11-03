@@ -1,0 +1,302 @@
+[
+  {
+    "english": "anticipate",
+    "pos": "v.",
+    "chinese": "预料；预期",
+    "example": ""
+  },
+  {
+    "english": "appropriately",
+    "pos": "adv.",
+    "chinese": "适当地；得体地",
+    "example": ""
+  },
+  {
+    "english": "backyard",
+    "pos": "n.",
+    "chinese": "后院",
+    "example": ""
+  },
+  {
+    "english": "brochure",
+    "pos": "n.",
+    "chinese": "小册子；宣传册",
+    "example": ""
+  },
+  {
+    "english": "carve",
+    "pos": "v.",
+    "chinese": "切出；开辟出（时间等）",
+    "example": ""
+  },
+  {
+    "english": "clarify",
+    "pos": "v.",
+    "chinese": "澄清；阐明",
+    "example": ""
+  },
+  {
+    "english": "commemorate",
+    "pos": "v.",
+    "chinese": "纪念；庆祝（重要事件）",
+    "example": ""
+  },
+  {
+    "english": "conceal",
+    "pos": "v.",
+    "chinese": "隐藏；掩盖",
+    "example": ""
+  },
+  {
+    "english": "contempt",
+    "pos": "n.",
+    "chinese": "藐视；轻蔑",
+    "example": ""
+  },
+  {
+    "english": "counter",
+    "pos": "n.",
+    "chinese": "柜台；台面",
+    "example": ""
+  },
+  {
+    "english": "debit",
+    "pos": "n.",
+    "chinese": "借记；借方",
+    "example": ""
+  },
+  {
+    "english": "decent",
+    "pos": "adj.",
+    "chinese": "像样的；尚可的",
+    "example": ""
+  },
+  {
+    "english": "diploma",
+    "pos": "n.",
+    "chinese": "文凭；毕业证书",
+    "example": ""
+  },
+  {
+    "english": "draft",
+    "pos": "n.",
+    "chinese": "草稿；初稿",
+    "example": ""
+  },
+  {
+    "english": "edit",
+    "pos": "v.",
+    "chinese": "编辑；修改",
+    "example": ""
+  },
+  {
+    "english": "electronically",
+    "pos": "adv.",
+    "chinese": "以电子方式",
+    "example": ""
+  },
+  {
+    "english": "enforce",
+    "pos": "v.",
+    "chinese": "执行；强制实施（规定、规则等）",
+    "example": ""
+  },
+  {
+    "english": "enrol",
+    "pos": "v.",
+    "chinese": "注册；报名参加（课程、活动等）",
+    "example": ""
+  },
+  {
+    "english": "enroll",
+    "pos": "v.",
+    "chinese": "注册；报名参加（课程等）",
+    "example": ""
+  },
+  {
+    "english": "envy",
+    "pos": "v.",
+    "chinese": "羡慕；嫉妒",
+    "example": ""
+  },
+  {
+    "english": "equip",
+    "pos": "v.",
+    "chinese": "使具备；装备（技能、知识等）",
+    "example": ""
+  },
+  {
+    "english": "footnote",
+    "pos": "n.",
+    "chinese": "脚注；页脚注释",
+    "example": ""
+  },
+  {
+    "english": "fraud",
+    "pos": "n.",
+    "chinese": "欺诈；学术不端行为",
+    "example": ""
+  },
+  {
+    "english": "handout",
+    "pos": "n.",
+    "chinese": "讲义；分发材料",
+    "example": ""
+  },
+  {
+    "english": "herb",
+    "pos": "n.",
+    "chinese": "草本植物（尤指用于调味或药用的香草）",
+    "example": ""
+  },
+  {
+    "english": "honour",
+    "pos": "v.",
+    "chinese": "表彰；向…致敬",
+    "example": ""
+  },
+  {
+    "english": "instruct",
+    "pos": "v.",
+    "chinese": "指示；吩咐；指导",
+    "example": ""
+  },
+  {
+    "english": "linen",
+    "pos": "n.",
+    "chinese": "亚麻布；亚麻制品",
+    "example": ""
+  },
+  {
+    "english": "mediocre",
+    "pos": "adj.",
+    "chinese": "平庸的；普通的；质量一般的",
+    "example": ""
+  },
+  {
+    "english": "microscope",
+    "pos": "n.",
+    "chinese": "显微镜",
+    "example": ""
+  },
+  {
+    "english": "offense",
+    "pos": "n.",
+    "chinese": "冒犯；得罪",
+    "example": ""
+  },
+  {
+    "english": "opponent",
+    "pos": "n.",
+    "chinese": "对手；敌手",
+    "example": ""
+  },
+  {
+    "english": "passionate",
+    "pos": "adj.",
+    "chinese": "热情的；充满热忱的",
+    "example": ""
+  },
+  {
+    "english": "programming",
+    "pos": "n.",
+    "chinese": "编程；程序设计",
+    "example": ""
+  },
+  {
+    "english": "promptly",
+    "pos": "adv.",
+    "chinese": "准时地；立即",
+    "example": ""
+  },
+  {
+    "english": "rainstorm",
+    "pos": "n.",
+    "chinese": "暴风雨",
+    "example": ""
+  },
+  {
+    "english": "rehearsal",
+    "pos": "n.",
+    "chinese": "排练；彩排",
+    "example": ""
+  },
+  {
+    "english": "scandal",
+    "pos": "n.",
+    "chinese": "丑闻；学术造假等引起公愤的事件",
+    "example": ""
+  },
+  {
+    "english": "seller",
+    "pos": "n.",
+    "chinese": "畅销商品；卖得好的东西",
+    "example": ""
+  },
+  {
+    "english": "spray",
+    "pos": "v.",
+    "chinese": "喷洒；喷（液体或气体）",
+    "example": ""
+  },
+  {
+    "english": "telescope",
+    "pos": "n.",
+    "chinese": "望远镜",
+    "example": ""
+  },
+  {
+    "english": "thesis",
+    "pos": "n.",
+    "chinese": "学位论文；毕业论文",
+    "example": ""
+  },
+  {
+    "english": "toll",
+    "pos": "n.",
+    "chinese": "通行费；过路费",
+    "example": ""
+  },
+  {
+    "english": "trainee",
+    "pos": "n.",
+    "chinese": "受训者；实习生",
+    "example": ""
+  },
+  {
+    "english": "tray",
+    "pos": "n.",
+    "chinese": "托盘；浅盘",
+    "example": ""
+  },
+  {
+    "english": "tricky",
+    "pos": "adj.",
+    "chinese": "棘手的；难对付的",
+    "example": ""
+  },
+  {
+    "english": "trophy",
+    "pos": "n.",
+    "chinese": "奖杯",
+    "example": ""
+  },
+  {
+    "english": "understandable",
+    "pos": "adj.",
+    "chinese": "可以理解的；合乎情理的",
+    "example": ""
+  },
+  {
+    "english": "unforeseen",
+    "pos": "adj.",
+    "chinese": "未预料到的；意外的",
+    "example": ""
+  },
+  {
+    "english": "urge",
+    "pos": "v.",
+    "chinese": "敦促；力劝",
+    "example": ""
+  }
+]

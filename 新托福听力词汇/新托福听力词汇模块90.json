@@ -1,0 +1,302 @@
+[
+  {
+    "english": "sunscreen",
+    "pos": "n.",
+    "chinese": "防晒霜",
+    "example": ""
+  },
+  {
+    "english": "voids",
+    "pos": "n.",
+    "chinese": "空隙，空洞（物质腐烂后留下的空间）",
+    "example": ""
+  },
+  {
+    "english": "green",
+    "pos": "adj.",
+    "chinese": "绿色的",
+    "example": ""
+  },
+  {
+    "english": "hair",
+    "pos": "n.",
+    "chinese": "毛发；细毛",
+    "example": ""
+  },
+  {
+    "english": "snow",
+    "pos": "n.",
+    "chinese": "雪",
+    "example": ""
+  },
+  {
+    "english": "admire",
+    "pos": "v.",
+    "chinese": "钦佩；赞赏",
+    "example": ""
+  },
+  {
+    "english": "badly",
+    "pos": "adv.",
+    "chinese": "糟糕地；不利地",
+    "example": ""
+  },
+  {
+    "english": "beauty",
+    "pos": "n.",
+    "chinese": "美；美感",
+    "example": ""
+  },
+  {
+    "english": "bored",
+    "pos": "adj.",
+    "chinese": "感到无聊的；厌烦的",
+    "example": ""
+  },
+  {
+    "english": "capital",
+    "pos": "n.",
+    "chinese": "首都；首府",
+    "example": ""
+  },
+  {
+    "english": "cereal",
+    "pos": "n.",
+    "chinese": "谷类食品；麦片",
+    "example": ""
+  },
+  {
+    "english": "coast",
+    "pos": "n.",
+    "chinese": "海岸；沿海地区",
+    "example": ""
+  },
+  {
+    "english": "coin",
+    "pos": "n.",
+    "chinese": "硬币",
+    "example": ""
+  },
+  {
+    "english": "confident",
+    "pos": "adj.",
+    "chinese": "自信的；有把握的",
+    "example": ""
+  },
+  {
+    "english": "consist",
+    "pos": "v.",
+    "chinese": "由……组成；包含",
+    "example": ""
+  },
+  {
+    "english": "dishonest",
+    "pos": "adj.",
+    "chinese": "不诚实的；不正直的",
+    "example": ""
+  },
+  {
+    "english": "disturb",
+    "pos": "v.",
+    "chinese": "扰乱；搅动",
+    "example": ""
+  },
+  {
+    "english": "doubt",
+    "pos": "n.",
+    "chinese": "怀疑；疑问",
+    "example": ""
+  },
+  {
+    "english": "earthquake",
+    "pos": "n.",
+    "chinese": "地震",
+    "example": ""
+  },
+  {
+    "english": "elsewhere",
+    "pos": "adv.",
+    "chinese": "在其他地方；别处",
+    "example": ""
+  },
+  {
+    "english": "importantly",
+    "pos": "adv.",
+    "chinese": "重要的是；值得注意的是",
+    "example": ""
+  },
+  {
+    "english": "instant",
+    "pos": "adj.",
+    "chinese": "立即的；即时的",
+    "example": ""
+  },
+  {
+    "english": "lively",
+    "pos": "adj.",
+    "chinese": "生动活泼的；充满活力的",
+    "example": ""
+  },
+  {
+    "english": "manner",
+    "pos": "n.",
+    "chinese": "方式；方法",
+    "example": ""
+  },
+  {
+    "english": "mysterious",
+    "pos": "adj.",
+    "chinese": "神秘的；难以解释的",
+    "example": ""
+  },
+  {
+    "english": "on",
+    "pos": "adv.",
+    "chinese": "（用于短语）继续；等等",
+    "example": ""
+  },
+  {
+    "english": "pollute",
+    "pos": "v.",
+    "chinese": "污染",
+    "example": ""
+  },
+  {
+    "english": "ring",
+    "pos": "n.",
+    "chinese": "环；圈",
+    "example": ""
+  },
+  {
+    "english": "shade",
+    "pos": "n.",
+    "chinese": "色度；色调；（色彩的）浓淡",
+    "example": ""
+  },
+  {
+    "english": "shampoo",
+    "pos": "n.",
+    "chinese": "洗发水；洗发剂",
+    "example": ""
+  },
+  {
+    "english": "stair",
+    "pos": "n.",
+    "chinese": "楼梯；一级台阶",
+    "example": ""
+  },
+  {
+    "english": "successfully",
+    "pos": "adv.",
+    "chinese": "成功地；顺利地",
+    "example": ""
+  },
+  {
+    "english": "tourist",
+    "pos": "n.",
+    "chinese": "游客；旅游者",
+    "example": ""
+  },
+  {
+    "english": "unhealthy",
+    "pos": "adj.",
+    "chinese": "不健康的；受损的",
+    "example": ""
+  },
+  {
+    "english": "unnecessary",
+    "pos": "adj.",
+    "chinese": "不必要的；多余的",
+    "example": ""
+  },
+  {
+    "english": "weak",
+    "pos": "adj.",
+    "chinese": "脆弱的；不牢固的",
+    "example": ""
+  },
+  {
+    "english": "wet",
+    "pos": "adj.",
+    "chinese": "湿的；未干的",
+    "example": ""
+  },
+  {
+    "english": "bribe",
+    "pos": "v.",
+    "chinese": "贿赂、行贿",
+    "example": ""
+  },
+  {
+    "english": "chart",
+    "pos": "v.",
+    "chinese": "绘制；标绘（路线、地图等）",
+    "example": ""
+  },
+  {
+    "english": "conserve",
+    "pos": "v.",
+    "chinese": "保存、节省（能量等资源）",
+    "example": ""
+  },
+  {
+    "english": "dominant",
+    "pos": "adj.",
+    "chinese": "占主导地位的；主流的",
+    "example": ""
+  },
+  {
+    "english": "eccentric",
+    "pos": "adj.",
+    "chinese": "（乐器）构造或设计不同寻常的",
+    "example": ""
+  },
+  {
+    "english": "elusive",
+    "pos": "adj.",
+    "chinese": "难以找到的；稀有的",
+    "example": ""
+  },
+  {
+    "english": "engross",
+    "pos": "v.",
+    "chinese": "全神贯注于；使沉浸于",
+    "example": ""
+  },
+  {
+    "english": "favorably",
+    "pos": "adv.",
+    "chinese": "更正面地；更赞许地",
+    "example": ""
+  },
+  {
+    "english": "geologically",
+    "pos": "adv.",
+    "chinese": "地质上；从地质角度",
+    "example": ""
+  },
+  {
+    "english": "intuitively",
+    "pos": "adv.",
+    "chinese": "凭直觉地；直觉上",
+    "example": ""
+  },
+  {
+    "english": "methodical",
+    "pos": "adj.",
+    "chinese": "有条理的；系统性的",
+    "example": ""
+  },
+  {
+    "english": "obscure",
+    "pos": "adj.",
+    "chinese": "鲜为人知的；不为人所熟知的",
+    "example": ""
+  },
+  {
+    "english": "ornamental",
+    "pos": "adj.",
+    "chinese": "装饰性的；观赏用的",
+    "example": ""
+  }
+]

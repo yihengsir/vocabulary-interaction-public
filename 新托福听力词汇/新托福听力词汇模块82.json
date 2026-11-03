@@ -1,0 +1,302 @@
+[
+  {
+    "english": "skim over",
+    "pos": "phr.",
+    "chinese": "略读；快速浏览",
+    "example": ""
+  },
+  {
+    "english": "sonic",
+    "pos": "adj.",
+    "chinese": "声音的；与声音有关的",
+    "example": ""
+  },
+  {
+    "english": "staghorn",
+    "pos": "adj.",
+    "chinese": "鹿角状的（用于描述珊瑚）",
+    "example": ""
+  },
+  {
+    "english": "stark",
+    "pos": "adj.",
+    "chinese": "鲜明的；明显的；强烈的",
+    "example": ""
+  },
+  {
+    "english": "sub-",
+    "pos": "affix",
+    "chinese": "子领域；分支（前缀sub-表示“次级、下属”）",
+    "example": ""
+  },
+  {
+    "english": "subconsciously",
+    "pos": "adv.",
+    "chinese": "潜意识地；不知不觉地",
+    "example": ""
+  },
+  {
+    "english": "subjective",
+    "pos": "adj.",
+    "chinese": "主观的；个人情感出发的",
+    "example": ""
+  },
+  {
+    "english": "substrate",
+    "pos": "n.",
+    "chinese": "基底；底层材料（如画作颜料下的支撑材料）",
+    "example": ""
+  },
+  {
+    "english": "temp",
+    "pos": "n.",
+    "chinese": "温度（temperature的口语缩略）",
+    "example": ""
+  },
+  {
+    "english": "terrestrial",
+    "pos": "adj.",
+    "chinese": "陆地的；陆生的",
+    "example": ""
+  },
+  {
+    "english": "territorial",
+    "pos": "adj.",
+    "chinese": "有领地意识的；地盘性强的",
+    "example": ""
+  },
+  {
+    "english": "theology",
+    "pos": "n.",
+    "chinese": "神学；宗教学研究",
+    "example": ""
+  },
+  {
+    "english": "tonal",
+    "pos": "adj.",
+    "chinese": "调性的；与音调体系相关的",
+    "example": ""
+  },
+  {
+    "english": "trainable",
+    "pos": "adj.",
+    "chinese": "可训练的；易于驯养的",
+    "example": ""
+  },
+  {
+    "english": "transcontinental",
+    "pos": "adj.",
+    "chinese": "横贯大陆的",
+    "example": ""
+  },
+  {
+    "english": "translocation",
+    "pos": "n.",
+    "chinese": "（动物的）迁移、转移",
+    "example": ""
+  },
+  {
+    "english": "trucking",
+    "pos": "n.",
+    "chinese": "货运卡车运输（业）",
+    "example": ""
+  },
+  {
+    "english": "underlying",
+    "pos": "adj.",
+    "chinese": "潜在的；根本的",
+    "example": ""
+  },
+  {
+    "english": "unintentionally",
+    "pos": "adv.",
+    "chinese": "无意地；非故意地",
+    "example": ""
+  },
+  {
+    "english": "unsuspecting",
+    "pos": "adj.",
+    "chinese": "毫无戒心的；不疑有他的",
+    "example": ""
+  },
+  {
+    "english": "urbanization",
+    "pos": "n.",
+    "chinese": "城市化",
+    "example": ""
+  },
+  {
+    "english": "utilize",
+    "pos": "v.",
+    "chinese": "利用；使用（某种方法或资源）",
+    "example": ""
+  },
+  {
+    "english": "validate",
+    "pos": "v.",
+    "chinese": "验证；确认（有效性或真实性）",
+    "example": ""
+  },
+  {
+    "english": "vengeful",
+    "pos": "adj.",
+    "chinese": "怀有报复心的；复仇的",
+    "example": ""
+  },
+  {
+    "english": "viable",
+    "pos": "adj.",
+    "chinese": "可行的；能成功的",
+    "example": ""
+  },
+  {
+    "english": "vineyard",
+    "pos": "n.",
+    "chinese": "葡萄园",
+    "example": ""
+  },
+  {
+    "english": "warehouse",
+    "pos": "n.",
+    "chinese": "仓库",
+    "example": ""
+  },
+  {
+    "english": "wearable",
+    "pos": "adj.",
+    "chinese": "可穿戴的（设备）",
+    "example": ""
+  },
+  {
+    "english": "whine",
+    "pos": "v.",
+    "chinese": "（孩子）哭闹抱怨",
+    "example": ""
+  },
+  {
+    "english": "whining",
+    "pos": "n.",
+    "chinese": "哭闹抱怨（的行为）",
+    "example": ""
+  },
+  {
+    "english": "angst",
+    "pos": "n.",
+    "chinese": "焦虑；忧惧（尤指存在主义式的）",
+    "example": ""
+  },
+  {
+    "english": "averse",
+    "pos": "adj.",
+    "chinese": "（对风险）持回避态度的，不愿冒险的",
+    "example": ""
+  },
+  {
+    "english": "curate",
+    "pos": "v.",
+    "chinese": "精心挑选并组织（内容）",
+    "example": ""
+  },
+  {
+    "english": "dispersal",
+    "pos": "n.",
+    "chinese": "散布；传播",
+    "example": ""
+  },
+  {
+    "english": "disperse",
+    "pos": "v.",
+    "chinese": "使散开；散布",
+    "example": ""
+  },
+  {
+    "english": "echo",
+    "pos": "n.",
+    "chinese": "（往事的）痕迹、余韵；令人回想起某事物的迹象",
+    "example": ""
+  },
+  {
+    "english": "habitation",
+    "pos": "n.",
+    "chinese": "居住；定居（指人类在某地长期居住）",
+    "example": ""
+  },
+  {
+    "english": "hypothesis",
+    "pos": "n.",
+    "chinese": "假设；假说",
+    "example": ""
+  },
+  {
+    "english": "practitioner",
+    "pos": "n.",
+    "chinese": "从业者；实践者",
+    "example": ""
+  },
+  {
+    "english": "seismic",
+    "pos": "adj.",
+    "chinese": "地震的；与地震有关的",
+    "example": ""
+  },
+  {
+    "english": "standing",
+    "pos": "n.",
+    "chinese": "社会地位；声望",
+    "example": ""
+  },
+  {
+    "english": "clever",
+    "pos": "adj.",
+    "chinese": "聪明的，巧妙的",
+    "example": ""
+  },
+  {
+    "english": "gold",
+    "pos": "n.",
+    "chinese": "黄金，金子",
+    "example": ""
+  },
+  {
+    "english": "trick",
+    "pos": "n.",
+    "chinese": "把戏，诡计；错觉效果",
+    "example": ""
+  },
+  {
+    "english": "accomplish",
+    "pos": "adj.",
+    "chinese": "完成；实现（任务、目标）",
+    "example": ""
+  },
+  {
+    "english": "cloak",
+    "pos": "v.",
+    "chinese": "覆盖；笼罩",
+    "example": ""
+  },
+  {
+    "english": "coat",
+    "pos": "v.",
+    "chinese": "覆盖层；涂层",
+    "example": ""
+  },
+  {
+    "english": "cooler",
+    "pos": "adj.",
+    "chinese": "较凉的；更冷的",
+    "example": ""
+  },
+  {
+    "english": "dazzle",
+    "pos": "v.",
+    "chinese": "使眼花缭乱；使赞叹",
+    "example": ""
+  },
+  {
+    "english": "disregard",
+    "pos": "v.",
+    "chinese": "忽视；不理会",
+    "example": ""
+  }
+]

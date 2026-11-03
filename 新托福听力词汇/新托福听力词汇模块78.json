@@ -1,0 +1,302 @@
+[
+  {
+    "english": "bill",
+    "pos": "n.",
+    "chinese": "账单；费用",
+    "example": ""
+  },
+  {
+    "english": "bury",
+    "pos": "v.",
+    "chinese": "埋葬；掩埋",
+    "example": ""
+  },
+  {
+    "english": "centimeter",
+    "pos": "n.",
+    "chinese": "厘米",
+    "example": ""
+  },
+  {
+    "english": "citizen",
+    "pos": "n.",
+    "chinese": "公民；市民",
+    "example": ""
+  },
+  {
+    "english": "contrast",
+    "pos": "n.",
+    "chinese": "对比；对照",
+    "example": ""
+  },
+  {
+    "english": "desert",
+    "pos": "n.",
+    "chinese": "沙漠；荒漠",
+    "example": ""
+  },
+  {
+    "english": "easily",
+    "pos": "adv.",
+    "chinese": "容易地；轻易地",
+    "example": ""
+  },
+  {
+    "english": "furniture",
+    "pos": "n.",
+    "chinese": "家具",
+    "example": ""
+  },
+  {
+    "english": "gradually",
+    "pos": "adv.",
+    "chinese": "逐渐地；逐步地",
+    "example": ""
+  },
+  {
+    "english": "harmful",
+    "pos": "adj.",
+    "chinese": "有害的；造成损害的",
+    "example": ""
+  },
+  {
+    "english": "harmony",
+    "pos": "n.",
+    "chinese": "和谐；融洽",
+    "example": ""
+  },
+  {
+    "english": "oven",
+    "pos": "n.",
+    "chinese": "烤箱；炉",
+    "example": ""
+  },
+  {
+    "english": "pan",
+    "pos": "n.",
+    "chinese": "平底锅；煎锅",
+    "example": ""
+  },
+  {
+    "english": "pilot",
+    "pos": "n.",
+    "chinese": "飞行员；驾驶员",
+    "example": ""
+  },
+  {
+    "english": "precise",
+    "pos": "adj.",
+    "chinese": "精确的；准确的",
+    "example": ""
+  },
+  {
+    "english": "X-ray",
+    "pos": "phr.",
+    "chinese": "X射线（一种高能辐射）",
+    "example": ""
+  },
+  {
+    "english": "sudden",
+    "pos": "adj.",
+    "chinese": "突然的，意外的",
+    "example": ""
+  },
+  {
+    "english": "dog",
+    "pos": "n.",
+    "chinese": "狗",
+    "example": ""
+  },
+  {
+    "english": "plate",
+    "pos": "n.",
+    "chinese": "（机械装置中的）平板；板状部件",
+    "example": ""
+  },
+  {
+    "english": "heart",
+    "pos": "n.",
+    "chinese": "核心；中心；关键部分",
+    "example": ""
+  },
+  {
+    "english": "wear",
+    "pos": "v.",
+    "chinese": "穿；戴",
+    "example": ""
+  },
+  {
+    "english": "blindness",
+    "pos": "n.",
+    "chinese": "（对某事物的）视而不见；盲视",
+    "example": ""
+  },
+  {
+    "english": "decomposition",
+    "pos": "n.",
+    "chinese": "分解；腐烂",
+    "example": ""
+  },
+  {
+    "english": "domestic",
+    "pos": "adj.",
+    "chinese": "家庭的；家用的",
+    "example": ""
+  },
+  {
+    "english": "eyebrow",
+    "pos": "n.",
+    "chinese": "眉毛",
+    "example": ""
+  },
+  {
+    "english": "flash",
+    "pos": "n.",
+    "chinese": "闪光灯",
+    "example": ""
+  },
+  {
+    "english": "infant",
+    "pos": "n.",
+    "chinese": "婴儿",
+    "example": ""
+  },
+  {
+    "english": "moonlight",
+    "pos": "n.",
+    "chinese": "月光",
+    "example": ""
+  },
+  {
+    "english": "reference",
+    "pos": "n.",
+    "chinese": "参照的；基准的",
+    "example": ""
+  },
+  {
+    "english": "retailer",
+    "pos": "n.",
+    "chinese": "零售商",
+    "example": ""
+  },
+  {
+    "english": "shipwreck",
+    "pos": "n.",
+    "chinese": "沉船；失事船只",
+    "example": ""
+  },
+  {
+    "english": "foil",
+    "pos": "n.",
+    "chinese": "箔；金属薄片",
+    "example": ""
+  },
+  {
+    "english": "trompe-l'œil",
+    "pos": "phr.",
+    "chinese": "错视画；视觉欺骗艺术；以逼真效果使二维图像看起来具有立体感",
+    "example": ""
+  },
+  {
+    "english": "methane",
+    "pos": "n.",
+    "chinese": "甲烷（一种温室气体）",
+    "example": ""
+  },
+  {
+    "english": "streaming",
+    "pos": "n.",
+    "chinese": "流媒体（在线播放服务）",
+    "example": ""
+  },
+  {
+    "english": "pen",
+    "pos": "n.",
+    "chinese": "笔（书写工具）",
+    "example": ""
+  },
+  {
+    "english": "surrealist",
+    "pos": "n.",
+    "chinese": "超现实主义者",
+    "example": ""
+  },
+  {
+    "english": "turtle",
+    "pos": "n.",
+    "chinese": "海龟",
+    "example": ""
+  },
+  {
+    "english": "egg",
+    "pos": "n.",
+    "chinese": "卵；蛋",
+    "example": ""
+  },
+  {
+    "english": "mushroom",
+    "pos": "n.",
+    "chinese": "蘑菇",
+    "example": ""
+  },
+  {
+    "english": "skate",
+    "pos": "n.",
+    "chinese": "冰鞋；溜冰鞋",
+    "example": ""
+  },
+  {
+    "english": "bottom",
+    "pos": "n.",
+    "chinese": "底部；下端",
+    "example": ""
+  },
+  {
+    "english": "leader",
+    "pos": "n.",
+    "chinese": "领导者；领袖",
+    "example": ""
+  },
+  {
+    "english": "sun",
+    "pos": "n.",
+    "chinese": "太阳",
+    "example": ""
+  },
+  {
+    "english": "continent",
+    "pos": "n.",
+    "chinese": "大陆；洲",
+    "example": ""
+  },
+  {
+    "english": "beach",
+    "pos": "n.",
+    "chinese": "海滩；沙滩",
+    "example": ""
+  },
+  {
+    "english": "mouse",
+    "pos": "n.",
+    "chinese": "老鼠；小鼠",
+    "example": ""
+  },
+  {
+    "english": "temple",
+    "pos": "n.",
+    "chinese": "寺庙；神殿",
+    "example": ""
+  },
+  {
+    "english": "partner",
+    "pos": "v.",
+    "chinese": "结伴；搭档合作",
+    "example": ""
+  },
+  {
+    "english": "underwater",
+    "pos": "adj.",
+    "chinese": "水下的，在水面以下的",
+    "example": ""
+  }
+]

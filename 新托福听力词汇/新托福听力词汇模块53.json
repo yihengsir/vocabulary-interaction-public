@@ -1,0 +1,302 @@
+[
+  {
+    "english": "revisit",
+    "pos": "v.",
+    "chinese": "重新回顾；再次讨论",
+    "example": ""
+  },
+  {
+    "english": "timer",
+    "pos": "n.",
+    "chinese": "定时器；计时器",
+    "example": ""
+  },
+  {
+    "english": "date",
+    "pos": "n.",
+    "chinese": "日期；日子",
+    "example": ""
+  },
+  {
+    "english": "excited",
+    "pos": "adj.",
+    "chinese": "兴奋的；激动的",
+    "example": ""
+  },
+  {
+    "english": "busy",
+    "pos": "adj.",
+    "chinese": "忙碌的；繁忙的",
+    "example": ""
+  },
+  {
+    "english": "beautiful",
+    "pos": "adj.",
+    "chinese": "美丽的；美好的",
+    "example": ""
+  },
+  {
+    "english": "compress",
+    "pos": "v.",
+    "chinese": "压缩；使体积变小",
+    "example": ""
+  },
+  {
+    "english": "hike",
+    "pos": "v.",
+    "chinese": "徒步；远足",
+    "example": ""
+  },
+  {
+    "english": "it",
+    "pos": "prop.n.",
+    "chinese": "信息技术（部门）",
+    "example": ""
+  },
+  {
+    "english": "laundry",
+    "pos": "adj.",
+    "chinese": "洗衣的；与洗衣有关的",
+    "example": ""
+  },
+  {
+    "english": "section",
+    "pos": "n.",
+    "chinese": "部分；区域；分区",
+    "example": ""
+  },
+  {
+    "english": "tip",
+    "pos": "n.",
+    "chinese": "建议；提示；小窍门",
+    "example": ""
+  },
+  {
+    "english": "agreement",
+    "pos": "n.",
+    "chinese": "协议；协定（正式达成的约定）",
+    "example": ""
+  },
+  {
+    "english": "allergic",
+    "pos": "adj.",
+    "chinese": "过敏的（对某物产生不良反应）",
+    "example": ""
+  },
+  {
+    "english": "bore",
+    "pos": "v.",
+    "chinese": "使感到无聊、厌烦",
+    "example": ""
+  },
+  {
+    "english": "landlord",
+    "pos": "n.",
+    "chinese": "房东；出租房屋的人",
+    "example": ""
+  },
+  {
+    "english": "misunderstanding",
+    "pos": "n.",
+    "chinese": "误解；误会",
+    "example": ""
+  },
+  {
+    "english": "refund",
+    "pos": "n.",
+    "chinese": "退款；退还的钱",
+    "example": ""
+  },
+  {
+    "english": "sponge",
+    "pos": "n.",
+    "chinese": "海绵；清洁用的海绵块",
+    "example": ""
+  },
+  {
+    "english": "substitute",
+    "pos": "n.",
+    "chinese": "替代品；代替物",
+    "example": ""
+  },
+  {
+    "english": "sunrise",
+    "pos": "n.",
+    "chinese": "日出；日出时分",
+    "example": ""
+  },
+  {
+    "english": "total",
+    "pos": "adj.",
+    "chinese": "完全的；彻底的",
+    "example": ""
+  },
+  {
+    "english": "contest",
+    "pos": "n.",
+    "chinese": "比赛；竞赛",
+    "example": ""
+  },
+  {
+    "english": "pasta",
+    "pos": "n.",
+    "chinese": "意大利面食",
+    "example": ""
+  },
+  {
+    "english": "automatically",
+    "pos": "adv.",
+    "chinese": "自动地；无需人工操作而自行发生",
+    "example": ""
+  },
+  {
+    "english": "custodial",
+    "pos": "adj.",
+    "chinese": "清洁的；管理维护的",
+    "example": ""
+  },
+  {
+    "english": "dispose",
+    "pos": "v.",
+    "chinese": "处理；丢弃",
+    "example": ""
+  },
+  {
+    "english": "flyer",
+    "pos": "n.",
+    "chinese": "传单；宣传单",
+    "example": ""
+  },
+  {
+    "english": "hmm",
+    "pos": "interj.",
+    "chinese": "嗯（表示犹豫、思考或迟疑）",
+    "example": ""
+  },
+  {
+    "english": "vegetable",
+    "pos": "n.",
+    "chinese": "蔬菜",
+    "example": ""
+  },
+  {
+    "english": "four",
+    "pos": "num.",
+    "chinese": "四；四个",
+    "example": ""
+  },
+  {
+    "english": "cafeteria",
+    "pos": "n.",
+    "chinese": "自助餐厅；食堂",
+    "example": ""
+  },
+  {
+    "english": "hello",
+    "pos": "interj.",
+    "chinese": "你好；喂",
+    "example": ""
+  },
+  {
+    "english": "finally",
+    "pos": "adv.",
+    "chinese": "终于；最后",
+    "example": ""
+  },
+  {
+    "english": "shot",
+    "pos": "n.",
+    "chinese": "机会；尝试；照片",
+    "example": ""
+  },
+  {
+    "english": "lunch",
+    "pos": "n.",
+    "chinese": "午餐；午饭",
+    "example": ""
+  },
+  {
+    "english": "bottle",
+    "pos": "n.",
+    "chinese": "瓶子",
+    "example": ""
+  },
+  {
+    "english": "tofu",
+    "pos": "n.",
+    "chinese": "豆腐",
+    "example": ""
+  },
+  {
+    "english": "appliance",
+    "pos": "n.",
+    "chinese": "家用电器（如冰箱、洗衣机等）",
+    "example": ""
+  },
+  {
+    "english": "staple",
+    "pos": "n.",
+    "chinese": "长期存在且被视为标志性的事物（人或物）",
+    "example": ""
+  },
+  {
+    "english": "kitchen",
+    "pos": "n.",
+    "chinese": "厨房",
+    "example": ""
+  },
+  {
+    "english": "court",
+    "pos": "n.",
+    "chinese": "宫廷；球场",
+    "example": ""
+  },
+  {
+    "english": "greatly",
+    "pos": "adv.",
+    "chinese": "大大地；非常",
+    "example": ""
+  },
+  {
+    "english": "refrigerator",
+    "pos": "n.",
+    "chinese": "冰箱",
+    "example": ""
+  },
+  {
+    "english": "desk",
+    "pos": "n.",
+    "chinese": "书桌；服务台",
+    "example": ""
+  },
+  {
+    "english": "printer",
+    "pos": "n.",
+    "chinese": "打印机",
+    "example": ""
+  },
+  {
+    "english": "educational",
+    "pos": "adj.",
+    "chinese": "教育的；有教育意义的",
+    "example": ""
+  },
+  {
+    "english": "dollar",
+    "pos": "n.",
+    "chinese": "美元",
+    "example": ""
+  },
+  {
+    "english": "anywhere",
+    "pos": "adv.",
+    "chinese": "在任何地方；到任何地方",
+    "example": ""
+  },
+  {
+    "english": "sport",
+    "pos": "n.",
+    "chinese": "体育运动；运动项目",
+    "example": ""
+  }
+]

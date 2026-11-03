@@ -1,0 +1,302 @@
+[
+  {
+    "english": "humidity",
+    "pos": "n.",
+    "chinese": "湿度",
+    "example": ""
+  },
+  {
+    "english": "hummingbird",
+    "pos": "n.",
+    "chinese": "蜂鸟（的）",
+    "example": ""
+  },
+  {
+    "english": "humus",
+    "pos": "n.",
+    "chinese": "腐殖质",
+    "example": ""
+  },
+  {
+    "english": "hustle",
+    "pos": "n.",
+    "chinese": "喧闹；忙碌嘈杂",
+    "example": ""
+  },
+  {
+    "english": "hydrogen",
+    "pos": "n.",
+    "chinese": "氢",
+    "example": ""
+  },
+  {
+    "english": "hyena",
+    "pos": "n.",
+    "chinese": "鬣狗",
+    "example": ""
+  },
+  {
+    "english": "hymn",
+    "pos": "n.",
+    "chinese": "赞美诗；圣歌",
+    "example": ""
+  },
+  {
+    "english": "hype",
+    "pos": "n.",
+    "chinese": "炒作；大肆宣传",
+    "example": ""
+  },
+  {
+    "english": "imbalance",
+    "pos": "n.",
+    "chinese": "失衡；不平衡",
+    "example": ""
+  },
+  {
+    "english": "impenetrable",
+    "pos": "adj.",
+    "chinese": "无法穿透的；坚不可摧的",
+    "example": ""
+  },
+  {
+    "english": "implicit",
+    "pos": "adj.",
+    "chinese": "隐含的；内在的",
+    "example": ""
+  },
+  {
+    "english": "imprint",
+    "pos": "v.",
+    "chinese": "印刻；压印",
+    "example": ""
+  },
+  {
+    "english": "inefficiency",
+    "pos": "n.",
+    "chinese": "低效；无效率",
+    "example": ""
+  },
+  {
+    "english": "infinite",
+    "pos": "adj.",
+    "chinese": "无限的；无穷的",
+    "example": ""
+  },
+  {
+    "english": "initiate",
+    "pos": "v.",
+    "chinese": "启动；引发",
+    "example": ""
+  },
+  {
+    "english": "inland",
+    "pos": "adv.",
+    "chinese": "向内陆；朝内陆方向",
+    "example": ""
+  },
+  {
+    "english": "inoculant",
+    "pos": "n.",
+    "chinese": "接种物；菌剂",
+    "example": ""
+  },
+  {
+    "english": "integrated",
+    "pos": "adj.",
+    "chinese": "整体的；各部分相互协调构成统一整体的",
+    "example": ""
+  },
+  {
+    "english": "intensify",
+    "pos": "v.",
+    "chinese": "加剧；使变得更强烈或更严重",
+    "example": ""
+  },
+  {
+    "english": "intensity",
+    "pos": "n.",
+    "chinese": "强度；强烈程度",
+    "example": ""
+  },
+  {
+    "english": "interconnect",
+    "pos": "v.",
+    "chinese": "相互连接；彼此关联",
+    "example": ""
+  },
+  {
+    "english": "intercropping",
+    "pos": "n.",
+    "chinese": "间作；在同一块地上同时种植多种作物",
+    "example": ""
+  },
+  {
+    "english": "interpretable",
+    "pos": "adj.",
+    "chinese": "可解释的；能够被理解或解读的",
+    "example": ""
+  },
+  {
+    "english": "intervention",
+    "pos": "n.",
+    "chinese": "干预；介入行动",
+    "example": ""
+  },
+  {
+    "english": "invertebrate",
+    "pos": "n.",
+    "chinese": "无脊椎动物",
+    "example": ""
+  },
+  {
+    "english": "irretrievable",
+    "pos": "adj.",
+    "chinese": "无法挽回的；不可恢复的",
+    "example": ""
+  },
+  {
+    "english": "joyful",
+    "pos": "adj.",
+    "chinese": "快乐的；充满喜悦的",
+    "example": ""
+  },
+  {
+    "english": "kaizen",
+    "pos": "n.",
+    "chinese": "持续改进（精益生产理念）",
+    "example": ""
+  },
+  {
+    "english": "keratin",
+    "pos": "n.",
+    "chinese": "角蛋白",
+    "example": ""
+  },
+  {
+    "english": "kinda",
+    "pos": "adv.",
+    "chinese": "有点；差不多（口语）",
+    "example": ""
+  },
+  {
+    "english": "km",
+    "pos": "n.",
+    "chinese": "千米；公里",
+    "example": ""
+  },
+  {
+    "english": "laden",
+    "pos": "adj.",
+    "chinese": "充满的；负载的",
+    "example": ""
+  },
+  {
+    "english": "lapis",
+    "pos": "adj.",
+    "chinese": "青金石（的）",
+    "example": ""
+  },
+  {
+    "english": "larval",
+    "pos": "n.",
+    "chinese": "幼虫的；幼体的",
+    "example": ""
+  },
+  {
+    "english": "lavish",
+    "pos": "adj.",
+    "chinese": "奢华的、华丽的",
+    "example": ""
+  },
+  {
+    "english": "layering",
+    "pos": "n.",
+    "chinese": "分层、层叠",
+    "example": ""
+  },
+  {
+    "english": "limiting",
+    "pos": "adj.",
+    "chinese": "局限的、限制性的",
+    "example": ""
+  },
+  {
+    "english": "linguist",
+    "pos": "n.",
+    "chinese": "语言学家",
+    "example": ""
+  },
+  {
+    "english": "machinery",
+    "pos": "n.",
+    "chinese": "机器、机械",
+    "example": ""
+  },
+  {
+    "english": "magnetize",
+    "pos": "v.",
+    "chinese": "使磁化",
+    "example": ""
+  },
+  {
+    "english": "mania",
+    "pos": "n.",
+    "chinese": "狂热；热潮",
+    "example": ""
+  },
+  {
+    "english": "manioc",
+    "pos": "adj.",
+    "chinese": "木薯（的）",
+    "example": ""
+  },
+  {
+    "english": "mantle",
+    "pos": "n.",
+    "chinese": "外套膜（的）",
+    "example": ""
+  },
+  {
+    "english": "maritime",
+    "pos": "adj.",
+    "chinese": "海上的；航海的",
+    "example": ""
+  },
+  {
+    "english": "mating",
+    "pos": "n.",
+    "chinese": "交配",
+    "example": ""
+  },
+  {
+    "english": "membrane",
+    "pos": "n.",
+    "chinese": "膜；薄膜（生物体内薄而柔韧的组织层）",
+    "example": ""
+  },
+  {
+    "english": "merch",
+    "pos": "n.",
+    "chinese": "商品；周边产品（merchandise 的缩略形式）",
+    "example": ""
+  },
+  {
+    "english": "mesmerizing",
+    "pos": "adj.",
+    "chinese": "迷人的；令人着迷的",
+    "example": ""
+  },
+  {
+    "english": "mesopotamia",
+    "pos": "n.",
+    "chinese": "美索不达米亚（古代西亚地区名）",
+    "example": ""
+  },
+  {
+    "english": "messaging",
+    "pos": "n.",
+    "chinese": "信息传达；宣传信息（向受众传递的核心内容）",
+    "example": ""
+  }
+]

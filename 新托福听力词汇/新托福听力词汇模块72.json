@@ -1,0 +1,302 @@
+[
+  {
+    "english": "find",
+    "pos": "v.",
+    "chinese": "发现；找到；觉得（认为）",
+    "example": ""
+  },
+  {
+    "english": "change",
+    "pos": "n.",
+    "chinese": "变化；改变；变更",
+    "example": ""
+  },
+  {
+    "english": "thousand",
+    "pos": "n.",
+    "chinese": "千；数以千计",
+    "example": ""
+  },
+  {
+    "english": "only",
+    "pos": "adv.",
+    "chinese": "仅仅；只；不过（表示数量少、程度低或范围有限）",
+    "example": ""
+  },
+  {
+    "english": "then",
+    "pos": "adv.",
+    "chinese": "然后；接着；那时",
+    "example": ""
+  },
+  {
+    "english": "play",
+    "pos": "v.",
+    "chinese": "扮演（角色）；发挥（作用）；演奏（乐器）；进行（活动）",
+    "example": ""
+  },
+  {
+    "english": "world",
+    "pos": "n.",
+    "chinese": "世界；领域；界",
+    "example": ""
+  },
+  {
+    "english": "back",
+    "pos": "adv.",
+    "chinese": "向后；回；以前",
+    "example": ""
+  },
+  {
+    "english": "city",
+    "pos": "n.",
+    "chinese": "城市；市",
+    "example": ""
+  },
+  {
+    "english": "bring",
+    "pos": "v.",
+    "chinese": "带来；拿来；携带",
+    "example": ""
+  },
+  {
+    "english": "feel",
+    "pos": "v.",
+    "chinese": "感觉、感到；觉得",
+    "example": ""
+  },
+  {
+    "english": "water",
+    "pos": "n.",
+    "chinese": "水",
+    "example": ""
+  },
+  {
+    "english": "music",
+    "pos": "n.",
+    "chinese": "音乐",
+    "example": ""
+  },
+  {
+    "english": "life",
+    "pos": "n.",
+    "chinese": "生命；生活；人生——指生物的存在状态，或人的日常经历与生活方式",
+    "example": ""
+  },
+  {
+    "english": "big",
+    "pos": "adj.",
+    "chinese": "大的；重要的；重大的",
+    "example": ""
+  },
+  {
+    "english": "thing",
+    "pos": "n.",
+    "chinese": "事情；事物；东西",
+    "example": ""
+  },
+  {
+    "english": "food",
+    "pos": "n.",
+    "chinese": "食物；食品",
+    "example": ""
+  },
+  {
+    "english": "painting",
+    "pos": "n.",
+    "chinese": "绘画作品；画作（可指一幅画或绘画艺术）",
+    "example": ""
+  },
+  {
+    "english": "write",
+    "pos": "v.",
+    "chinese": "写；写作；撰写",
+    "example": ""
+  },
+  {
+    "english": "share",
+    "pos": "v.",
+    "chinese": "分享；共用；分担",
+    "example": ""
+  },
+  {
+    "english": "different",
+    "pos": "adj.",
+    "chinese": "不同的；各不相同的",
+    "example": ""
+  },
+  {
+    "english": "problem",
+    "pos": "n.",
+    "chinese": "问题；难题",
+    "example": ""
+  },
+  {
+    "english": "BCE",
+    "pos": "prop.n.",
+    "chinese": "公元前（Before Common Era 的缩写，用于纪年）",
+    "example": ""
+  },
+  {
+    "english": "own",
+    "pos": "adj.",
+    "chinese": "自己的；本人的（用于强调所属或独立完成）",
+    "example": ""
+  },
+  {
+    "english": "become",
+    "pos": "v.",
+    "chinese": "变成；成为（进入某种状态或身份）",
+    "example": ""
+  },
+  {
+    "english": "same",
+    "pos": "adj.",
+    "chinese": "相同的；同一的",
+    "example": ""
+  },
+  {
+    "english": "important",
+    "pos": "adj.",
+    "chinese": "重要的；有重大意义的",
+    "example": ""
+  },
+  {
+    "english": "large",
+    "pos": "adj.",
+    "chinese": "大的，大型的",
+    "example": ""
+  },
+  {
+    "english": "small",
+    "pos": "adj.",
+    "chinese": "小的；规模或程度不大的",
+    "example": ""
+  },
+  {
+    "english": "piece",
+    "pos": "n.",
+    "chinese": "一件（作品、物品）；一块；一片",
+    "example": ""
+  },
+  {
+    "english": "build",
+    "pos": "v.",
+    "chinese": "建造；构建；逐步形成",
+    "example": ""
+  },
+  {
+    "english": "high",
+    "pos": "adj.",
+    "chinese": "高的；更高的（程度、数量或温度较大）",
+    "example": ""
+  },
+  {
+    "english": "building",
+    "pos": "n.",
+    "chinese": "建筑物；楼房",
+    "example": ""
+  },
+  {
+    "english": "story",
+    "pos": "n.",
+    "chinese": "故事；报道；叙述",
+    "example": ""
+  },
+  {
+    "english": "imagine",
+    "pos": "v.",
+    "chinese": "想象；设想（在头脑中构想某情景或情形）",
+    "example": ""
+  },
+  {
+    "english": "put",
+    "pos": "v.",
+    "chinese": "放置；施加；举办；收起",
+    "example": ""
+  },
+  {
+    "english": "type",
+    "pos": "n.",
+    "chinese": "类型；种类",
+    "example": ""
+  },
+  {
+    "english": "easy",
+    "pos": "adj.",
+    "chinese": "容易的；不费力的",
+    "example": ""
+  },
+  {
+    "english": "later",
+    "pos": "adv.",
+    "chinese": "后来；稍后；较晚地",
+    "example": ""
+  },
+  {
+    "english": "real",
+    "pos": "adj.",
+    "chinese": "真正的；真实的；名副其实的",
+    "example": ""
+  },
+  {
+    "english": "live",
+    "pos": "v.",
+    "chinese": "居住；生活",
+    "example": ""
+  },
+  {
+    "english": "walk",
+    "pos": "v.",
+    "chinese": "行走；步行；带某人逐步了解（某事）",
+    "example": ""
+  },
+  {
+    "english": "animal",
+    "pos": "n.",
+    "chinese": "动物",
+    "example": ""
+  },
+  {
+    "english": "hand",
+    "pos": "n.",
+    "chinese": "手；帮助；控制",
+    "example": ""
+  },
+  {
+    "english": "away",
+    "pos": "adv.",
+    "chinese": "离开；在远处；距离某处有……远",
+    "example": ""
+  },
+  {
+    "english": "goal",
+    "pos": "n.",
+    "chinese": "目标；目的",
+    "example": ""
+  },
+  {
+    "english": "short",
+    "pos": "adj.",
+    "chinese": "短的；简短的；短暂的",
+    "example": ""
+  },
+  {
+    "english": "together",
+    "pos": "adv.",
+    "chinese": "一起；共同；合在一起",
+    "example": ""
+  },
+  {
+    "english": "believe",
+    "pos": "v.",
+    "chinese": "相信；认为",
+    "example": ""
+  },
+  {
+    "english": "tree",
+    "pos": "n.",
+    "chinese": "树；树木",
+    "example": ""
+  }
+]

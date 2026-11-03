@@ -1,0 +1,302 @@
+[
+  {
+    "english": "stage",
+    "pos": "n.",
+    "chinese": "舞台；阶段",
+    "example": ""
+  },
+  {
+    "english": "choose",
+    "pos": "v.",
+    "chinese": "选择；挑选；决定（做某事）",
+    "example": ""
+  },
+  {
+    "english": "US",
+    "pos": "prop.n.",
+    "chinese": "美国（United States 的缩写）",
+    "example": ""
+  },
+  {
+    "english": "eat",
+    "pos": "v.",
+    "chinese": "吃；进食",
+    "example": ""
+  },
+  {
+    "english": "once",
+    "pos": "adv.",
+    "chinese": "一次；曾经",
+    "example": ""
+  },
+  {
+    "english": "color",
+    "pos": "n.",
+    "chinese": "颜色；色彩",
+    "example": ""
+  },
+  {
+    "english": "size",
+    "pos": "n.",
+    "chinese": "大小；尺寸；规模",
+    "example": ""
+  },
+  {
+    "english": "tool",
+    "pos": "n.",
+    "chinese": "工具；手段",
+    "example": ""
+  },
+  {
+    "english": "about",
+    "pos": "adv.",
+    "chinese": "大约；左右",
+    "example": ""
+  },
+  {
+    "english": "street",
+    "pos": "n.",
+    "chinese": "街道；街（也指街头/街边相关事物）",
+    "example": ""
+  },
+  {
+    "english": "body",
+    "pos": "n.",
+    "chinese": "身体；躯体",
+    "example": ""
+  },
+  {
+    "english": "quickly",
+    "pos": "adv.",
+    "chinese": "迅速地；很快地",
+    "example": ""
+  },
+  {
+    "english": "grow",
+    "pos": "v.",
+    "chinese": "生长；种植；增长",
+    "example": ""
+  },
+  {
+    "english": "strong",
+    "pos": "adj.",
+    "chinese": "强壮的；坚固的；强烈的",
+    "example": ""
+  },
+  {
+    "english": "hard",
+    "pos": "adj.",
+    "chinese": "困难的；艰难的",
+    "example": ""
+  },
+  {
+    "english": "person",
+    "pos": "n.",
+    "chinese": "人；个人",
+    "example": ""
+  },
+  {
+    "english": "fly",
+    "pos": "v.",
+    "chinese": "飞；飞行；乘飞机；（想法等）行得通",
+    "example": ""
+  },
+  {
+    "english": "sit",
+    "pos": "v.",
+    "chinese": "坐；位于；闲置不动",
+    "example": ""
+  },
+  {
+    "english": "box",
+    "pos": "n.",
+    "chinese": "盒子；箱子",
+    "example": ""
+  },
+  {
+    "english": "ago",
+    "pos": "adv.",
+    "chinese": "以前；……之前",
+    "example": ""
+  },
+  {
+    "english": "cut",
+    "pos": "v.",
+    "chinese": "削减；减少（数量、成本等）",
+    "example": ""
+  },
+  {
+    "english": "everyday",
+    "pos": "adj.",
+    "chinese": "日常的；普通的",
+    "example": ""
+  },
+  {
+    "english": "being",
+    "pos": "n.",
+    "chinese": "存在物；生物",
+    "example": ""
+  },
+  {
+    "english": "sea",
+    "pos": "n.",
+    "chinese": "海；海洋",
+    "example": ""
+  },
+  {
+    "english": "nine",
+    "pos": "num.",
+    "chinese": "九；数字9",
+    "example": ""
+  },
+  {
+    "english": "third",
+    "pos": "adj.",
+    "chinese": "第三的；三分之一的",
+    "example": ""
+  },
+  {
+    "english": "migrating",
+    "pos": "n.",
+    "chinese": "迁徙的；移居的（鸟类等）",
+    "example": ""
+  },
+  {
+    "english": "modulator",
+    "pos": "n.",
+    "chinese": "调节器；调制器（用于改变或控制某物的装置）",
+    "example": ""
+  },
+  {
+    "english": "monomyth",
+    "pos": "n.",
+    "chinese": "单一神话；英雄之旅（一种跨文化的叙事原型）",
+    "example": ""
+  },
+  {
+    "english": "mummify",
+    "pos": "v.",
+    "chinese": "（使尸体）木乃伊化；制成木乃伊",
+    "example": ""
+  },
+  {
+    "english": "nest",
+    "pos": "n.",
+    "chinese": "巢；鸟巢",
+    "example": ""
+  },
+  {
+    "english": "orchestration",
+    "pos": "n.",
+    "chinese": "管弦乐编配；配器",
+    "example": ""
+  },
+  {
+    "english": "overgrazing",
+    "pos": "n.",
+    "chinese": "过度放牧",
+    "example": ""
+  },
+  {
+    "english": "oxen",
+    "pos": "n.",
+    "chinese": "牛（复数，尤指役牛）",
+    "example": ""
+  },
+  {
+    "english": "patent",
+    "pos": "v.",
+    "chinese": "取得专利；申请专利",
+    "example": ""
+  },
+  {
+    "english": "planner",
+    "pos": "n.",
+    "chinese": "规划者；规划人员",
+    "example": ""
+  },
+  {
+    "english": "poetic",
+    "pos": "adj.",
+    "chinese": "诗意的；富有诗意的",
+    "example": ""
+  },
+  {
+    "english": "polished",
+    "pos": "adj.",
+    "chinese": "精炼的；优雅的；打磨过的",
+    "example": ""
+  },
+  {
+    "english": "politic",
+    "pos": "n.",
+    "chinese": "政治；政治活动",
+    "example": ""
+  },
+  {
+    "english": "precipitation",
+    "pos": "n.",
+    "chinese": "降水；降水量",
+    "example": ""
+  },
+  {
+    "english": "predatory",
+    "pos": "adj.",
+    "chinese": "捕食的；掠食性的",
+    "example": ""
+  },
+  {
+    "english": "printing",
+    "pos": "n.",
+    "chinese": "印刷；印刷业",
+    "example": ""
+  },
+  {
+    "english": "prolonged",
+    "pos": "adj.",
+    "chinese": "持久的；长期的",
+    "example": ""
+  },
+  {
+    "english": "radiocarbon",
+    "pos": "n.",
+    "chinese": "放射性碳（碳的放射性同位素）",
+    "example": ""
+  },
+  {
+    "english": "refine",
+    "pos": "v.",
+    "chinese": "改进；完善",
+    "example": ""
+  },
+  {
+    "english": "refuel",
+    "pos": "v.",
+    "chinese": "补充能量；加油",
+    "example": ""
+  },
+  {
+    "english": "renewable",
+    "pos": "adj.",
+    "chinese": "可再生的",
+    "example": ""
+  },
+  {
+    "english": "replicate",
+    "pos": "v.",
+    "chinese": "复制；重现",
+    "example": ""
+  },
+  {
+    "english": "restrictive",
+    "pos": "adj.",
+    "chinese": "限制性的；约束的",
+    "example": ""
+  },
+  {
+    "english": "rigorous",
+    "pos": "adj.",
+    "chinese": "严谨的；严格的",
+    "example": ""
+  }
+]

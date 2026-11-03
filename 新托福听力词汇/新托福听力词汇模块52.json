@@ -1,0 +1,302 @@
+[
+  {
+    "english": "six",
+    "pos": "num.",
+    "chinese": "六",
+    "example": ""
+  },
+  {
+    "english": "guess",
+    "pos": "v.",
+    "chinese": "猜测；估计",
+    "example": ""
+  },
+  {
+    "english": "eye",
+    "pos": "n.",
+    "chinese": "眼睛；眼力，鉴赏力；留意，照看",
+    "example": ""
+  },
+  {
+    "english": "add",
+    "pos": "v.",
+    "chinese": "增加；添加",
+    "example": ""
+  },
+  {
+    "english": "page",
+    "pos": "n.",
+    "chinese": "页；页面",
+    "example": ""
+  },
+  {
+    "english": "newspaper",
+    "pos": "n.",
+    "chinese": "报纸",
+    "example": ""
+  },
+  {
+    "english": "pay",
+    "pos": "v.",
+    "chinese": "支付；付款；获得报酬",
+    "example": ""
+  },
+  {
+    "english": "conversation",
+    "pos": "n.",
+    "chinese": "谈话；对话；交谈",
+    "example": ""
+  },
+  {
+    "english": "interesting",
+    "pos": "adj.",
+    "chinese": "有趣的，引人兴趣的",
+    "example": ""
+  },
+  {
+    "english": "club",
+    "pos": "n.",
+    "chinese": "社团；俱乐部",
+    "example": ""
+  },
+  {
+    "english": "remember",
+    "pos": "v.",
+    "chinese": "记得；记住",
+    "example": ""
+  },
+  {
+    "english": "again",
+    "pos": "adv.",
+    "chinese": "再次；又一次",
+    "example": ""
+  },
+  {
+    "english": "weekend",
+    "pos": "n.",
+    "chinese": "周末",
+    "example": ""
+  },
+  {
+    "english": "town",
+    "pos": "n.",
+    "chinese": "城镇；镇子",
+    "example": ""
+  },
+  {
+    "english": "interested",
+    "pos": "adj.",
+    "chinese": "感兴趣的；有兴趣的",
+    "example": ""
+  },
+  {
+    "english": "library",
+    "pos": "n.",
+    "chinese": "图书馆；藏书楼",
+    "example": ""
+  },
+  {
+    "english": "friend",
+    "pos": "n.",
+    "chinese": "朋友；友人",
+    "example": ""
+  },
+  {
+    "english": "dance",
+    "pos": "n.",
+    "chinese": "舞蹈；跳舞的动作或表演",
+    "example": ""
+  },
+  {
+    "english": "ticket",
+    "pos": "n.",
+    "chinese": "票；入场券（用于观看比赛、乘车等）",
+    "example": ""
+  },
+  {
+    "english": "meeting",
+    "pos": "n.",
+    "chinese": "会议；集会",
+    "example": ""
+  },
+  {
+    "english": "tomorrow",
+    "pos": "n.",
+    "chinese": "明天；明日",
+    "example": ""
+  },
+  {
+    "english": "five",
+    "pos": "num.",
+    "chinese": "五（数字）",
+    "example": ""
+  },
+  {
+    "english": "car",
+    "pos": "n.",
+    "chinese": "汽车",
+    "example": ""
+  },
+  {
+    "english": "bad",
+    "pos": "adj.",
+    "chinese": "坏的；糟糕的；不好的",
+    "example": ""
+  },
+  {
+    "english": "finish",
+    "pos": "v.",
+    "chinese": "完成；结束",
+    "example": ""
+  },
+  {
+    "english": "seven",
+    "pos": "num.",
+    "chinese": "七；七个",
+    "example": ""
+  },
+  {
+    "english": "bookstore",
+    "pos": "n.",
+    "chinese": "书店",
+    "example": ""
+  },
+  {
+    "english": "restaurant",
+    "pos": "n.",
+    "chinese": "餐馆；餐厅（供人用餐的场所）",
+    "example": ""
+  },
+  {
+    "english": "concert",
+    "pos": "n.",
+    "chinese": "音乐会；公开的音乐演出",
+    "example": ""
+  },
+  {
+    "english": "before",
+    "pos": "adv.",
+    "chinese": "以前，先前",
+    "example": ""
+  },
+  {
+    "english": "second",
+    "pos": "adj.",
+    "chinese": "第二的；第二个的",
+    "example": ""
+  },
+  {
+    "english": "afternoon",
+    "pos": "n.",
+    "chinese": "下午",
+    "example": ""
+  },
+  {
+    "english": "eight",
+    "pos": "num.",
+    "chinese": "八；数字8",
+    "example": ""
+  },
+  {
+    "english": "fun",
+    "pos": "n.",
+    "chinese": "乐趣；娱乐",
+    "example": ""
+  },
+  {
+    "english": "bus",
+    "pos": "n.",
+    "chinese": "公共汽车；巴士",
+    "example": ""
+  },
+  {
+    "english": "nice",
+    "pos": "adj.",
+    "chinese": "好的；令人愉快的；宜人的",
+    "example": ""
+  },
+  {
+    "english": "hi",
+    "pos": "interj.",
+    "chinese": "嗨；你好",
+    "example": ""
+  },
+  {
+    "english": "hiking",
+    "pos": "n.",
+    "chinese": "徒步；远足",
+    "example": ""
+  },
+  {
+    "english": "dish",
+    "pos": "n.",
+    "chinese": "菜肴；盘子",
+    "example": ""
+  },
+  {
+    "english": "manager",
+    "pos": "n.",
+    "chinese": "经理；主管",
+    "example": ""
+  },
+  {
+    "english": "appointment",
+    "pos": "n.",
+    "chinese": "预约；约定会面",
+    "example": ""
+  },
+  {
+    "english": "championship",
+    "pos": "n.",
+    "chinese": "锦标赛；冠军赛",
+    "example": ""
+  },
+  {
+    "english": "menu",
+    "pos": "n.",
+    "chinese": "菜单；菜品清单",
+    "example": ""
+  },
+  {
+    "english": "director",
+    "pos": "n.",
+    "chinese": "主任；主管；导演",
+    "example": ""
+  },
+  {
+    "english": "pack",
+    "pos": "v.",
+    "chinese": "打包；装（行李）；塞满、挤满",
+    "example": ""
+  },
+  {
+    "english": "finalize",
+    "pos": "v.",
+    "chinese": "最终确定；敲定（计划、安排等）",
+    "example": ""
+  },
+  {
+    "english": "fundraiser",
+    "pos": "n.",
+    "chinese": "募捐活动；筹款活动",
+    "example": ""
+  },
+  {
+    "english": "got",
+    "pos": "v.",
+    "chinese": "（口语）明白了、懂了；有（have got 的缩写形式）",
+    "example": ""
+  },
+  {
+    "english": "hectic",
+    "pos": "adj.",
+    "chinese": "忙乱的；繁忙紧张的",
+    "example": ""
+  },
+  {
+    "english": "info",
+    "pos": "n.",
+    "chinese": "信息；资料",
+    "example": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "english": "camping",
+    "pos": "n.",
+    "chinese": "露营；野营活动",
+    "example": ""
+  },
+  {
+    "english": "entrance",
+    "pos": "n.",
+    "chinese": "入口；门口",
+    "example": ""
+  },
+  {
+    "english": "usual",
+    "pos": "adj.",
+    "chinese": "通常的；平常的",
+    "example": ""
+  },
+  {
+    "english": "weekly",
+    "pos": "adj.",
+    "chinese": "每周的；一周一次的",
+    "example": ""
+  },
+  {
+    "english": "sink",
+    "pos": "v.",
+    "chinese": "下沉；沉没",
+    "example": ""
+  },
+  {
+    "english": "apparently",
+    "pos": "adv.",
+    "chinese": "据说；看来（表示根据听闻或表面情况作出的推断）",
+    "example": ""
+  },
+  {
+    "english": "recycle",
+    "pos": "v.",
+    "chinese": "回收利用（对废弃物进行再处理以便重新使用）",
+    "example": ""
+  },
+  {
+    "english": "smoothly",
+    "pos": "adv.",
+    "chinese": "顺利地；平稳地（没有遇到困难或问题）",
+    "example": ""
+  },
+  {
+    "english": "permit",
+    "pos": "n.",
+    "chinese": "许可证；通行证（官方颁发的允许做某事的凭证）",
+    "example": ""
+  },
+  {
+    "english": "audition",
+    "pos": "n.",
+    "chinese": "试演；面试（为争取角色或职位而进行的表演或测试）",
+    "example": ""
+  },
+  {
+    "english": "booklet",
+    "pos": "n.",
+    "chinese": "小册子（装订成册的薄本印刷品）",
+    "example": ""
+  },
+  {
+    "english": "originality",
+    "pos": "n.",
+    "chinese": "独创性；原创性（作品具有新颖独特之处）",
+    "example": ""
+  },
+  {
+    "english": "pickleball",
+    "pos": "phr.",
+    "chinese": "泡菜；腌菜（用醋或盐水腌制的蔬菜）",
+    "example": ""
+  },
+  {
+    "english": "password",
+    "pos": "n.",
+    "chinese": "密码（用于验证身份、访问系统或账户的保密字符串）",
+    "example": ""
+  },
+  {
+    "english": "classmate",
+    "pos": "n.",
+    "chinese": "同班同学（与自己同在一个班级或课程的人）",
+    "example": ""
+  },
+  {
+    "english": "breakfast",
+    "pos": "n.",
+    "chinese": "早餐",
+    "example": ""
+  },
+  {
+    "english": "mindful",
+    "pos": "adj.",
+    "chinese": "留意的；注意的",
+    "example": ""
+  },
+  {
+    "english": "shipment",
+    "pos": "n.",
+    "chinese": "一批货物；运送的货物",
+    "example": ""
+  },
+  {
+    "english": "over",
+    "pos": "adv.",
+    "chinese": "（表示地点）在那边；（表示结束）结束；（表示重复）反复",
+    "example": ""
+  },
+  {
+    "english": "cake",
+    "pos": "n.",
+    "chinese": "蛋糕",
+    "example": ""
+  },
+  {
+    "english": "drink",
+    "pos": "n.",
+    "chinese": "饮料",
+    "example": ""
+  },
+  {
+    "english": "steam",
+    "pos": "n.",
+    "chinese": "蒸汽",
+    "example": ""
+  },
+  {
+    "english": "knowledgeable",
+    "pos": "adj.",
+    "chinese": "知识渊博的；博学的",
+    "example": ""
+  },
+  {
+    "english": "liaison",
+    "pos": "n.",
+    "chinese": "联络人；负责在两个团体之间沟通协调的人",
+    "example": ""
+  },
+  {
+    "english": "recharge",
+    "pos": "v.",
+    "chinese": "充电；恢复精力",
+    "example": ""
+  },
+  {
+    "english": "swap",
+    "pos": "v.",
+    "chinese": "替换；交换",
+    "example": ""
+  },
+  {
+    "english": "chess",
+    "pos": "n.",
+    "chinese": "国际象棋",
+    "example": ""
+  },
+  {
+    "english": "singer",
+    "pos": "n.",
+    "chinese": "歌手；歌唱家",
+    "example": ""
+  },
+  {
+    "english": "sister",
+    "pos": "n.",
+    "chinese": "姐妹；姐姐；妹妹",
+    "example": ""
+  },
+  {
+    "english": "gala",
+    "pos": "n.",
+    "chinese": "盛会；庆典；晚会",
+    "example": ""
+  },
+  {
+    "english": "p.m.",
+    "pos": "n.",
+    "chinese": "（时间）下午（p.m. 中的 p.）",
+    "example": ""
+  },
+  {
+    "english": "petition",
+    "pos": "n.",
+    "chinese": "请愿书；联名请愿",
+    "example": ""
+  },
+  {
+    "english": "screening",
+    "pos": "n.",
+    "chinese": "放映；电影放映活动",
+    "example": ""
+  },
+  {
+    "english": "sushi",
+    "pos": "n.",
+    "chinese": "寿司",
+    "example": ""
+  },
+  {
+    "english": "picnic",
+    "pos": "n.",
+    "chinese": "野餐",
+    "example": ""
+  },
+  {
+    "english": "beginning",
+    "pos": "n.",
+    "chinese": "开始；开端",
+    "example": ""
+  },
+  {
+    "english": "convenient",
+    "pos": "adj.",
+    "chinese": "方便的；便利的",
+    "example": ""
+  },
+  {
+    "english": "cross-country",
+    "pos": "phr.",
+    "chinese": "横穿地；跨越地（构成 cross-country）",
+    "example": ""
+  },
+  {
+    "english": "diet",
+    "pos": "n.",
+    "chinese": "饮食；日常所吃的食物类型",
+    "example": ""
+  },
+  {
+    "english": "disappointing",
+    "pos": "adj.",
+    "chinese": "令人失望的；让人扫兴的",
+    "example": ""
+  },
+  {
+    "english": "drawer",
+    "pos": "n.",
+    "chinese": "抽屉",
+    "example": ""
+  },
+  {
+    "english": "exhibition",
+    "pos": "n.",
+    "chinese": "展览；展览会",
+    "example": ""
+  },
+  {
+    "english": "photographer",
+    "pos": "n.",
+    "chinese": "摄影师",
+    "example": ""
+  },
+  {
+    "english": "pleased",
+    "pos": "adj.",
+    "chinese": "高兴的；满意的",
+    "example": ""
+  },
+  {
+    "english": "seriously",
+    "pos": "adv.",
+    "chinese": "认真地；严肃地；真的吗（表惊讶）",
+    "example": ""
+  },
+  {
+    "english": "weekday",
+    "pos": "n.",
+    "chinese": "工作日（周一至周五）",
+    "example": ""
+  },
+  {
+    "english": "accommodation",
+    "pos": "n.",
+    "chinese": "住宿；住处",
+    "example": ""
+  },
+  {
+    "english": "accordingly",
+    "pos": "adv.",
+    "chinese": "相应地；据此",
+    "example": ""
+  },
+  {
+    "english": "accumulate",
+    "pos": "v.",
+    "chinese": "积聚；逐渐累积",
+    "example": ""
+  },
+  {
+    "english": "adventurous",
+    "pos": "adj.",
+    "chinese": "爱冒险的；富有冒险精神的",
+    "example": ""
+  }
+]

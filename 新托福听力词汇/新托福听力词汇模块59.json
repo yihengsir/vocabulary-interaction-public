@@ -1,0 +1,302 @@
+[
+  {
+    "english": "vigorous",
+    "pos": "adj.",
+    "chinese": "激烈的；有力的",
+    "example": ""
+  },
+  {
+    "english": "waterproof",
+    "pos": "adj.",
+    "chinese": "防水的",
+    "example": ""
+  },
+  {
+    "english": "clock",
+    "pos": "n.",
+    "chinese": "时钟，钟表",
+    "example": ""
+  },
+  {
+    "english": "husband",
+    "pos": "n.",
+    "chinese": "丈夫",
+    "example": ""
+  },
+  {
+    "english": "pocket",
+    "pos": "n.",
+    "chinese": "口袋；小袋状区域",
+    "example": ""
+  },
+  {
+    "english": "swimming",
+    "pos": "n.",
+    "chinese": "游泳",
+    "example": ""
+  },
+  {
+    "english": "tooth",
+    "pos": "n.",
+    "chinese": "牙齿",
+    "example": ""
+  },
+  {
+    "english": "affair",
+    "pos": "n.",
+    "chinese": "事务；公共事务（如学生事务）",
+    "example": ""
+  },
+  {
+    "english": "committee",
+    "pos": "n.",
+    "chinese": "委员会",
+    "example": ""
+  },
+  {
+    "english": "forever",
+    "pos": "adv.",
+    "chinese": "永远；极长时间",
+    "example": ""
+  },
+  {
+    "english": "organized",
+    "pos": "adj.",
+    "chinese": "有条理的；安排有序的",
+    "example": ""
+  },
+  {
+    "english": "stadium",
+    "pos": "n.",
+    "chinese": "体育场",
+    "example": ""
+  },
+  {
+    "english": "geology",
+    "pos": "n.",
+    "chinese": "地质学",
+    "example": ""
+  },
+  {
+    "english": "outstanding",
+    "pos": "adj.",
+    "chinese": "杰出的；卓越的",
+    "example": ""
+  },
+  {
+    "english": "postcard",
+    "pos": "n.",
+    "chinese": "明信片",
+    "example": ""
+  },
+  {
+    "english": "scenic",
+    "pos": "adj.",
+    "chinese": "风景优美的",
+    "example": ""
+  },
+  {
+    "english": "arrive",
+    "pos": "v.",
+    "chinese": "到达",
+    "example": ""
+  },
+  {
+    "english": "birthday",
+    "pos": "n.",
+    "chinese": "生日",
+    "example": ""
+  },
+  {
+    "english": "chocolate",
+    "pos": "n.",
+    "chinese": "巧克力",
+    "example": ""
+  },
+  {
+    "english": "holiday",
+    "pos": "n.",
+    "chinese": "假日；节日（尤指商店促销的节庆期间）",
+    "example": ""
+  },
+  {
+    "english": "suggestion",
+    "pos": "n.",
+    "chinese": "建议；提议",
+    "example": ""
+  },
+  {
+    "english": "bedroom",
+    "pos": "n.",
+    "chinese": "卧室",
+    "example": ""
+  },
+  {
+    "english": "accounting",
+    "pos": "n.",
+    "chinese": "会计；会计工作",
+    "example": ""
+  },
+  {
+    "english": "advocacy",
+    "pos": "n.",
+    "chinese": "倡导；拥护（为某群体或事业发声）",
+    "example": ""
+  },
+  {
+    "english": "allocate",
+    "pos": "v.",
+    "chinese": "分配；拨出（资金等）",
+    "example": ""
+  },
+  {
+    "english": "ballroom",
+    "pos": "n.",
+    "chinese": "交际舞的；舞厅的",
+    "example": ""
+  },
+  {
+    "english": "biodegradable",
+    "pos": "adj.",
+    "chinese": "可生物降解的",
+    "example": ""
+  },
+  {
+    "english": "boutique",
+    "pos": "n.",
+    "chinese": "精品店；时装小店",
+    "example": ""
+  },
+  {
+    "english": "brew",
+    "pos": "v.",
+    "chinese": "（用咖啡机等）煮、冲泡（咖啡等饮品）",
+    "example": ""
+  },
+  {
+    "english": "calling",
+    "pos": "n.",
+    "chinese": "（电话用语）打电话、来电",
+    "example": ""
+  },
+  {
+    "english": "caroline",
+    "pos": "n.",
+    "chinese": "卡罗琳（女子名）",
+    "example": ""
+  },
+  {
+    "english": "carving",
+    "pos": "n.",
+    "chinese": "雕刻；雕刻作品",
+    "example": ""
+  },
+  {
+    "english": "caterer",
+    "pos": "n.",
+    "chinese": "餐饮承办商；酒席承办者",
+    "example": ""
+  },
+  {
+    "english": "checklist",
+    "pos": "n.",
+    "chinese": "清单；核对表",
+    "example": ""
+  },
+  {
+    "english": "checkup",
+    "pos": "n.",
+    "chinese": "体检；健康检查",
+    "example": ""
+  },
+  {
+    "english": "considerate",
+    "pos": "adj.",
+    "chinese": "体贴的；为他人着想的",
+    "example": ""
+  },
+  {
+    "english": "criterion",
+    "pos": "n.",
+    "chinese": "标准；准则",
+    "example": ""
+  },
+  {
+    "english": "dumbbell",
+    "pos": "n.",
+    "chinese": "哑铃（健身器材）",
+    "example": ""
+  },
+  {
+    "english": "editing",
+    "pos": "n.",
+    "chinese": "编辑；剪辑（对文字、音频或视频等素材进行加工处理）",
+    "example": ""
+  },
+  {
+    "english": "emily",
+    "pos": "adv.",
+    "chinese": "艾米丽（女性名字，用于称呼对方）",
+    "example": ""
+  },
+  {
+    "english": "enforcement",
+    "pos": "n.",
+    "chinese": "执行；实施（规则、法律等的强制执行）",
+    "example": ""
+  },
+  {
+    "english": "fundraise",
+    "pos": "v.",
+    "chinese": "筹款；募捐（为慈善等目的筹集资金）",
+    "example": ""
+  },
+  {
+    "english": "hiccup",
+    "pos": "n.",
+    "chinese": "小问题；小挫折（计划或过程中的小障碍）",
+    "example": ""
+  },
+  {
+    "english": "hydrated",
+    "pos": "adj.",
+    "chinese": "水分充足的；保持水分的",
+    "example": ""
+  },
+  {
+    "english": "intramural",
+    "pos": "adj.",
+    "chinese": "校内的；校内组织的（体育等活动）",
+    "example": ""
+  },
+  {
+    "english": "jumping jacks",
+    "pos": "phr.",
+    "chinese": "（复数）开合跳",
+    "example": ""
+  },
+  {
+    "english": "jumping",
+    "pos": "n.",
+    "chinese": "跳跃（动作）",
+    "example": ""
+  },
+  {
+    "english": "lap",
+    "pos": "n.",
+    "chinese": "（游泳池的）一圈、一个来回",
+    "example": ""
+  },
+  {
+    "english": "narrated",
+    "pos": "adj.",
+    "chinese": "有旁白解说的；配旁白的",
+    "example": ""
+  },
+  {
+    "english": "nope",
+    "pos": "interj.",
+    "chinese": "不；没有（表示否定的口语回答）",
+    "example": ""
+  }
+]

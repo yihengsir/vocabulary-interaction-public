@@ -1,0 +1,302 @@
+[
+  {
+    "english": "dropping",
+    "pos": "n.",
+    "chinese": "（动物的）粪便",
+    "example": ""
+  },
+  {
+    "english": "duct",
+    "pos": "n.",
+    "chinese": "管道；导管",
+    "example": ""
+  },
+  {
+    "english": "emanate",
+    "pos": "v.",
+    "chinese": "发出；源自",
+    "example": ""
+  },
+  {
+    "english": "embolden",
+    "pos": "v.",
+    "chinese": "使有勇气；鼓励",
+    "example": ""
+  },
+  {
+    "english": "enchant",
+    "pos": "v.",
+    "chinese": "使着迷；使陶醉",
+    "example": ""
+  },
+  {
+    "english": "encroach",
+    "pos": "v.",
+    "chinese": "侵占；侵犯",
+    "example": ""
+  },
+  {
+    "english": "enlarge",
+    "pos": "v.",
+    "chinese": "扩大；放大",
+    "example": ""
+  },
+  {
+    "english": "equivalent",
+    "pos": "adj.",
+    "chinese": "相等的；等同的",
+    "example": ""
+  },
+  {
+    "english": "eraser",
+    "pos": "n.",
+    "chinese": "橡皮擦",
+    "example": ""
+  },
+  {
+    "english": "et",
+    "pos": "n.",
+    "chinese": "等等（拉丁语缩写，用于列举未尽事项）",
+    "example": ""
+  },
+  {
+    "english": "exaggerated",
+    "pos": "adj.",
+    "chinese": "夸张的；被夸大的",
+    "example": ""
+  },
+  {
+    "english": "existential",
+    "pos": "adj.",
+    "chinese": "存在主义的；与存在相关的",
+    "example": ""
+  },
+  {
+    "english": "extraction",
+    "pos": "n.",
+    "chinese": "开采；提取",
+    "example": ""
+  },
+  {
+    "english": "extrinsic",
+    "pos": "adj.",
+    "chinese": "外在的；外源的",
+    "example": ""
+  },
+  {
+    "english": "customer-facing",
+    "pos": "phr.",
+    "chinese": "面向（顾客）的；与顾客直接接触的",
+    "example": ""
+  },
+  {
+    "english": "fairness",
+    "pos": "n.",
+    "chinese": "公平；公正",
+    "example": ""
+  },
+  {
+    "english": "fasting",
+    "pos": "n.",
+    "chinese": "禁食；断食",
+    "example": ""
+  },
+  {
+    "english": "feeding",
+    "pos": "n.",
+    "chinese": "进食；觅食",
+    "example": ""
+  },
+  {
+    "english": "flawed",
+    "pos": "adj.",
+    "chinese": "有缺陷的；错误的",
+    "example": ""
+  },
+  {
+    "english": "fossilized",
+    "pos": "adj.",
+    "chinese": "化石化的；变成化石的",
+    "example": ""
+  },
+  {
+    "english": "framework",
+    "pos": "n.",
+    "chinese": "框架；用于理解或分析某事物的基本结构或体系",
+    "example": ""
+  },
+  {
+    "english": "fulfillment",
+    "pos": "n.",
+    "chinese": "履行；订单履行（指完成订单处理与配送的过程）",
+    "example": ""
+  },
+  {
+    "english": "gamelan",
+    "pos": "n.",
+    "chinese": "甘美兰（印度尼西亚传统打击乐）",
+    "example": ""
+  },
+  {
+    "english": "german",
+    "pos": "adj.",
+    "chinese": "德国的；德国人的",
+    "example": ""
+  },
+  {
+    "english": "grotesque",
+    "pos": "adj.",
+    "chinese": "怪诞的；丑陋奇异的",
+    "example": ""
+  },
+  {
+    "english": "hanger",
+    "pos": "n.",
+    "chinese": "衣架",
+    "example": ""
+  },
+  {
+    "english": "harsh",
+    "pos": "adj.",
+    "chinese": "严酷的；恶劣的",
+    "example": ""
+  },
+  {
+    "english": "healthcare",
+    "pos": "n.",
+    "chinese": "医疗保健",
+    "example": ""
+  },
+  {
+    "english": "hectare",
+    "pos": "n.",
+    "chinese": "公顷（面积单位，等于10,000平方米）",
+    "example": ""
+  },
+  {
+    "english": "herded",
+    "pos": "adj.",
+    "chinese": "放牧的；成群驱赶照管的",
+    "example": ""
+  },
+  {
+    "english": "historically",
+    "pos": "adv.",
+    "chinese": "历史上；在过去",
+    "example": ""
+  },
+  {
+    "english": "humpback",
+    "pos": "n.",
+    "chinese": "座头鲸（的）",
+    "example": ""
+  },
+  {
+    "english": "impairment",
+    "pos": "n.",
+    "chinese": "损伤；功能受损",
+    "example": ""
+  },
+  {
+    "english": "improvisation",
+    "pos": "n.",
+    "chinese": "即兴；即兴创作",
+    "example": ""
+  },
+  {
+    "english": "incorrectly",
+    "pos": "adv.",
+    "chinese": "错误地；不正确地",
+    "example": ""
+  },
+  {
+    "english": "influx",
+    "pos": "n.",
+    "chinese": "涌入；流入",
+    "example": ""
+  },
+  {
+    "english": "infrasonic",
+    "pos": "adj.",
+    "chinese": "次声的；低于人耳可听频率的",
+    "example": ""
+  },
+  {
+    "english": "instructional",
+    "pos": "adj.",
+    "chinese": "教学的；指导性的",
+    "example": ""
+  },
+  {
+    "english": "intake",
+    "pos": "n.",
+    "chinese": "摄入量；摄取",
+    "example": ""
+  },
+  {
+    "english": "intermittent",
+    "pos": "adj.",
+    "chinese": "间歇性的；断断续续的",
+    "example": ""
+  },
+  {
+    "english": "interplay",
+    "pos": "n.",
+    "chinese": "相互作用；相互影响",
+    "example": ""
+  },
+  {
+    "english": "interspecies",
+    "pos": "n.",
+    "chinese": "物种间的",
+    "example": ""
+  },
+  {
+    "english": "intimidate",
+    "pos": "v.",
+    "chinese": "吓人的；令人畏惧的",
+    "example": ""
+  },
+  {
+    "english": "intolerable",
+    "pos": "adj.",
+    "chinese": "无法忍受的；难以容忍的",
+    "example": ""
+  },
+  {
+    "english": "irrationally",
+    "pos": "adv.",
+    "chinese": "不理性地；不合理地",
+    "example": ""
+  },
+  {
+    "english": "iteration",
+    "pos": "n.",
+    "chinese": "迭代；重复",
+    "example": ""
+  },
+  {
+    "english": "lesser",
+    "pos": "adj.",
+    "chinese": "较少人知的；次要的",
+    "example": ""
+  },
+  {
+    "english": "livable",
+    "pos": "adj.",
+    "chinese": "适宜居住的；宜居的",
+    "example": ""
+  },
+  {
+    "english": "logistic",
+    "pos": "n.",
+    "chinese": "物流（货物运输、仓储与配送的组织管理）",
+    "example": ""
+  },
+  {
+    "english": "louver",
+    "pos": "n.",
+    "chinese": "百叶窗式通风片；可调节的条状通风板",
+    "example": ""
+  }
+]

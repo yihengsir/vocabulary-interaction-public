@@ -1,0 +1,302 @@
+[
+  {
+    "english": "respectful",
+    "pos": "adj.",
+    "chinese": "尊重他人的；有礼貌的",
+    "example": ""
+  },
+  {
+    "english": "technician",
+    "pos": "n.",
+    "chinese": "技术员；技师",
+    "example": ""
+  },
+  {
+    "english": "undecided",
+    "pos": "adj.",
+    "chinese": "尚未决定的、未拿定主意的",
+    "example": ""
+  },
+  {
+    "english": "apologize",
+    "pos": "v.",
+    "chinese": "道歉；表示歉意",
+    "example": ""
+  },
+  {
+    "english": "alumnus",
+    "pos": "n.",
+    "chinese": "校友；毕业生",
+    "example": ""
+  },
+  {
+    "english": "canada",
+    "pos": "prop.n.",
+    "chinese": "加拿大（国家名）",
+    "example": ""
+  },
+  {
+    "english": "expertise",
+    "pos": "n.",
+    "chinese": "专业知识；专长",
+    "example": ""
+  },
+  {
+    "english": "symposium",
+    "pos": "n.",
+    "chinese": "专题研讨会；学术讨论会",
+    "example": ""
+  },
+  {
+    "english": "tutorial",
+    "pos": "adj.",
+    "chinese": "教学指导的；辅导用的",
+    "example": ""
+  },
+  {
+    "english": "cabin",
+    "pos": "n.",
+    "chinese": "小木屋；度假小屋",
+    "example": ""
+  },
+  {
+    "english": "argument",
+    "pos": "n.",
+    "chinese": "论点；论据",
+    "example": ""
+  },
+  {
+    "english": "double",
+    "pos": "adj.",
+    "chinese": "双重的；双的",
+    "example": ""
+  },
+  {
+    "english": "statement",
+    "pos": "n.",
+    "chinese": "陈述；声明；书面说明",
+    "example": ""
+  },
+  {
+    "english": "suitable",
+    "pos": "adj.",
+    "chinese": "合适的；适宜的",
+    "example": ""
+  },
+  {
+    "english": "dinner",
+    "pos": "n.",
+    "chinese": "晚餐；正餐",
+    "example": ""
+  },
+  {
+    "english": "shelf",
+    "pos": "n.",
+    "chinese": "架子；搁板",
+    "example": ""
+  },
+  {
+    "english": "download",
+    "pos": "v.",
+    "chinese": "下载（从网络获取文件或应用）",
+    "example": ""
+  },
+  {
+    "english": "operating",
+    "pos": "n.",
+    "chinese": "运行的，操作的（用于 operating system 等复合词中）",
+    "example": ""
+  },
+  {
+    "english": "reusable",
+    "pos": "adj.",
+    "chinese": "可重复使用的",
+    "example": ""
+  },
+  {
+    "english": "article",
+    "pos": "n.",
+    "chinese": "文章（报刊或网络上的报道、论文）",
+    "example": ""
+  },
+  {
+    "english": "glad",
+    "pos": "adj.",
+    "chinese": "高兴的，乐意的",
+    "example": ""
+  },
+  {
+    "english": "account",
+    "pos": "n.",
+    "chinese": "账户；账号",
+    "example": ""
+  },
+  {
+    "english": "admit",
+    "pos": "v.",
+    "chinese": "承认；准许进入",
+    "example": ""
+  },
+  {
+    "english": "cooking",
+    "pos": "n.",
+    "chinese": "烹饪；烹饪活动",
+    "example": ""
+  },
+  {
+    "english": "credit",
+    "pos": "n.",
+    "chinese": "学分；信用卡；赊购",
+    "example": ""
+  },
+  {
+    "english": "fail",
+    "pos": "v.",
+    "chinese": "失败；出故障；不成功",
+    "example": ""
+  },
+  {
+    "english": "fantastic",
+    "pos": "adj.",
+    "chinese": "极好的，很棒的",
+    "example": ""
+  },
+  {
+    "english": "hurry",
+    "pos": "v.",
+    "chinese": "赶快，赶紧",
+    "example": ""
+  },
+  {
+    "english": "refresh",
+    "pos": "v.",
+    "chinese": "使恢复精神；使清醒",
+    "example": ""
+  },
+  {
+    "english": "reading",
+    "pos": "n.",
+    "chinese": "阅读材料，读物",
+    "example": ""
+  },
+  {
+    "english": "win",
+    "pos": "v.",
+    "chinese": "获胜，赢得",
+    "example": ""
+  },
+  {
+    "english": "camera",
+    "pos": "n.",
+    "chinese": "相机；摄影机",
+    "example": ""
+  },
+  {
+    "english": "advertise",
+    "pos": "v.",
+    "chinese": "宣传；做广告以推广某事物",
+    "example": ""
+  },
+  {
+    "english": "aerobics",
+    "pos": "n.",
+    "chinese": "有氧运动（健身操）",
+    "example": ""
+  },
+  {
+    "english": "appoint",
+    "pos": "v.",
+    "chinese": "指定；委派（某人担任某职务）",
+    "example": ""
+  },
+  {
+    "english": "approve",
+    "pos": "v.",
+    "chinese": "批准；通过（提案、变更等）",
+    "example": ""
+  },
+  {
+    "english": "assist",
+    "pos": "v.",
+    "chinese": "帮助；协助",
+    "example": ""
+  },
+  {
+    "english": "basement",
+    "pos": "n.",
+    "chinese": "地下室；建筑物的底层",
+    "example": ""
+  },
+  {
+    "english": "boot",
+    "pos": "n.",
+    "chinese": "靴子",
+    "example": ""
+  },
+  {
+    "english": "briefly",
+    "pos": "adv.",
+    "chinese": "简短地；短暂地",
+    "example": ""
+  },
+  {
+    "english": "clinic",
+    "pos": "n.",
+    "chinese": "诊所；门诊部",
+    "example": ""
+  },
+  {
+    "english": "confusing",
+    "pos": "adj.",
+    "chinese": "令人困惑的；难以理解的",
+    "example": ""
+  },
+  {
+    "english": "defeat",
+    "pos": "v.",
+    "chinese": "使（目的、效果）失效；破坏、抵消",
+    "example": ""
+  },
+  {
+    "english": "distribute",
+    "pos": "v.",
+    "chinese": "分发；发放",
+    "example": ""
+  },
+  {
+    "english": "disturbance",
+    "pos": "n.",
+    "chinese": "干扰；骚乱；打扰",
+    "example": ""
+  },
+  {
+    "english": "document",
+    "pos": "n.",
+    "chinese": "文件；文档",
+    "example": ""
+  },
+  {
+    "english": "eager",
+    "pos": "adj.",
+    "chinese": "渴望的；急切的",
+    "example": ""
+  },
+  {
+    "english": "ecology",
+    "pos": "n.",
+    "chinese": "生态学",
+    "example": ""
+  },
+  {
+    "english": "edition",
+    "pos": "n.",
+    "chinese": "版本；版次",
+    "example": ""
+  },
+  {
+    "english": "inform",
+    "pos": "v.",
+    "chinese": "通知；告知",
+    "example": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "english": "deadline",
+    "pos": "n.",
+    "chinese": "截止日期；最后期限",
+    "example": "I'm sorry for the confusion regarding the deadlines for your upcoming assignments."
+  },
+  {
+    "english": "attention",
+    "pos": "n.",
+    "chinese": "注意；关注",
+    "example": "So when frogs and bees are struggling, it's a warning sign that the environment needs attention."
+  },
+  {
+    "english": "afterward",
+    "pos": "adv.",
+    "chinese": "之后；随后",
+    "example": "It continued afterward, down to today, but in a more limited way."
+  },
+  {
+    "english": "fix",
+    "pos": "v.",
+    "chinese": "固定；修理",
+    "example": "Unlike frescoes, which were fixed to walls, tapestries could be rolled up and transported from one location to another, allowing their owners to display their wealth wherever they went."
+  },
+  {
+    "english": "documentary",
+    "pos": "n.",
+    "chinese": "纪录片；纪实影片",
+    "example": "You're familiar with documentaries, nonfiction films that use things like interviews and news footage to tell a true story."
+  },
+  {
+    "english": "writing",
+    "pos": "n.",
+    "chinese": "写作；作品；文字（创作）",
+    "example": "But now let's get back to creative writing and talk about a short story that a previous student of mine wrote last semester."
+  },
+  {
+    "english": "mention",
+    "pos": "v.",
+    "chinese": "提到；说起",
+    "example": "There's just one more thing I need to mention."
+  },
+  {
+    "english": "range",
+    "pos": "v.",
+    "chinese": "（范围）从……到……不等；涵盖",
+    "example": "Still, the genre thrives, ranging from interactive digital landscapes to whimsical mechanical sculptures."
+  },
+  {
+    "english": "maya",
+    "pos": "prop.n.",
+    "chinese": "玛雅（民族/文明）；玛雅人；人名“玛雅”",
+    "example": "The Maya were heavily dependent on agriculture, with water being a critical resource for their survival."
+  },
+  {
+    "english": "instruction",
+    "pos": "n.",
+    "chinese": "说明；指示；操作指南",
+    "example": "He included specific instructions for how to prepare the piano."
+  },
+  {
+    "english": "management",
+    "pos": "n.",
+    "chinese": "管理；经营；管理（学科/领域）",
+    "example": "This idea of just in time inventory management became a core principle of lean manufacturing."
+  },
+  {
+    "english": "performer",
+    "pos": "n.",
+    "chinese": "表演者；演出者",
+    "example": "The emphasis on group expression is woven into the rhythms, interaction between performers and audiences and communal."
+  },
+  {
+    "english": "plot",
+    "pos": "n.",
+    "chinese": "情节（故事、电影等中的事件安排）；小块土地",
+    "example": "Imagine an abandoned plot in a city, maybe a piece of land where an old factory used to be."
+  },
+  {
+    "english": "dormitory",
+    "pos": "n.",
+    "chinese": "（大学）宿舍楼",
+    "example": "Please also see the new detailed guidelines that have been posted on every floor in each dormitory."
+  },
+  {
+    "english": "announcement",
+    "pos": "n.",
+    "chinese": "公告；通知",
+    "example": "A couple of announcements."
+  },
+  {
+    "english": "current",
+    "pos": "adj.",
+    "chinese": "当前的；现行的",
+    "example": "Our current Unis on Black Holes is largely based on Professor Benzie's work."
+  },
+  {
+    "english": "progress",
+    "pos": "n.",
+    "chinese": "进步；进展",
+    "example": "This gradual release fosters autonomy while ensuring progress."
+  },
+  {
+    "english": "worth",
+    "pos": "adj.",
+    "chinese": "值得的；有价值的",
+    "example": "This mineral was so rare and so valuable that it was literally worth its weight in gold."
+  },
+  {
+    "english": "consider",
+    "pos": "v.",
+    "chinese": "考虑、斟酌；认为、视为",
+    "example": "Consider ancient cave paintings that have been discovered throughout the world, some of them more than 40,000 years old."
+  },
+  {
+    "english": "invite",
+    "pos": "v.",
+    "chinese": "邀请；招致",
+    "example": "Kinetic art invites us into a multisensory experience—one that's immersive, unpredictable, and unforgettable."
+  },
+  {
+    "english": "software",
+    "pos": "n.",
+    "chinese": "软件",
+    "example": "Incorporating motors and sensors means dealing with breakdowns, software glitches, and constant upkeep."
+  },
+  {
+    "english": "dorm",
+    "pos": "n.",
+    "chinese": "宿舍",
+    "example": "I think we'll have access to the place in the dorm next door though."
+  },
+  {
+    "english": "creative",
+    "pos": "adj.",
+    "chinese": "有创造力的；创意的",
+    "example": "Storytelling dice are a simple way to break through that creative block."
+  },
+  {
+    "english": "manage",
+    "pos": "v.",
+    "chinese": "管理；负责；设法做到",
+    "example": "This aids with conservation and managing these important locations."
+  },
+  {
+    "english": "procedure",
+    "pos": "n.",
+    "chinese": "程序；步骤；规程",
+    "example": "You are being trained to teach recycling procedures to students on campus."
+  },
+  {
+    "english": "bit",
+    "pos": "n.",
+    "chinese": "一点；少量",
+    "example": "Let's talk a bit about bird migration."
+  },
+  {
+    "english": "opportunity",
+    "pos": "n.",
+    "chinese": "机会；有利的时机或条件",
+    "example": "Latimer, as a Black man, was excluded from many opportunities that his white peers enjoyed in the United States."
+  },
+  {
+    "english": "outline",
+    "pos": "n.",
+    "chinese": "提纲；概要；大纲",
+    "example": "For example, after modeling an essay, you might give students an outline, sentence starters, and model paragraphs."
+  },
+  {
+    "english": "hardware",
+    "pos": "n.",
+    "chinese": "硬件；计算机设备",
+    "example": "GPS is used for navigation and positioning, and it relies on hardware like satellites."
+  },
+  {
+    "english": "normally",
+    "pos": "adv.",
+    "chinese": "通常；一般情况下",
+    "example": "Normally, such a long weight would turn a body into a pile of bones, not an actual skeleton like what was found."
+  },
+  {
+    "english": "reflection",
+    "pos": "n.",
+    "chinese": "反映；体现；倒影；反思性写作",
+    "example": "It is a reflection of cultural values, technological progress."
+  },
+  {
+    "english": "prize",
+    "pos": "n.",
+    "chinese": "奖品；奖金",
+    "example": "Submissions will be accepted in print or digital format, and various prizes will be awarded."
+  },
+  {
+    "english": "newly",
+    "pos": "adv.",
+    "chinese": "新近地；最近才（发生或出现）",
+    "example": "However, a building technique doesn't need to be newly invented to be environmentally friendly."
+  },
+  {
+    "english": "status",
+    "pos": "n.",
+    "chinese": "地位；身份；状况",
+    "example": "Silk itself, the idea of silk, carried powerful symbolism, refinement, status and aspiration."
+  },
+  {
+    "english": "wake",
+    "pos": "v.",
+    "chinese": "醒来；睡醒",
+    "example": "Less night time light from digital screens and more bright light in the morning help improve one's sleep and wake cycle."
+  },
+  {
+    "english": "plastic",
+    "pos": "n.",
+    "chinese": "塑料；一种可塑形的人造材料，也指此类材料制成的物品",
+    "example": "Recycling bins for paper, plastic and metal will be placed in all academic buildings and residence halls."
+  },
+  {
+    "english": "auditorium",
+    "pos": "n.",
+    "chinese": "礼堂；观众厅",
+    "example": "You'll start your visit in the auditorium, including an ornithologist and a botanist."
+  },
+  {
+    "english": "decide",
+    "pos": "v.",
+    "chinese": "决定；做出选择或判断",
+    "example": "His display dance also involves following the female around until she decides whether to mate with him."
+  },
+  {
+    "english": "detail",
+    "pos": "n.",
+    "chinese": "细节；详情",
+    "example": "Previously, however, researchers could only guess at some details of monarch butterfly migrations."
+  },
+  {
+    "english": "p.m.",
+    "pos": "n.",
+    "chinese": "下午；午后（时间标记）",
+    "example": "An information session will be held next Tuesday at 7:00 p.m. in the campus center."
+  },
+  {
+    "english": "tutor",
+    "pos": "n.",
+    "chinese": "导师；辅导教师；助教（提供学业辅导的人）",
+    "example": "Our writing tutors can help with any stage of the process, from outlining to proofreading."
+  },
+  {
+    "english": "properly",
+    "pos": "adv.",
+    "chinese": "正确地；恰当地",
+    "example": "Unfortunately, due to system issues, some applications were not processed properly."
+  },
+  {
+    "english": "fitness",
+    "pos": "n.",
+    "chinese": "健身；健康",
+    "example": "The fitness center will be closing in two minutes."
+  },
+  {
+    "english": "organize",
+    "pos": "v.",
+    "chinese": "组织；安排；整理",
+    "example": "As they grow more confident, you gradually remove these supports, encouraging them to organize ideas and write independently."
+  },
+  {
+    "english": "figure",
+    "pos": "v.",
+    "chinese": "弄明白；想出；解决",
+    "example": "This helps them figure out whether their product actually meets the needs of their customers."
+  },
+  {
+    "english": "check",
+    "pos": "v.",
+    "chinese": "查看；核对",
+    "example": "For more details on the assignment, please check the syllabus."
+  },
+  {
+    "english": "opening",
+    "pos": "n.",
+    "chinese": "空缺的职位或名额；也可指（展览、活动等的）开幕、开始",
+    "example": "And we have openings for more club members."
+  },
+  {
+    "english": "grocery",
+    "pos": "n.",
+    "chinese": "食品杂货；杂货店",
+    "example": "Think of lifting a grocery bag with a heavy bowling ball in it."
+  },
+  {
+    "english": "sustainability",
+    "pos": "n.",
+    "chinese": "可持续性",
+    "example": "Today's builders are rediscovering adobe as it blends tradition with sustainability."
+  },
+  {
+    "english": "recommendation",
+    "pos": "n.",
+    "chinese": "建议；推荐",
+    "example": "Personalised experiences, like curated recommendations or specialty product lines, can turn casual buyers into lifelong fans."
+  }
+]

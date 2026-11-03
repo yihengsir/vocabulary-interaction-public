@@ -1,0 +1,302 @@
+[
+  {
+    "english": "insulation",
+    "pos": "n.",
+    "chinese": "隔热材料；绝缘",
+    "example": "They often lack proper insulation, leading to heat loss in colder climates."
+  },
+  {
+    "english": "locked",
+    "pos": "adj.",
+    "chinese": "锁住的；上锁的",
+    "example": "The magic lies in their unpredictability: you might roll a dragon, a locked door and a storm."
+  },
+  {
+    "english": "mere",
+    "pos": "adj.",
+    "chinese": "仅仅的；只不过的",
+    "example": "Animals were treated as resources, symbols, or mere background, important only for what they meant to us."
+  },
+  {
+    "english": "mexico",
+    "pos": "prop.n.",
+    "chinese": "墨西哥",
+    "example": "These butterflies travel thousands of miles from North America to Central Mexico to escape the cold winter."
+  },
+  {
+    "english": "motorized",
+    "pos": "adj.",
+    "chinese": "装有电动机的；机动的",
+    "example": "created a groundbreaking piece called Light Space Modulator, a motorized sculpture of spinning metal and glass, more of a performance than an object."
+  },
+  {
+    "english": "pictorial",
+    "pos": "adj.",
+    "chinese": "图画的；用图像表示的",
+    "example": "But instead of numbers, each die is covered with pictorial symbols like a tree, a key, or a lightning bolt."
+  },
+  {
+    "english": "purposely",
+    "pos": "adv.",
+    "chinese": "故意地；有意地",
+    "example": "Lawrence purposely used a style that appeared somewhat simple."
+  },
+  {
+    "english": "representation",
+    "pos": "n.",
+    "chinese": "表现；再现；描绘",
+    "example": "It encouraged creators to rethink structure, narrative and form, and to reconsider how we think about representation and abstraction, and it paved the way for other art movements like modernism."
+  },
+  {
+    "english": "sensor",
+    "pos": "n.",
+    "chinese": "传感器；感应器",
+    "example": "Incorporating motors and sensors means dealing with breakdowns, software glitches, and constant upkeep."
+  },
+  {
+    "english": "sided",
+    "pos": "adj.",
+    "chinese": "有…面的（如六面的）",
+    "example": "A typical set could have nine six-sided dice."
+  },
+  {
+    "english": "smiley",
+    "pos": "adj.",
+    "chinese": "笑脸的；微笑的",
+    "example": "Someone gets a dragon, a ladder and a smiley face; another rolls a spaceship, shoes and a storm cloud."
+  },
+  {
+    "english": "sway",
+    "pos": "v.",
+    "chinese": "轻轻摆动、摇曳",
+    "example": "Think of Alexander Calder's mobiles delicately balanced to sway with the air, or Theo Jansen's strand beasts — giant wind-powered creatures that walk across beaches like living machines."
+  },
+  {
+    "english": "theo",
+    "pos": "prop.n.",
+    "chinese": "特奥（人名，荷兰艺术家 Theo Jansen 的名字）",
+    "example": "Think of Alexander Calder's mobiles delicately balanced to sway with the air, or Theo Jansen's strand beasts — giant wind-powered creatures that walk across beaches like living machines."
+  },
+  {
+    "english": "traction",
+    "pos": "n.",
+    "chinese": "（观点、方法等获得的）关注、认可、发展势头",
+    "example": "But despite these risks, viral marketing remains an invaluable tool, particularly for startups and emerging brands seeking rapid traction."
+  },
+  {
+    "english": "upkeep",
+    "pos": "n.",
+    "chinese": "维护、保养（工作）",
+    "example": "Incorporating motors and sensors means dealing with breakdowns, software glitches, and constant upkeep."
+  },
+  {
+    "english": "vibrant",
+    "pos": "adj.",
+    "chinese": "鲜艳的、明快的（色彩）",
+    "example": "Prussian blue, which was originally created in Germany quite by accident, was affordable, vibrant, and widely accessible."
+  },
+  {
+    "english": "whimsical",
+    "pos": "adj.",
+    "chinese": "异想天开的、奇思妙想的",
+    "example": "Still, the genre thrives from interactive digital landscapes to whimsical mechanical sculptures."
+  },
+  {
+    "english": "yellowstone",
+    "pos": "prop.n.",
+    "chinese": "黄石（美国国家公园名）",
+    "example": "A striking example is the gray wolf in Yellowstone National Park in the US."
+  },
+  {
+    "english": "discomfort",
+    "pos": "n.",
+    "chinese": "（心理上的）不适、不安",
+    "example": "According to finger, people are motivated to reduce this discomfort by changing their beliefs or behaviors."
+  },
+  {
+    "english": "sphere",
+    "pos": "n.",
+    "chinese": "（活动、影响的）领域、范围",
+    "example": "This concept, known as public sphere theory, suggests that the way we design and use our public spaces reveals much about our cultural identity."
+  },
+  {
+    "english": "repair",
+    "pos": "v.",
+    "chinese": "修复；修理（使恢复原状）",
+    "example": "The consequences of indecision can be expensive or impossible to repair."
+  },
+  {
+    "english": "vent",
+    "pos": "n.",
+    "chinese": "通风口；排气孔",
+    "example": "Termites, fine-tune airflow by opening and closing vents, adding or removing soil to enlarge or seal passages."
+  },
+  {
+    "english": "forest",
+    "pos": "n.",
+    "chinese": "森林；大片树林",
+    "example": "The Indian pangolin is found in forests, grasslands and even deserts."
+  },
+  {
+    "english": "personal",
+    "pos": "adj.",
+    "chinese": "个人的；私人的",
+    "example": "My exercise and imagination illustrates a personal decision, but businesses also face opportunity costs in their operations."
+  },
+  {
+    "english": "keystone",
+    "pos": "n.",
+    "chinese": "拱顶石；关键石（比喻起关键作用的核心要素）",
+    "example": "In architecture, a keystone is a central stone that locks and arches together; remove it and the arch collapses."
+  },
+  {
+    "english": "picasso",
+    "pos": "prop.n.",
+    "chinese": "毕加索（西班牙画家巴勃罗·毕加索）",
+    "example": "The scene reimagines a famous 1922 painting by the Spanish artist Pablo Picasso called two women running on the beach."
+  },
+  {
+    "english": "psychologist",
+    "pos": "n.",
+    "chinese": "心理学家",
+    "example": "The concept was introduced by psychologist Leon finger in 1957."
+  },
+  {
+    "english": "degree",
+    "pos": "n.",
+    "chinese": "度（温度单位）；学位",
+    "example": "Porcelain is made from a special mix of fine clay and minerals and must be fired at temperatures above 1200 degrees Celsius."
+  },
+  {
+    "english": "hit",
+    "pos": "v.",
+    "chinese": "撞击；达到（某状态）；前往",
+    "example": "Professional cyclists who move at high speeds need to hit a sweet spot."
+  },
+  {
+    "english": "advertising",
+    "pos": "n.",
+    "chinese": "广告；广告业",
+    "example": "This amplifies brand visibility at a fraction of the cost of traditional advertising methods."
+  },
+  {
+    "english": "intent",
+    "pos": "n.",
+    "chinese": "意图；目的",
+    "example": "When we only see pictures, it becomes a static image, raising questions about whether land art—or at least this particular example of land art—can actually ever fulfill its intent."
+  },
+  {
+    "english": "interior",
+    "pos": "adj.",
+    "chinese": "内部的；室内的",
+    "example": "By the 17th century, trompe-l'oeil had become a popular form of interior decoration."
+  },
+  {
+    "english": "wind-powered",
+    "pos": "phr.",
+    "chinese": "以……为动力的；由……驱动的（构成复合形容词）",
+    "example": "Think of Alexander Calder's mobiles delicately balanced to sway with the air, or Theo Jansen's strand beasts — giant wind-powered creatures that walk across beaches like living machines."
+  },
+  {
+    "english": "upward",
+    "pos": "adv.",
+    "chinese": "向上地；朝上方",
+    "example": "Another advance was the updraft kiln, which directed heat upward through the chamber."
+  },
+  {
+    "english": "root",
+    "pos": "n.",
+    "chinese": "根源；起源",
+    "example": "Though its roots stretch to 8."
+  },
+  {
+    "english": "biro",
+    "pos": "prop.n.",
+    "chinese": "比罗（匈牙利发明家，圆珠笔的发明者）",
+    "example": "Then in the 1930 sa Hungarian newspaper editor named laslo biro was getting frustrated."
+  },
+  {
+    "english": "tapestry",
+    "pos": "n.",
+    "chinese": "挂毯；织锦",
+    "example": "Paintings and sculptures, but a lesser-known art form also flourished during this period, tapestry weaving."
+  },
+  {
+    "english": "breeze",
+    "pos": "n.",
+    "chinese": "微风；轻而易举的事",
+    "example": "One moment, a sculpture spins gently in the breeze; the next, a panel shifts as you walk by."
+  },
+  {
+    "english": "daily",
+    "pos": "adj.",
+    "chinese": "每日的；日常的",
+    "example": "Forrest of Bliss is about daily life in a city in India."
+  },
+  {
+    "english": "fully",
+    "pos": "adv.",
+    "chinese": "完全地；充分地",
+    "example": "Ernst was enchantted by the process that allowed him to create shapes that the artist could not fully control."
+  },
+  {
+    "english": "appropriation",
+    "pos": "n.",
+    "chinese": "挪用；借用（尤指文化挪用）",
+    "example": "There's also the issue of cultural appropriation."
+  },
+  {
+    "english": "newsprint",
+    "pos": "n.",
+    "chinese": "新闻纸；印报用的廉价纸张",
+    "example": "Newsprint ink didn't smudge."
+  },
+  {
+    "english": "cascade",
+    "pos": "v.",
+    "chinese": "迅速传播、连锁扩散",
+    "example": "A single post, video or meme can cascade through online communities, crossing geographic and demographic boundary hours."
+  },
+  {
+    "english": "arena",
+    "pos": "n.",
+    "chinese": "活动领域；舞台",
+    "example": "Social media platforms offer new arenas for interaction, and these virtual public spaces are fundamentally altering the traditional public sphere."
+  },
+  {
+    "english": "beneficial",
+    "pos": "adj.",
+    "chinese": "有益的；有利的",
+    "example": "We've been talking about symbiosis, which to remind you is a beneficial interaction between two different species."
+  },
+  {
+    "english": "blur",
+    "pos": "v.",
+    "chinese": "使模糊；使界限不清",
+    "example": "Trompe-l'oeil paintings often look three-dimensional and blur the boundaries between what's real and what isn't."
+  },
+  {
+    "english": "caption",
+    "pos": "n.",
+    "chinese": "（图片、画作的）说明文字",
+    "example": "The Migration Series is 60 panels with captions that chronicle the Great Migration when many African American families made the difficult move from the rural United States South up to northern cities in the early 1900s."
+  },
+  {
+    "english": "ceiling",
+    "pos": "n.",
+    "chinese": "天花板；屋顶内表面",
+    "example": "Artists like Andrea Mantegna used the technique to make ceilings look like open skies, creating the impression that rooms were open to the heavens."
+  },
+  {
+    "english": "coincide",
+    "pos": "v.",
+    "chinese": "同时发生；相符",
+    "example": "They coincided with periods of decline for the Maya society."
+  },
+  {
+    "english": "confine",
+    "pos": "v.",
+    "chinese": "限制；局限于",
+    "example": "This interplay between music and visual art underscores the notion that creativity is not confined within strict boundaries."
+  }
+]

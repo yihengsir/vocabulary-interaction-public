@@ -1,0 +1,302 @@
+[
+  {
+    "english": "unknown",
+    "pos": "adj.",
+    "chinese": "未知的；不为人知的",
+    "example": "The mid 18 hundreds scientists f stumbled on previously unknown life forms."
+  },
+  {
+    "english": "filmmaker",
+    "pos": "n.",
+    "chinese": "电影制作人；导演",
+    "example": "Of course, they're likely to show the filmmakers perspective."
+  },
+  {
+    "english": "mexican",
+    "pos": "adj.",
+    "chinese": "墨西哥的；与墨西哥有关的",
+    "example": "Today, the Mexican visual artist Frida Kahlo is a household name worldwide."
+  },
+  {
+    "english": "gripper",
+    "pos": "n.",
+    "chinese": "夹持器；抓取装置",
+    "example": "Grippers like how humans use our thumb and index finger to pick things up."
+  },
+  {
+    "english": "admiration",
+    "pos": "n.",
+    "chinese": "钦佩；赞赏",
+    "example": "This kind of appeal fits directly into an idea of attraction,it shows how cultural influence can build admiration and shape international relationships without pressure or incentives."
+  },
+  {
+    "english": "aloud",
+    "pos": "adv.",
+    "chinese": "出声地；大声地",
+    "example": "Each person announced aloud which line match the standard, and those who were in on the study deliberately gave the wrong answer first."
+  },
+  {
+    "english": "ambitious",
+    "pos": "adj.",
+    "chinese": "宏大的；有雄心的",
+    "example": "It transformed art because it enabled ambitious subjects like vast historical scenes and mythological narratives."
+  },
+  {
+    "english": "anger",
+    "pos": "n.",
+    "chinese": "愤怒；怒火",
+    "example": "This isolation leads to anger and a desire for revenge, thus highlighting the detrimental effects of being ostracized."
+  },
+  {
+    "english": "anti-",
+    "pos": "affix",
+    "chinese": "反的；抗的（构成复合词，表示反对或防止）",
+    "example": "Possible uses include paints that shine with bright colors without pigments, and anti-reflective coatings for lenses."
+  },
+  {
+    "english": "appreciation",
+    "pos": "n.",
+    "chinese": "感激；赏识；重视",
+    "example": "Sure, free snacks can help office morale, but real happiness stems from meaningful work, autonomy, and a culture of appreciation."
+  },
+  {
+    "english": "approximately",
+    "pos": "adv.",
+    "chinese": "大约；大概",
+    "example": "The Galapagos Islands, a popular tourist attraction located approximately 1,000 km off mainland Ecuador, have long been home to many interesting species of animals, including giant tortoises."
+  },
+  {
+    "english": "architect",
+    "pos": "n.",
+    "chinese": "建筑师",
+    "example": "When the architect McPierce was asked to design the building in the early 1990s, he faced a big challenge."
+  },
+  {
+    "english": "astronomer",
+    "pos": "n.",
+    "chinese": "天文学家",
+    "example": "In 1967, astronomer Carl Sagan and biologist Harold Morowitz published a provocative paper in the journal Nature."
+  },
+  {
+    "english": "behave",
+    "pos": "v.",
+    "chinese": "表现；行为",
+    "example": "However, behavioral economics challenges this notion by demonstrating that people often behave irrationally because of cognitive biases and emotions."
+  },
+  {
+    "english": "boom",
+    "pos": "n.",
+    "chinese": "繁荣；激增；轰鸣声",
+    "example": "This is a cautionary tale for modern day investment booms."
+  },
+  {
+    "english": "calm",
+    "pos": "adj.",
+    "chinese": "平静的；宁静的",
+    "example": "It's often linked to ideas of calm, depth, and aspiration."
+  },
+  {
+    "english": "characterize",
+    "pos": "v.",
+    "chinese": "以…为特征；描述…的特点",
+    "example": "This movement is characterized by its focus on representing emotional experience rather than physical reality."
+  },
+  {
+    "english": "conclusion",
+    "pos": "n.",
+    "chinese": "结论；研究或推理得出的最终判断",
+    "example": "Flawed conclusions in scientific studies can lead to serious consequences."
+  },
+  {
+    "english": "convey",
+    "pos": "v.",
+    "chinese": "传达；表达（情感、想法等）",
+    "example": "expressionist artists aim to convey their inner feelings and perceptions through distorted and exaggerated forms, vivid colors, and bold brush strokes."
+  },
+  {
+    "english": "crisis",
+    "pos": "n.",
+    "chinese": "危机；困难或危险的时期",
+    "example": "How to keep all its shops and offices cool without traditional air conditioning and do it during an economic crisis?"
+  },
+  {
+    "english": "cucumber",
+    "pos": "n.",
+    "chinese": "海参（一种海洋生物）",
+    "example": "Back in the mid 18 hundreds, scientists dredging the ocean stumbled on previously unknown life forms britto stars, sea cucumbers, even deep sea corals.creatures living in pitch darkness, near freezing water and under crushing pressure."
+  },
+  {
+    "english": "defense",
+    "pos": "n.",
+    "chinese": "防御；保护机制",
+    "example": "A diverse microbiome acts as an implicit defense mechanism, strengthening the immune system against potential pathogens that could be harmful."
+  },
+  {
+    "english": "define",
+    "pos": "v.",
+    "chinese": "定义；界定；明确说明",
+    "example": "But many employees had spent decades in rigid hierarchies, with clearly defined roles."
+  },
+  {
+    "english": "demonstration",
+    "pos": "n.",
+    "chinese": "演示；示范；展示",
+    "example": "It's about demonstration."
+  },
+  {
+    "english": "destruction",
+    "pos": "n.",
+    "chinese": "破坏；毁灭",
+    "example": "Less obviously, human activities also pose significant threats to migratory birds: habitat destruction, pollution, and climate change have led to a decline in many migratory bird populations."
+  },
+  {
+    "english": "dial",
+    "pos": "n.",
+    "chinese": "旋钮；调节盘",
+    "example": "It's kind of hard to imagine this was more practical for most people than just getting up and turning the dial on the television yourself."
+  },
+  {
+    "english": "dozen",
+    "pos": "n.",
+    "chinese": "一打；十二个（用于复数 dozens 表示数量众多）",
+    "example": "For example, Paolo Veronese's The Wedding at Cana, which is a massive banquet scene filled with dozens of figures and rich architectural detail."
+  },
+  {
+    "english": "encouraging",
+    "pos": "adj.",
+    "chinese": "令人鼓舞的；给人希望的",
+    "example": "This finding is encouraging, but we can't declare the project a victory, yet."
+  },
+  {
+    "english": "engine",
+    "pos": "n.",
+    "chinese": "发动机；引擎",
+    "example": "While most of the undersea noises picked up by the hydrophones emanated from whales, ship's engines, or earthquakes, the scientists monitoring the hydrophones detected a number of sounds that they could not identify."
+  },
+  {
+    "english": "enrich",
+    "pos": "v.",
+    "chinese": "使肥沃；增加养分；丰富",
+    "example": "The beans enrich the soil with nitrogen and squash plants growing along the ground provide shade that suppresses weeds and retains moisture."
+  },
+  {
+    "english": "exact",
+    "pos": "adj.",
+    "chinese": "精确的；确切的",
+    "example": "The exact reasons remain a mystery."
+  },
+  {
+    "english": "existence",
+    "pos": "n.",
+    "chinese": "存在；实有",
+    "example": "The first step is to recognize the existence of confirmation bias."
+  },
+  {
+    "english": "flat",
+    "pos": "adj.",
+    "chinese": "平的；平坦的",
+    "example": "So a robot gripper is a device with flat plates that come together to pick things up."
+  },
+  {
+    "english": "flow",
+    "pos": "v.",
+    "chinese": "流动；流出",
+    "example": "warm air rises and escapes through the top, while cooler air flows in from below."
+  },
+  {
+    "english": "folk",
+    "pos": "n.",
+    "chinese": "人们；（某群体的）民众；民间的",
+    "example": "And by the mid 1840s, folks who'd invested their fortunes in the venture were ruined financially."
+  },
+  {
+    "english": "fool",
+    "pos": "v.",
+    "chinese": "欺骗；愚弄",
+    "example": "Trompe l'oeil isn't just about fooling the eye anymore."
+  },
+  {
+    "english": "forehead",
+    "pos": "n.",
+    "chinese": "额头；前额",
+    "example": "This allowed them to notice in the middle of the trilobite's forehead—three tiny dark spots."
+  },
+  {
+    "english": "fuel",
+    "pos": "n.",
+    "chinese": "燃料",
+    "example": "The company might use GIS though to analyze the amount of fuel the trucks use on particular routes."
+  },
+  {
+    "english": "genetic",
+    "pos": "adj.",
+    "chinese": "遗传的；基因的",
+    "example": "However, recent genetic research has found that the ancestor paleogne hadn't appeared until many million years after the supercontinent had already broken apart."
+  },
+  {
+    "english": "genetically",
+    "pos": "adv.",
+    "chinese": "在遗传上；从基因方面",
+    "example": "They're all from the same group called paleogas and are genetically related, meaning they're descendants of the same ancestor species that evolved over time into the present-day species."
+  },
+  {
+    "english": "handy",
+    "pos": "adj.",
+    "chinese": "方便的；有用的",
+    "example": "But still, closets in the home were handy places to store other belongings."
+  },
+  {
+    "english": "hasty",
+    "pos": "adj.",
+    "chinese": "仓促的；草率的",
+    "example": "Don't only talk with people who hold the same views as yours, and slow down, don't make hasty decisions."
+  },
+  {
+    "english": "hesitate",
+    "pos": "v.",
+    "chinese": "犹豫；迟疑",
+    "example": "Notably, it can perpetuate social stereotypes and hinder societal change, as individuals might hesitate to voice dissenting opinions, thinking they're in the minority."
+  },
+  {
+    "english": "immediate",
+    "pos": "adj.",
+    "chinese": "立即的；当前的",
+    "example": "Another factor is present bias, where individuals disproportionately value immediate rewards over future benefits, this can make it hard to save for retirement and can lead people to overspend."
+  },
+  {
+    "english": "impression",
+    "pos": "n.",
+    "chinese": "印象；感觉",
+    "example": "Artists like Andrea Mantegna used the technique to make ceilings look like open skies, creating the impression that rooms were open to the heavens."
+  },
+  {
+    "english": "judgment",
+    "pos": "n.",
+    "chinese": "判断；判断力",
+    "example": "In his experiment, Asch invited American university students to take part in a simple visual judgment task."
+  },
+  {
+    "english": "luxury",
+    "pos": "n.",
+    "chinese": "奢侈品；奢华品",
+    "example": "Silk was a prized luxury import and producing it locally promised enormous wealth."
+  },
+  {
+    "english": "majority",
+    "pos": "n.",
+    "chinese": "大多数；多数",
+    "example": "Pluralistic ignorance describes a situation where the majority of members in a group privately reject a norm or standard, but assume incorrectly that most others accept it."
+  },
+  {
+    "english": "mentally",
+    "pos": "adv.",
+    "chinese": "精神上；脑力上",
+    "example": "And less mentally taxing, so our brain seek it out and filter out the rest."
+  },
+  {
+    "english": "minimum",
+    "pos": "adj.",
+    "chinese": "最小的；最低限度的",
+    "example": "One of its core practices is building a minimum viable product or MVP."
+  }
+]

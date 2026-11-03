@@ -1,0 +1,302 @@
+[
+  {
+    "english": "attempt",
+    "pos": "n.",
+    "chinese": "尝试；努力",
+    "example": ""
+  },
+  {
+    "english": "behaviour",
+    "pos": "n.",
+    "chinese": "行为；举止",
+    "example": ""
+  },
+  {
+    "english": "boil",
+    "pos": "v.",
+    "chinese": "沸腾；煮沸",
+    "example": ""
+  },
+  {
+    "english": "branch",
+    "pos": "n.",
+    "chinese": "树枝",
+    "example": ""
+  },
+  {
+    "english": "brilliant",
+    "pos": "adj.",
+    "chinese": "明亮的；闪耀的",
+    "example": ""
+  },
+  {
+    "english": "bug",
+    "pos": "n.",
+    "chinese": "虫子；小昆虫",
+    "example": ""
+  },
+  {
+    "english": "calendar",
+    "pos": "n.",
+    "chinese": "日历；历法",
+    "example": ""
+  },
+  {
+    "english": "cheek",
+    "pos": "n.",
+    "chinese": "脸颊",
+    "example": ""
+  },
+  {
+    "english": "cricket",
+    "pos": "n.",
+    "chinese": "蟋蟀",
+    "example": ""
+  },
+  {
+    "english": "dam",
+    "pos": "n.",
+    "chinese": "水坝；堤坝",
+    "example": ""
+  },
+  {
+    "english": "danger",
+    "pos": "n.",
+    "chinese": "危险；风险",
+    "example": ""
+  },
+  {
+    "english": "daylight",
+    "pos": "n.",
+    "chinese": "日光；白昼",
+    "example": ""
+  },
+  {
+    "english": "drug",
+    "pos": "n.",
+    "chinese": "药物；药品",
+    "example": ""
+  },
+  {
+    "english": "endangered",
+    "pos": "adj.",
+    "chinese": "濒危的",
+    "example": ""
+  },
+  {
+    "english": "euro",
+    "pos": "n.",
+    "chinese": "欧元",
+    "example": ""
+  },
+  {
+    "english": "fog",
+    "pos": "n.",
+    "chinese": "雾",
+    "example": ""
+  },
+  {
+    "english": "fortune",
+    "pos": "n.",
+    "chinese": "财富；大笔钱财",
+    "example": ""
+  },
+  {
+    "english": "happily",
+    "pos": "adv.",
+    "chinese": "乐意地；欣然地",
+    "example": ""
+  },
+  {
+    "english": "illegal",
+    "pos": "adj.",
+    "chinese": "非法的；违法的",
+    "example": ""
+  },
+  {
+    "english": "kilometre",
+    "pos": "n.",
+    "chinese": "千米；公里",
+    "example": ""
+  },
+  {
+    "english": "kingdom",
+    "pos": "n.",
+    "chinese": "界（生物分类的最高层级）",
+    "example": ""
+  },
+  {
+    "english": "leisure",
+    "pos": "n.",
+    "chinese": "闲暇；休闲",
+    "example": ""
+  },
+  {
+    "english": "lifestyle",
+    "pos": "n.",
+    "chinese": "生活方式",
+    "example": ""
+  },
+  {
+    "english": "logical",
+    "pos": "adj.",
+    "chinese": "合乎逻辑的；合理的",
+    "example": ""
+  },
+  {
+    "english": "loose",
+    "pos": "adj.",
+    "chinese": "松散的；不束紧的",
+    "example": ""
+  },
+  {
+    "english": "lost",
+    "pos": "adj.",
+    "chinese": "迷路的；迷失方向的",
+    "example": ""
+  },
+  {
+    "english": "metre",
+    "pos": "n.",
+    "chinese": "米（长度单位）",
+    "example": ""
+  },
+  {
+    "english": "mystery",
+    "pos": "n.",
+    "chinese": "谜；未解之谜",
+    "example": ""
+  },
+  {
+    "english": "nation",
+    "pos": "n.",
+    "chinese": "国家；民族",
+    "example": ""
+  },
+  {
+    "english": "physically",
+    "pos": "adv.",
+    "chinese": "身体上；肉体上",
+    "example": ""
+  },
+  {
+    "english": "plural",
+    "pos": "n.",
+    "chinese": "复数形式",
+    "example": ""
+  },
+  {
+    "english": "pursue",
+    "pos": "v.",
+    "chinese": "从事；追求",
+    "example": ""
+  },
+  {
+    "english": "sandy",
+    "pos": "adj.",
+    "chinese": "沙质的；多沙的",
+    "example": ""
+  },
+  {
+    "english": "scream",
+    "pos": "n.",
+    "chinese": "尖叫；呐喊",
+    "example": ""
+  },
+  {
+    "english": "seafood",
+    "pos": "n.",
+    "chinese": "海鲜；海产食品",
+    "example": ""
+  },
+  {
+    "english": "secret",
+    "pos": "n.",
+    "chinese": "秘密；奥秘",
+    "example": ""
+  },
+  {
+    "english": "shock",
+    "pos": "n.",
+    "chinese": "电击；电流冲击",
+    "example": ""
+  },
+  {
+    "english": "talent",
+    "pos": "n.",
+    "chinese": "天赋；才能",
+    "example": ""
+  },
+  {
+    "english": "therefore",
+    "pos": "adv.",
+    "chinese": "因此；所以",
+    "example": ""
+  },
+  {
+    "english": "toe",
+    "pos": "n.",
+    "chinese": "脚趾",
+    "example": ""
+  },
+  {
+    "english": "traveler",
+    "pos": "n.",
+    "chinese": "旅行者；旅客",
+    "example": ""
+  },
+  {
+    "english": "truth",
+    "pos": "n.",
+    "chinese": "真相；真实情况",
+    "example": ""
+  },
+  {
+    "english": "village",
+    "pos": "n.",
+    "chinese": "村庄；村落",
+    "example": ""
+  },
+  {
+    "english": "weigh",
+    "pos": "v.",
+    "chinese": "权衡；斟酌",
+    "example": ""
+  },
+  {
+    "english": "pink",
+    "pos": "adj.",
+    "chinese": "粉红色的",
+    "example": ""
+  },
+  {
+    "english": "tiger",
+    "pos": "n.",
+    "chinese": "老虎",
+    "example": ""
+  },
+  {
+    "english": "bat",
+    "pos": "n.",
+    "chinese": "蝙蝠",
+    "example": ""
+  },
+  {
+    "english": "bell",
+    "pos": "n.",
+    "chinese": "喇叭口；钟形开口（乐器上向外扩张、用于扩音的部分）",
+    "example": ""
+  },
+  {
+    "english": "cap",
+    "pos": "n.",
+    "chinese": "（冰）盖；极地冰层",
+    "example": ""
+  },
+  {
+    "english": "careful",
+    "pos": "adj.",
+    "chinese": "仔细的；细心的",
+    "example": ""
+  }
+]

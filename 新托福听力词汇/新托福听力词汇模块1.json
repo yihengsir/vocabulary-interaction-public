@@ -1,0 +1,302 @@
+[
+  {
+    "english": "project",
+    "pos": "n.",
+    "chinese": "项目；课题；工程",
+    "example": "The government decided to halt the project."
+  },
+  {
+    "english": "available",
+    "pos": "adj.",
+    "chinese": "可获得的；可用的",
+    "example": "Imagine a time when the only lights available were flickering candles or oil lamps."
+  },
+  {
+    "english": "need",
+    "pos": "n.",
+    "chinese": "需要；需求",
+    "example": "These journeys are driven by the need to find suitable habitats with adequate food supplies and favorable climate conditions."
+  },
+  {
+    "english": "biology",
+    "pos": "n.",
+    "chinese": "生物学",
+    "example": "The phenomenon of animal migration is a fascinating subject in biology."
+  },
+  {
+    "english": "complete",
+    "pos": "v.",
+    "chinese": "完成；做完",
+    "example": "He was only in his mid 20s when he completed the 60 panels, quite an accomplishment for such a young artist."
+  },
+  {
+    "english": "present",
+    "pos": "v.",
+    "chinese": "展示、呈现；提交；作报告",
+    "example": "Then a teacher might present evidence that economic factors like taxation and trade restrictions also played a role."
+  },
+  {
+    "english": "lecture",
+    "pos": "n.",
+    "chinese": "讲座；授课（尤指大学里的专题讲授）",
+    "example": "Listen to part of a lecture in a biology class."
+  },
+  {
+    "english": "policy",
+    "pos": "n.",
+    "chinese": "政策；方针；规定",
+    "example": "Despite these obstacles, cities are adopting policies to support urban gardening and improve residents' quality of life."
+  },
+  {
+    "english": "attend",
+    "pos": "v.",
+    "chinese": "参加；出席（活动、课程等）",
+    "example": "He never even got to attend high school."
+  },
+  {
+    "english": "main",
+    "pos": "adj.",
+    "chinese": "主要的；最重要的",
+    "example": "Um, the elk populations surged dramatically with their main predator gone."
+  },
+  {
+    "english": "hope",
+    "pos": "v.",
+    "chinese": "希望；期望（想要某事发生或成真）",
+    "example": "As the Great Red Spot shrinks, we study changes in wind patterns and atmospheric conditions, hoping for insights into the underlying processes."
+  },
+  {
+    "english": "workshop",
+    "pos": "n.",
+    "chinese": "研讨会；工作坊（实践性学习活动）",
+    "example": "People from the neighborhood come to workshops to learn how to plant and cultivate spinach, strawberries, tomatoes, whatever produce they want."
+  },
+  {
+    "english": "volunteer",
+    "pos": "n.",
+    "chinese": "志愿者；自愿参加者",
+    "example": "and then I'll ask for volunteers to share."
+  },
+  {
+    "english": "plan",
+    "pos": "v.",
+    "chinese": "计划；打算",
+    "example": "But in the initial stage, Miró didn't plan what he was going to paint."
+  },
+  {
+    "english": "base",
+    "pos": "v.",
+    "chinese": "以……为基础；基于（be based on）",
+    "example": "On the other hand, GIS is software based and is used for making decisions."
+  },
+  {
+    "english": "feedback",
+    "pos": "n.",
+    "chinese": "反馈；意见",
+    "example": "To address these challenges, some startups adopt a strategy that emphasizes speed, experimentation, and customer feedback."
+  },
+  {
+    "english": "annual",
+    "pos": "adj.",
+    "chinese": "每年的；一年一度的",
+    "example": "The road would bypass the annual migration corridor of wildebeest and other animals, potentially putting enormous pressure on their populations and disrupting the ecosystem in general."
+  },
+  {
+    "english": "able",
+    "pos": "adj.",
+    "chinese": "能够的、有能力的（be able to 表示有能力做某事）",
+    "example": "Without microbes, soil becomes compacted, dry and less able to support life."
+  },
+  {
+    "english": "application",
+    "pos": "n.",
+    "chinese": "申请；申请书",
+    "example": "It didn't react with other substances, making it ideal for industrial applications."
+  },
+  {
+    "english": "reminder",
+    "pos": "n.",
+    "chinese": "提醒；提示；使人想起某事的事物",
+    "example": "This discovery not only sheds light on the past but also serves as a reminder of our vulnerability to climate change today."
+  },
+  {
+    "english": "definitely",
+    "pos": "adv.",
+    "chinese": "肯定地；确实；当然",
+    "example": "Prehistoric people in Scotland used to preserve animal fat, like butter, in peat bogs—so they definitely had the concept."
+  },
+  {
+    "english": "variety",
+    "pos": "n.",
+    "chinese": "多种多样的事物；各类不同事物的集合",
+    "example": "Birds use a variety of navigational cues, such as the position of the sun, stars, and incredibly, Earth's magnetic field."
+  },
+  {
+    "english": "service",
+    "pos": "n.",
+    "chinese": "服务；为顾客或公众提供的帮助或设施",
+    "example": "This involves constantly seeking ways to enhance processes, products and services."
+  },
+  {
+    "english": "conference",
+    "pos": "n.",
+    "chinese": "会议；研讨会",
+    "example": "Good morning everyone, next Wednesday I'll be attending a conference all day so our class Wednesday will be cancelled."
+  },
+  {
+    "english": "initiative",
+    "pos": "n.",
+    "chinese": "倡议；主动行动；计划",
+    "example": "Also, measuring the social impact of an initiative is not an easy undertaking."
+  },
+  {
+    "english": "chemistry",
+    "pos": "n.",
+    "chinese": "化学；化学学科",
+    "example": "Now, Lazlo Biro was lucky enough to have a brother who had studied chemistry."
+  },
+  {
+    "english": "of course",
+    "pos": "adv.",
+    "chinese": "（用于固定短语 of course）当然",
+    "example": "Of course, a migration over hundreds or even thousands of miles will be fraught with risk."
+  },
+  {
+    "english": "flexible",
+    "pos": "adj.",
+    "chinese": "灵活的；可弯曲的；可变通的",
+    "example": "That’s because of their small size, which allows LEDs to be integrated into flexible strips, smart devices and even clothing."
+  },
+  {
+    "english": "equipment",
+    "pos": "n.",
+    "chinese": "设备；器材",
+    "example": "For instance, a company may choose to invest in new equipment rather than spend money to expand its product line."
+  },
+  {
+    "english": "seminar",
+    "pos": "n.",
+    "chinese": "研讨会；专题讨论会",
+    "example": "Please come to Monday's seminar where doctor James Lee will share techniques to balance coursework with extracurricular activities and personal commitments."
+  },
+  {
+    "english": "supply",
+    "pos": "n.",
+    "chinese": "补给品；供应品；物资",
+    "example": "These journeys are driven by the need to find suitable habitats with adequate food supplies and favorable climate conditions."
+  },
+  {
+    "english": "professor",
+    "pos": "n.",
+    "chinese": "教授（大学教师）",
+    "example": "Except that the menu will be designed by your professors?"
+  },
+  {
+    "english": "career",
+    "pos": "n.",
+    "chinese": "职业；职业生涯",
+    "example": "Anyway, after practicing to learn drafting, Latimer worked with several famous inventors over the span of his career."
+  },
+  {
+    "english": "lab",
+    "pos": "n.",
+    "chinese": "实验室；实验场所",
+    "example": "Starting next week, there will be some changes to our computer lab equipment usage policy."
+  },
+  {
+    "english": "theme",
+    "pos": "n.",
+    "chinese": "主题；主旨；题材",
+    "example": "A common theme in literature is isolation, and that's what we'll explore today."
+  },
+  {
+    "english": "submit",
+    "pos": "v.",
+    "chinese": "提交；呈交（文件、作业等）",
+    "example": "Then, every week, you'll be required to submit short essays that respond to questions I give you on this topic."
+  },
+  {
+    "english": "session",
+    "pos": "n.",
+    "chinese": "一次安排好的活动或课程时段",
+    "example": "An information session will be held next Tuesday at 7:00 p.m. in the campus center."
+  },
+  {
+    "english": "grab",
+    "pos": "v.",
+    "chinese": "抓住；拿取；吸引住",
+    "example": "Well, the hairy gripper was at least twenty-nine percent better at grabbing and holding on to items."
+  },
+  {
+    "english": "client",
+    "pos": "n.",
+    "chinese": "客户；委托人（购买服务或接受专业服务的人或机构）",
+    "example": "But what I find remarkable is that the study found that it also extends to the customers or clients."
+  },
+  {
+    "english": "presentation",
+    "pos": "n.",
+    "chinese": "演示；报告；展示（口头或视觉呈现）",
+    "example": "And your group presentations are due the following Friday."
+  },
+  {
+    "english": "department",
+    "pos": "n.",
+    "chinese": "部门；系（大学或机构中的分支单位）",
+    "example": "Groups made up of people from different departments, like engineering, marketing and operations, who would collaborate on shared goals."
+  },
+  {
+    "english": "place",
+    "pos": "v.",
+    "chinese": "放置；安放",
+    "example": "So he made the sounds with just the piano by placing objects between the strings."
+  },
+  {
+    "english": "schedule",
+    "pos": "v.",
+    "chinese": "安排；预定",
+    "example": "One of these changes pertains to scheduling events at the last minute."
+  },
+  {
+    "english": "parking",
+    "pos": "n.",
+    "chinese": "停车；停车位；停车许可",
+    "example": "My wife uses one to open the gate to her parking lot at work."
+  },
+  {
+    "english": "center",
+    "pos": "n.",
+    "chinese": "中心；中央；中心场所",
+    "example": "Venice then turned into a center of classical Greek studies and culture."
+  },
+  {
+    "english": "assignment",
+    "pos": "n.",
+    "chinese": "作业；任务；布置的工作",
+    "example": "For more details on the assignment, please check the syllabus."
+  },
+  {
+    "english": "instructor",
+    "pos": "n.",
+    "chinese": "教师；指导者；教练",
+    "example": "The instructor is showing you how to guide beginners in making a smoothie."
+  },
+  {
+    "english": "campus",
+    "pos": "n.",
+    "chinese": "校园；大学校区",
+    "example": "You are being trained to teach recycling procedures to students on campus."
+  },
+  {
+    "english": "suppose",
+    "pos": "v.",
+    "chinese": "应该；被期望；据说",
+    "example": "Taking green tea extract is supposed to improve memory, attention and focus."
+  },
+  {
+    "english": "lot",
+    "pos": "n.",
+    "chinese": "大量；许多（与of连用表示数量多）",
+    "example": "GIS is a computer system that can collect and store lots of data about specific locations."
+  }
+]

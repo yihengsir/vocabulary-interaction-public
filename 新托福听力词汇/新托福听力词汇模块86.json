@@ -1,0 +1,302 @@
+[
+  {
+    "english": "castle",
+    "pos": "n.",
+    "chinese": "城堡",
+    "example": ""
+  },
+  {
+    "english": "chest",
+    "pos": "n.",
+    "chinese": "胸部；胸膛",
+    "example": ""
+  },
+  {
+    "english": "cry",
+    "pos": "v.",
+    "chinese": "喊叫；哭喊",
+    "example": ""
+  },
+  {
+    "english": "dangerous",
+    "pos": "adj.",
+    "chinese": "危险的",
+    "example": ""
+  },
+  {
+    "english": "dead",
+    "pos": "adj.",
+    "chinese": "死的；无生命的",
+    "example": ""
+  },
+  {
+    "english": "destroy",
+    "pos": "v.",
+    "chinese": "破坏；摧毁",
+    "example": ""
+  },
+  {
+    "english": "difficulty",
+    "pos": "n.",
+    "chinese": "困难；难以做到某事",
+    "example": ""
+  },
+  {
+    "english": "dream",
+    "pos": "v.",
+    "chinese": "梦想；想象（某事物）",
+    "example": ""
+  },
+  {
+    "english": "impress",
+    "pos": "v.",
+    "chinese": "使钦佩；给…留下深刻印象",
+    "example": ""
+  },
+  {
+    "english": "inside",
+    "pos": "adv.",
+    "chinese": "在里面；在内部",
+    "example": ""
+  },
+  {
+    "english": "lamp",
+    "pos": "n.",
+    "chinese": "灯；油灯",
+    "example": ""
+  },
+  {
+    "english": "native",
+    "pos": "adj.",
+    "chinese": "本地的；原产的",
+    "example": ""
+  },
+  {
+    "english": "opposite",
+    "pos": "adj.",
+    "chinese": "相反的；对立的",
+    "example": ""
+  },
+  {
+    "english": "passage",
+    "pos": "n.",
+    "chinese": "通道；通路",
+    "example": ""
+  },
+  {
+    "english": "path",
+    "pos": "n.",
+    "chinese": "道路；途径",
+    "example": ""
+  },
+  {
+    "english": "pile",
+    "pos": "n.",
+    "chinese": "堆",
+    "example": ""
+  },
+  {
+    "english": "satisfy",
+    "pos": "v.",
+    "chinese": "使满意；满足",
+    "example": ""
+  },
+  {
+    "english": "screw",
+    "pos": "n.",
+    "chinese": "螺丝钉",
+    "example": ""
+  },
+  {
+    "english": "skating",
+    "pos": "n.",
+    "chinese": "滑冰",
+    "example": ""
+  },
+  {
+    "english": "square",
+    "pos": "n.",
+    "chinese": "广场",
+    "example": ""
+  },
+  {
+    "english": "target",
+    "pos": "n.",
+    "chinese": "目标（群体）",
+    "example": ""
+  },
+  {
+    "english": "unusual",
+    "pos": "adj.",
+    "chinese": "不寻常的；罕见的",
+    "example": ""
+  },
+  {
+    "english": "brown",
+    "pos": "n.",
+    "chinese": "棕色；褐色",
+    "example": ""
+  },
+  {
+    "english": "trilobite",
+    "pos": "n.",
+    "chinese": "三叶虫（一种古生代海洋节肢动物）",
+    "example": ""
+  },
+  {
+    "english": "pop",
+    "pos": "n.",
+    "chinese": "流行音乐（pop music 的简称）",
+    "example": ""
+  },
+  {
+    "english": "otter",
+    "pos": "n.",
+    "chinese": "水獭（一种海洋哺乳动物）",
+    "example": ""
+  },
+  {
+    "english": "church",
+    "pos": "n.",
+    "chinese": "教堂；教会",
+    "example": ""
+  },
+  {
+    "english": "incubator",
+    "pos": "n.",
+    "chinese": "创业孵化器；企业孵化机构",
+    "example": ""
+  },
+  {
+    "english": "microbiome",
+    "pos": "n.",
+    "chinese": "微生物组；微生物群落",
+    "example": ""
+  },
+  {
+    "english": "sociogram",
+    "pos": "n.",
+    "chinese": "社会关系图；社交网络图",
+    "example": ""
+  },
+  {
+    "english": "stargazer",
+    "pos": "n.",
+    "chinese": "瞻星鱼（一种眼睛朝上、善于潜伏沙底的鱼）",
+    "example": ""
+  },
+  {
+    "english": "cartoon",
+    "pos": "n.",
+    "chinese": "卡通；动画片",
+    "example": ""
+  },
+  {
+    "english": "correct",
+    "pos": "adj.",
+    "chinese": "正确的；准确的",
+    "example": ""
+  },
+  {
+    "english": "kid",
+    "pos": "n.",
+    "chinese": "小孩；儿童",
+    "example": ""
+  },
+  {
+    "english": "strange",
+    "pos": "adj.",
+    "chinese": "奇怪的；不寻常的",
+    "example": ""
+  },
+  {
+    "english": "strict",
+    "pos": "adj.",
+    "chinese": "严格的；严厉的",
+    "example": ""
+  },
+  {
+    "english": "swim",
+    "pos": "v.",
+    "chinese": "游泳",
+    "example": ""
+  },
+  {
+    "english": "twenty",
+    "pos": "num.",
+    "chinese": "二十",
+    "example": ""
+  },
+  {
+    "english": "leg",
+    "pos": "n.",
+    "chinese": "腿；动物的肢",
+    "example": ""
+  },
+  {
+    "english": "captain",
+    "pos": "n.",
+    "chinese": "船长；队长",
+    "example": ""
+  },
+  {
+    "english": "colorful",
+    "pos": "adj.",
+    "chinese": "色彩鲜艳的；多彩的",
+    "example": ""
+  },
+  {
+    "english": "dancer",
+    "pos": "n.",
+    "chinese": "舞者；舞蹈演员",
+    "example": ""
+  },
+  {
+    "english": "fortunately",
+    "pos": "adv.",
+    "chinese": "幸运的是；幸好",
+    "example": ""
+  },
+  {
+    "english": "hate",
+    "pos": "v.",
+    "chinese": "讨厌；憎恨",
+    "example": ""
+  },
+  {
+    "english": "joy",
+    "pos": "n.",
+    "chinese": "喜悦；快乐",
+    "example": ""
+  },
+  {
+    "english": "middle",
+    "pos": "n.",
+    "chinese": "中间；中部",
+    "example": ""
+  },
+  {
+    "english": "permission",
+    "pos": "n.",
+    "chinese": "许可；允许",
+    "example": ""
+  },
+  {
+    "english": "silver",
+    "pos": "adj.",
+    "chinese": "银色的；含银的",
+    "example": ""
+  },
+  {
+    "english": "text",
+    "pos": "n.",
+    "chinese": "文本；短信",
+    "example": ""
+  },
+  {
+    "english": "treasure",
+    "pos": "n.",
+    "chinese": "宝物；珍宝",
+    "example": ""
+  }
+]

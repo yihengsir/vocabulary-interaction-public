@@ -1,0 +1,302 @@
+[
+  {
+    "english": "holy",
+    "pos": "adj.",
+    "chinese": "神圣的",
+    "example": ""
+  },
+  {
+    "english": "income",
+    "pos": "n.",
+    "chinese": "收入；所得",
+    "example": ""
+  },
+  {
+    "english": "infection",
+    "pos": "n.",
+    "chinese": "感染",
+    "example": ""
+  },
+  {
+    "english": "inhabitant",
+    "pos": "n.",
+    "chinese": "居民；居住者",
+    "example": ""
+  },
+  {
+    "english": "inhale",
+    "pos": "v.",
+    "chinese": "吸入（空气等）",
+    "example": ""
+  },
+  {
+    "english": "inject",
+    "pos": "v.",
+    "chinese": "注入；注射",
+    "example": ""
+  },
+  {
+    "english": "legal",
+    "pos": "adj.",
+    "chinese": "法律的；合法的",
+    "example": ""
+  },
+  {
+    "english": "limitation",
+    "pos": "n.",
+    "chinese": "局限；限制",
+    "example": ""
+  },
+  {
+    "english": "memorize",
+    "pos": "v.",
+    "chinese": "记住；背诵",
+    "example": ""
+  },
+  {
+    "english": "moderate",
+    "pos": "adj.",
+    "chinese": "适中的；温和的",
+    "example": ""
+  },
+  {
+    "english": "molecule",
+    "pos": "n.",
+    "chinese": "分子",
+    "example": ""
+  },
+  {
+    "english": "narrow",
+    "pos": "adj.",
+    "chinese": "狭隘的；局限的",
+    "example": ""
+  },
+  {
+    "english": "needle",
+    "pos": "n.",
+    "chinese": "针；指针",
+    "example": ""
+  },
+  {
+    "english": "noticeable",
+    "pos": "adj.",
+    "chinese": "明显的；显著的",
+    "example": ""
+  },
+  {
+    "english": "obtain",
+    "pos": "v.",
+    "chinese": "获得；取得",
+    "example": ""
+  },
+  {
+    "english": "obviously",
+    "pos": "adv.",
+    "chinese": "明显地；显然",
+    "example": ""
+  },
+  {
+    "english": "occasionally",
+    "pos": "adv.",
+    "chinese": "偶尔；间或",
+    "example": ""
+  },
+  {
+    "english": "overwhelm",
+    "pos": "v.",
+    "chinese": "压倒；淹没；使无法承受",
+    "example": ""
+  },
+  {
+    "english": "pain",
+    "pos": "n.",
+    "chinese": "痛苦；疼痛",
+    "example": ""
+  },
+  {
+    "english": "penny",
+    "pos": "n.",
+    "chinese": "便士（极小的金额）",
+    "example": ""
+  },
+  {
+    "english": "permanently",
+    "pos": "adv.",
+    "chinese": "永久地；永远地",
+    "example": ""
+  },
+  {
+    "english": "politician",
+    "pos": "n.",
+    "chinese": "政治家；政客",
+    "example": ""
+  },
+  {
+    "english": "port",
+    "pos": "n.",
+    "chinese": "港口；海港",
+    "example": ""
+  },
+  {
+    "english": "railroad",
+    "pos": "n.",
+    "chinese": "铁路；铁道",
+    "example": ""
+  },
+  {
+    "english": "rebuild",
+    "pos": "v.",
+    "chinese": "重建；重新构建",
+    "example": ""
+  },
+  {
+    "english": "seaweed",
+    "pos": "n.",
+    "chinese": "海藻；海草",
+    "example": ""
+  },
+  {
+    "english": "settlement",
+    "pos": "n.",
+    "chinese": "定居点；聚居地",
+    "example": ""
+  },
+  {
+    "english": "similarity",
+    "pos": "n.",
+    "chinese": "相似之处；相似性",
+    "example": ""
+  },
+  {
+    "english": "simplify",
+    "pos": "v.",
+    "chinese": "使简化；使简明",
+    "example": ""
+  },
+  {
+    "english": "simultaneously",
+    "pos": "adv.",
+    "chinese": "同时地",
+    "example": ""
+  },
+  {
+    "english": "smell",
+    "pos": "v.",
+    "chinese": "有…气味；闻起来",
+    "example": ""
+  },
+  {
+    "english": "socially",
+    "pos": "adv.",
+    "chinese": "在社交方面；社交上",
+    "example": ""
+  },
+  {
+    "english": "spider",
+    "pos": "n.",
+    "chinese": "蜘蛛",
+    "example": ""
+  },
+  {
+    "english": "summarize",
+    "pos": "v.",
+    "chinese": "总结；概括",
+    "example": ""
+  },
+  {
+    "english": "superior",
+    "pos": "adj.",
+    "chinese": "更好的；更优秀的",
+    "example": ""
+  },
+  {
+    "english": "surprisingly",
+    "pos": "adv.",
+    "chinese": "令人惊讶地",
+    "example": ""
+  },
+  {
+    "english": "systematic",
+    "pos": "adj.",
+    "chinese": "系统的；有条理的",
+    "example": ""
+  },
+  {
+    "english": "tablet",
+    "pos": "n.",
+    "chinese": "平板电脑（用于绘画/创作的触屏设备）",
+    "example": ""
+  },
+  {
+    "english": "teamwork",
+    "pos": "n.",
+    "chinese": "团队合作；协作",
+    "example": ""
+  },
+  {
+    "english": "tendency",
+    "pos": "n.",
+    "chinese": "倾向；趋势",
+    "example": ""
+  },
+  {
+    "english": "threatening",
+    "pos": "adj.",
+    "chinese": "有威胁的；危险的",
+    "example": ""
+  },
+  {
+    "english": "thump",
+    "pos": "v.",
+    "chinese": "重击；捶打",
+    "example": ""
+  },
+  {
+    "english": "tighten",
+    "pos": "v.",
+    "chinese": "收紧；拉紧",
+    "example": ""
+  },
+  {
+    "english": "tongue",
+    "pos": "n.",
+    "chinese": "舌头",
+    "example": ""
+  },
+  {
+    "english": "transformation",
+    "pos": "n.",
+    "chinese": "转变；变革",
+    "example": ""
+  },
+  {
+    "english": "treatment",
+    "pos": "n.",
+    "chinese": "治疗；疗法",
+    "example": ""
+  },
+  {
+    "english": "triumph",
+    "pos": "n.",
+    "chinese": "胜利；成就",
+    "example": ""
+  },
+  {
+    "english": "turning",
+    "pos": "n.",
+    "chinese": "转折点；转变的时刻",
+    "example": ""
+  },
+  {
+    "english": "unfold",
+    "pos": "v.",
+    "chinese": "展开；逐渐呈现",
+    "example": ""
+  },
+  {
+    "english": "unheard",
+    "pos": "adj.",
+    "chinese": "前所未闻的；极罕见的",
+    "example": ""
+  }
+]
