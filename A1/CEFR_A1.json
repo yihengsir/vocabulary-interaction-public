@@ -1,0 +1,4482 @@
+[
+  {
+    "english": "a, an",
+    "chinese": "一个",
+    "example": "I have a book and an apple."
+  },
+  {
+    "english": "about",
+    "chinese": "关于，大约",
+    "example": "The movie is about two hours long."
+  },
+  {
+    "english": "above",
+    "chinese": "在...上面",
+    "example": "The picture is above the sofa."
+  },
+  {
+    "english": "across",
+    "chinese": "横过，穿过",
+    "example": "We walked across the bridge."
+  },
+  {
+    "english": "action",
+    "chinese": "行动",
+    "example": "The film is full of action."
+  },
+  {
+    "english": "activity",
+    "chinese": "活动",
+    "example": "Swimming is a fun activity."
+  },
+  {
+    "english": "actor",
+    "chinese": "男演员",
+    "example": "He is a famous actor."
+  },
+  {
+    "english": "actress",
+    "chinese": "女演员",
+    "example": "She is a talented actress."
+  },
+  {
+    "english": "add",
+    "chinese": "添加",
+    "example": "Please add some sugar to my tea."
+  },
+  {
+    "english": "address",
+    "chinese": "地址",
+    "example": "What is your home address?"
+  },
+  {
+    "english": "adult",
+    "chinese": "成年人",
+    "example": "This movie is for adults only."
+  },
+  {
+    "english": "advice",
+    "chinese": "建议",
+    "example": "My father gave me good advice."
+  },
+  {
+    "english": "afraid",
+    "chinese": "害怕的",
+    "example": "I am afraid of spiders."
+  },
+  {
+    "english": "after",
+    "chinese": "在...之后",
+    "example": "We will eat after the movie."
+  },
+  {
+    "english": "afternoon",
+    "chinese": "下午",
+    "example": "I have a meeting this afternoon."
+  },
+  {
+    "english": "again",
+    "chinese": "再次",
+    "example": "Please say that again."
+  },
+  {
+    "english": "age",
+    "chinese": "年龄",
+    "example": "What is your age?"
+  },
+  {
+    "english": "ago",
+    "chinese": "以前",
+    "example": "He left five minutes ago."
+  },
+  {
+    "english": "agree",
+    "chinese": "同意",
+    "example": "I agree with you."
+  },
+  {
+    "english": "air",
+    "chinese": "空气",
+    "example": "The air is fresh in the mountains."
+  },
+  {
+    "english": "airport",
+    "chinese": "机场",
+    "example": "We will meet at the airport."
+  },
+  {
+    "english": "all",
+    "chinese": "所有的",
+    "example": "All students must attend the class."
+  },
+  {
+    "english": "also",
+    "chinese": "也",
+    "example": "I like coffee, and I also like tea."
+  },
+  {
+    "english": "always",
+    "chinese": "总是",
+    "example": "She always arrives on time."
+  },
+  {
+    "english": "amazing",
+    "chinese": "令人惊奇的",
+    "example": "The view from the top was amazing."
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "example": "I bought bread and milk."
+  },
+  {
+    "english": "angry",
+    "chinese": "生气的",
+    "example": "He was angry about the mistake."
+  },
+  {
+    "english": "animal",
+    "chinese": "动物",
+    "example": "The dog is a friendly animal."
+  },
+  {
+    "english": "another",
+    "chinese": "另一个",
+    "example": "Would you like another cup of tea?"
+  },
+  {
+    "english": "answer",
+    "chinese": "回答",
+    "example": "Please answer the question."
+  },
+  {
+    "english": "any",
+    "chinese": "任何的",
+    "example": "Do you have any questions?"
+  },
+  {
+    "english": "anyone",
+    "chinese": "任何人",
+    "example": "Did anyone call me?"
+  },
+  {
+    "english": "anything",
+    "chinese": "任何事",
+    "example": "You can ask me anything."
+  },
+  {
+    "english": "apartment",
+    "chinese": "公寓",
+    "example": "She lives in a small apartment."
+  },
+  {
+    "english": "apple",
+    "chinese": "苹果",
+    "example": "I eat an apple every day."
+  },
+  {
+    "english": "April",
+    "chinese": "四月",
+    "example": "My birthday is in April."
+  },
+  {
+    "english": "area",
+    "chinese": "区域",
+    "example": "This is a quiet area of the city."
+  },
+  {
+    "english": "arm",
+    "chinese": "手臂",
+    "example": "He broke his arm in the accident."
+  },
+  {
+    "english": "around",
+    "chinese": "围绕，大约",
+    "example": "We walked around the park."
+  },
+  {
+    "english": "arrive",
+    "chinese": "到达",
+    "example": "The train will arrive at 10 PM."
+  },
+  {
+    "english": "art",
+    "chinese": "艺术",
+    "example": "She studies art at university."
+  },
+  {
+    "english": "article",
+    "chinese": "文章",
+    "example": "I read an interesting article today."
+  },
+  {
+    "english": "artist",
+    "chinese": "艺术家",
+    "example": "Van Gogh was a famous artist."
+  },
+  {
+    "english": "as",
+    "chinese": "作为，如同",
+    "example": "She works as a teacher."
+  },
+  {
+    "english": "ask",
+    "chinese": "问",
+    "example": "Don't be afraid to ask for help."
+  },
+  {
+    "english": "at",
+    "chinese": "在",
+    "example": "Meet me at the cafe."
+  },
+  {
+    "english": "August",
+    "chinese": "八月",
+    "example": "It is very hot in August."
+  },
+  {
+    "english": "aunt",
+    "chinese": "姑妈，姨妈",
+    "example": "My aunt is visiting us next week."
+  },
+  {
+    "english": "autumn",
+    "chinese": "秋天",
+    "example": "The leaves change color in autumn."
+  },
+  {
+    "english": "away",
+    "chinese": "离开",
+    "example": "The school is two miles away."
+  },
+  {
+    "english": "baby",
+    "chinese": "婴儿",
+    "example": "The baby is sleeping."
+  },
+  {
+    "english": "back",
+    "chinese": "背部，回来",
+    "example": "I will be back soon."
+  },
+  {
+    "english": "bad",
+    "chinese": "坏的",
+    "example": "The weather was bad yesterday."
+  },
+  {
+    "english": "bag",
+    "chinese": "包",
+    "example": "I put my books in my bag."
+  },
+  {
+    "english": "ball",
+    "chinese": "球",
+    "example": "The children are playing with a ball."
+  },
+  {
+    "english": "banana",
+    "chinese": "香蕉",
+    "example": "Monkeys like to eat bananas."
+  },
+  {
+    "english": "band",
+    "chinese": "乐队",
+    "example": "My brother plays in a band."
+  },
+  {
+    "english": "bank",
+    "chinese": "银行",
+    "example": "I need to go to the bank."
+  },
+  {
+    "english": "bath",
+    "chinese": "洗澡",
+    "example": "I take a bath every evening."
+  },
+  {
+    "english": "bathroom",
+    "chinese": "浴室",
+    "example": "The bathroom is down the hall."
+  },
+  {
+    "english": "be",
+    "chinese": "是",
+    "example": "I want to be a doctor."
+  },
+  {
+    "english": "beach",
+    "chinese": "海滩",
+    "example": "We spent the day at the beach."
+  },
+  {
+    "english": "beautiful",
+    "chinese": "美丽的",
+    "example": "She has a beautiful smile."
+  },
+  {
+    "english": "because",
+    "chinese": "因为",
+    "example": "I stayed home because I was sick."
+  },
+  {
+    "english": "become",
+    "chinese": "成为",
+    "example": "He wants to become a pilot."
+  },
+  {
+    "english": "bed",
+    "chinese": "床",
+    "example": "It's time to go to bed."
+  },
+  {
+    "english": "bedroom",
+    "chinese": "卧室",
+    "example": "My bedroom is painted blue."
+  },
+  {
+    "english": "beer",
+    "chinese": "啤酒",
+    "example": "Would you like a beer?"
+  },
+  {
+    "english": "before",
+    "chinese": "在...之前",
+    "example": "Please finish your homework before dinner."
+  },
+  {
+    "english": "begin",
+    "chinese": "开始",
+    "example": "The concert will begin at 8 o'clock."
+  },
+  {
+    "english": "beginning",
+    "chinese": "开始",
+    "example": "At the beginning of the book, the main character is a child."
+  },
+  {
+    "english": "behind",
+    "chinese": "在...后面",
+    "example": "The cat is hiding behind the sofa."
+  },
+  {
+    "english": "believe",
+    "chinese": "相信",
+    "example": "I believe you are telling the truth."
+  },
+  {
+    "english": "below",
+    "chinese": "在...下面",
+    "example": "The temperature is below zero."
+  },
+  {
+    "english": "best",
+    "chinese": "最好的",
+    "example": "This is the best cake I've ever tasted."
+  },
+  {
+    "english": "better",
+    "chinese": "更好的",
+    "example": "My English is getting better."
+  },
+  {
+    "english": "between",
+    "chinese": "在...之间",
+    "example": "The bank is between the post office and the library."
+  },
+  {
+    "english": "bicycle",
+    "chinese": "自行车",
+    "example": "I ride my bicycle to school."
+  },
+  {
+    "english": "big",
+    "chinese": "大的",
+    "example": "They live in a big house."
+  },
+  {
+    "english": "bike",
+    "chinese": "自行车",
+    "example": "I need to repair my bike."
+  },
+  {
+    "english": "bill",
+    "chinese": "账单",
+    "example": "Can I have the bill, please?"
+  },
+  {
+    "english": "bird",
+    "chinese": "鸟",
+    "example": "A bird is singing outside my window."
+  },
+  {
+    "english": "birthday",
+    "chinese": "生日",
+    "example": "Happy birthday to you!"
+  },
+  {
+    "english": "black",
+    "chinese": "黑色的",
+    "example": "She was wearing a black dress."
+  },
+  {
+    "english": "blog",
+    "chinese": "博客",
+    "example": "I write a blog about cooking."
+  },
+  {
+    "english": "blonde",
+    "chinese": "金发的",
+    "example": "She has blonde hair."
+  },
+  {
+    "english": "blue",
+    "chinese": "蓝色的",
+    "example": "The sky is blue today."
+  },
+  {
+    "english": "boat",
+    "chinese": "船",
+    "example": "We took a boat across the lake."
+  },
+  {
+    "english": "body",
+    "chinese": "身体",
+    "example": "Regular exercise is good for your body."
+  },
+  {
+    "english": "book",
+    "chinese": "书",
+    "example": "I'm reading a good book at the moment."
+  },
+  {
+    "english": "boot",
+    "chinese": "靴子",
+    "example": "I need to buy new winter boots."
+  },
+  {
+    "english": "bored",
+    "chinese": "无聊的",
+    "example": "The children were bored during the long car journey."
+  },
+  {
+    "english": "boring",
+    "chinese": "令人无聊的",
+    "example": "The lecture was very boring."
+  },
+  {
+    "english": "born",
+    "chinese": "出生",
+    "example": "I was born in London."
+  },
+  {
+    "english": "both",
+    "chinese": "两者都",
+    "example": "Both of my parents are doctors."
+  },
+  {
+    "english": "bottle",
+    "chinese": "瓶子",
+    "example": "Can you pass me that bottle of water?"
+  },
+  {
+    "english": "box",
+    "chinese": "盒子",
+    "example": "I put the old photos in a box."
+  },
+  {
+    "english": "boy",
+    "chinese": "男孩",
+    "example": "The little boy is playing with his toys."
+  },
+  {
+    "english": "boyfriend",
+    "chinese": "男朋友",
+    "example": "She went to the cinema with her boyfriend."
+  },
+  {
+    "english": "bread",
+    "chinese": "面包",
+    "example": "I had bread and cheese for lunch."
+  },
+  {
+    "english": "break",
+    "chinese": "打破，休息",
+    "example": "Be careful not to break the glass."
+  },
+  {
+    "english": "breakfast",
+    "chinese": "早餐",
+    "example": "I usually have cereal for breakfast."
+  },
+  {
+    "english": "bring",
+    "chinese": "带来",
+    "example": "Can you bring your guitar to the party?"
+  },
+  {
+    "english": "brother",
+    "chinese": "兄弟",
+    "example": "My brother is older than me."
+  },
+  {
+    "english": "brown",
+    "chinese": "棕色的",
+    "example": "He has brown eyes."
+  },
+  {
+    "english": "build",
+    "chinese": "建造",
+    "example": "They want to build a new school."
+  },
+  {
+    "english": "building",
+    "chinese": "建筑物",
+    "example": "That is a very tall building."
+  },
+  {
+    "english": "bus",
+    "chinese": "公共汽车",
+    "example": "I take the bus to work every day."
+  },
+  {
+    "english": "business",
+    "chinese": "生意",
+    "example": "My father runs his own business."
+  },
+  {
+    "english": "busy",
+    "chinese": "忙碌的",
+    "example": "I'm too busy to talk right now."
+  },
+  {
+    "english": "but",
+    "chinese": "但是",
+    "example": "I want to go, but I can't."
+  },
+  {
+    "english": "butter",
+    "chinese": "黄油",
+    "example": "I spread butter on my toast."
+  },
+  {
+    "english": "buy",
+    "chinese": "买",
+    "example": "I need to buy some milk."
+  },
+  {
+    "english": "by",
+    "chinese": "被，由，靠近",
+    "example": "The book was written by a famous author."
+  },
+  {
+    "english": "bye",
+    "chinese": "再见",
+    "example": "Bye! See you tomorrow!"
+  },
+  {
+    "english": "cafe",
+    "chinese": "咖啡馆",
+    "example": "Let's meet at the cafe on Main Street."
+  },
+  {
+    "english": "cake",
+    "chinese": "蛋糕",
+    "example": "We had chocolate cake for dessert."
+  },
+  {
+    "english": "call",
+    "chinese": "打电话，呼叫",
+    "example": "I'll call you later."
+  },
+  {
+    "english": "camera",
+    "chinese": "照相机",
+    "example": "I forgot my camera at home."
+  },
+  {
+    "english": "can",
+    "chinese": "能，可以",
+    "example": "I can speak English."
+  },
+  {
+    "english": "cannot",
+    "chinese": "不能",
+    "example": "I cannot come to the party."
+  },
+  {
+    "english": "capital",
+    "chinese": "首都",
+    "example": "Paris is the capital of France."
+  },
+  {
+    "english": "car",
+    "chinese": "汽车",
+    "example": "We drove to the beach in my car."
+  },
+  {
+    "english": "card",
+    "chinese": "卡片",
+    "example": "I received a birthday card from my friend."
+  },
+  {
+    "english": "career",
+    "chinese": "职业",
+    "example": "Teaching is a rewarding career."
+  },
+  {
+    "english": "carrot",
+    "chinese": "胡萝卜",
+    "example": "Rabbits like to eat carrots."
+  },
+  {
+    "english": "carry",
+    "chinese": "携带",
+    "example": "Can you help me carry these bags?"
+  },
+  {
+    "english": "cat",
+    "chinese": "猫",
+    "example": "My cat likes to sleep on the sofa."
+  },
+  {
+    "english": "CD",
+    "chinese": "光盘",
+    "example": "I bought a new CD by my favorite band."
+  },
+  {
+    "english": "cent",
+    "chinese": "分",
+    "example": "The candy costs fifty cents."
+  },
+  {
+    "english": "centre",
+    "chinese": "中心",
+    "example": "There is a shopping centre in town."
+  },
+  {
+    "english": "century",
+    "chinese": "世纪",
+    "example": "We live in the 21st century."
+  },
+  {
+    "english": "chair",
+    "chinese": "椅子",
+    "example": "Please sit on that chair."
+  },
+  {
+    "english": "change",
+    "chinese": "改变，零钱",
+    "example": "I need to change my clothes."
+  },
+  {
+    "english": "chart",
+    "chinese": "图表",
+    "example": "The teacher drew a chart on the board."
+  },
+  {
+    "english": "cheap",
+    "chinese": "便宜的",
+    "example": "The food at this restaurant is cheap and good."
+  },
+  {
+    "english": "check",
+    "chinese": "检查",
+    "example": "Please check your answers before handing in the test."
+  },
+  {
+    "english": "cheese",
+    "chinese": "奶酪",
+    "example": "I like cheese on my pizza."
+  },
+  {
+    "english": "chicken",
+    "chinese": "鸡肉，鸡",
+    "example": "We had roast chicken for dinner."
+  },
+  {
+    "english": "child",
+    "chinese": "孩子",
+    "example": "Every child needs love and care."
+  },
+  {
+    "english": "chocolate",
+    "chinese": "巧克力",
+    "example": "I love dark chocolate."
+  },
+  {
+    "english": "choose",
+    "chinese": "选择",
+    "example": "You can choose any book you like."
+  },
+  {
+    "english": "cinema",
+    "chinese": "电影院",
+    "example": "Let's go to the cinema tonight."
+  },
+  {
+    "english": "city",
+    "chinese": "城市",
+    "example": "New York is a big city."
+  },
+  {
+    "english": "class",
+    "chinese": "班级，课",
+    "example": "My English class starts at 9 o'clock."
+  },
+  {
+    "english": "classroom",
+    "chinese": "教室",
+    "example": "Our classroom is on the second floor."
+  },
+  {
+    "english": "clean",
+    "chinese": "干净的，清洁",
+    "example": "Please clean your room."
+  },
+  {
+    "english": "climb",
+    "chinese": "爬",
+    "example": "The cat can climb trees."
+  },
+  {
+    "english": "clock",
+    "chinese": "钟",
+    "example": "The clock on the wall is slow."
+  },
+  {
+    "english": "close",
+    "chinese": "关闭，亲密的",
+    "example": "Please close the door."
+  },
+  {
+    "english": "clothes",
+    "chinese": "衣服",
+    "example": "I need to buy some new clothes."
+  },
+  {
+    "english": "club",
+    "chinese": "俱乐部",
+    "example": "I joined the chess club at school."
+  },
+  {
+    "english": "coat",
+    "chinese": "外套",
+    "example": "It's cold outside; wear your coat."
+  },
+  {
+    "english": "coffee",
+    "chinese": "咖啡",
+    "example": "I drink coffee in the morning."
+  },
+  {
+    "english": "cold",
+    "chinese": "冷的，感冒",
+    "example": "It's cold today; wear a jacket."
+  },
+  {
+    "english": "college",
+    "chinese": "学院",
+    "example": "She studies medicine at college."
+  },
+  {
+    "english": "colour",
+    "chinese": "颜色",
+    "example": "What is your favourite colour?"
+  },
+  {
+    "english": "come",
+    "chinese": "来",
+    "example": "Please come to my party."
+  },
+  {
+    "english": "common",
+    "chinese": "常见的",
+    "example": "It's common to feel nervous before an exam."
+  },
+  {
+    "english": "company",
+    "chinese": "公司",
+    "example": "My father works for a large company."
+  },
+  {
+    "english": "compare",
+    "chinese": "比较",
+    "example": "Let's compare the prices in these two shops."
+  },
+  {
+    "english": "complete",
+    "chinese": "完整的，完成",
+    "example": "Please complete this form."
+  },
+  {
+    "english": "computer",
+    "chinese": "电脑",
+    "example": "I use my computer for work."
+  },
+  {
+    "english": "concert",
+    "chinese": "音乐会",
+    "example": "We went to a rock concert last night."
+  },
+  {
+    "english": "conversation",
+    "chinese": "对话",
+    "example": "I had an interesting conversation with my teacher."
+  },
+  {
+    "english": "cook",
+    "chinese": "烹饪",
+    "example": "My mother cooks dinner every evening."
+  },
+  {
+    "english": "cooking",
+    "chinese": "烹饪",
+    "example": "I enjoy cooking for my friends."
+  },
+  {
+    "english": "cool",
+    "chinese": "凉爽的，酷的",
+    "example": "The water is cool and refreshing."
+  },
+  {
+    "english": "correct",
+    "chinese": "正确的，纠正",
+    "example": "Your answer is correct."
+  },
+  {
+    "english": "cost",
+    "chinese": "花费",
+    "example": "How much does this book cost?"
+  },
+  {
+    "english": "could",
+    "chinese": "可以（can的过去式）",
+    "example": "Could you help me, please?"
+  },
+  {
+    "english": "country",
+    "chinese": "国家，乡村",
+    "example": "France is a beautiful country."
+  },
+  {
+    "english": "course",
+    "chinese": "课程",
+    "example": "I'm taking a Spanish course."
+  },
+  {
+    "english": "cousin",
+    "chinese": "堂兄弟/姐妹，表兄弟/姐妹",
+    "example": "My cousin is coming to visit us."
+  },
+  {
+    "english": "cow",
+    "chinese": "奶牛",
+    "example": "Cows give us milk."
+  },
+  {
+    "english": "cream",
+    "chinese": "奶油",
+    "example": "I like cream in my coffee."
+  },
+  {
+    "english": "create",
+    "chinese": "创造",
+    "example": "Artists create beautiful paintings."
+  },
+  {
+    "english": "culture",
+    "chinese": "文化",
+    "example": "I'm interested in learning about different cultures."
+  },
+  {
+    "english": "cup",
+    "chinese": "杯子",
+    "example": "Would you like a cup of tea?"
+  },
+  {
+    "english": "customer",
+    "chinese": "顾客",
+    "example": "The shop assistant helped the customer."
+  },
+  {
+    "english": "cut",
+    "chinese": "切，割",
+    "example": "Be careful not to cut yourself with that knife."
+  },
+  {
+    "english": "dad",
+    "chinese": "爸爸",
+    "example": "My dad is a great cook."
+  },
+  {
+    "english": "dance",
+    "chinese": "跳舞，舞蹈",
+    "example": "They dance very well."
+  },
+  {
+    "english": "dancer",
+    "chinese": "舞者",
+    "example": "She is a professional dancer."
+  },
+  {
+    "english": "dancing",
+    "chinese": "跳舞",
+    "example": "Dancing is good exercise."
+  },
+  {
+    "english": "dangerous",
+    "chinese": "危险的",
+    "example": "It's dangerous to swim here."
+  },
+  {
+    "english": "dark",
+    "chinese": "黑暗的",
+    "example": "It gets dark early in winter."
+  },
+  {
+    "english": "date",
+    "chinese": "日期，约会",
+    "example": "What's the date today?"
+  },
+  {
+    "english": "daughter",
+    "chinese": "女儿",
+    "example": "Their daughter is five years old."
+  },
+  {
+    "english": "day",
+    "chinese": "天",
+    "example": "There are seven days in a week."
+  },
+  {
+    "english": "dear",
+    "chinese": "亲爱的",
+    "example": "Dear John, ... (letter opening)"
+  },
+  {
+    "english": "December",
+    "chinese": "十二月",
+    "example": "Christmas is in December."
+  },
+  {
+    "english": "decide",
+    "chinese": "决定",
+    "example": "I can't decide what to eat."
+  },
+  {
+    "english": "delicious",
+    "chinese": "美味的",
+    "example": "This cake is delicious!"
+  },
+  {
+    "english": "describe",
+    "chinese": "描述",
+    "example": "Can you describe the man you saw?"
+  },
+  {
+    "english": "description",
+    "chinese": "描述",
+    "example": "She gave a detailed description of the event."
+  },
+  {
+    "english": "design",
+    "chinese": "设计",
+    "example": "She studied graphic design at university."
+  },
+  {
+    "english": "desk",
+    "chinese": "书桌",
+    "example": "My books are on the desk."
+  },
+  {
+    "english": "detail",
+    "chinese": "细节",
+    "example": "Pay attention to the details."
+  },
+  {
+    "english": "dialogue",
+    "chinese": "对话",
+    "example": "The play contains funny dialogues."
+  },
+  {
+    "english": "dictionary",
+    "chinese": "字典",
+    "example": "I use a dictionary to look up new words."
+  },
+  {
+    "english": "die",
+    "chinese": "死",
+    "example": "All living things eventually die."
+  },
+  {
+    "english": "diet",
+    "chinese": "饮食",
+    "example": "A healthy diet includes fruits and vegetables."
+  },
+  {
+    "english": "difference",
+    "chinese": "不同",
+    "example": "What's the difference between these two phones?"
+  },
+  {
+    "english": "different",
+    "chinese": "不同的",
+    "example": "They have different opinions."
+  },
+  {
+    "english": "difficult",
+    "chinese": "困难的",
+    "example": "The exam was very difficult."
+  },
+  {
+    "english": "dinner",
+    "chinese": "晚餐",
+    "example": "We usually have dinner at 7 PM."
+  },
+  {
+    "english": "dirty",
+    "chinese": "脏的",
+    "example": "Your hands are dirty; go wash them."
+  },
+  {
+    "english": "discuss",
+    "chinese": "讨论",
+    "example": "Let's discuss this problem tomorrow."
+  },
+  {
+    "english": "dish",
+    "chinese": "盘子，一道菜",
+    "example": "My favorite dish is pasta."
+  },
+  {
+    "english": "do",
+    "chinese": "做",
+    "example": "What are you doing?"
+  },
+  {
+    "english": "doctor",
+    "chinese": "医生",
+    "example": "You should see a doctor if you feel ill."
+  },
+  {
+    "english": "dog",
+    "chinese": "狗",
+    "example": "Their dog is very friendly."
+  },
+  {
+    "english": "dollar",
+    "chinese": "美元",
+    "example": "This book costs ten dollars."
+  },
+  {
+    "english": "door",
+    "chinese": "门",
+    "example": "Please close the door behind you."
+  },
+  {
+    "english": "down",
+    "chinese": "向下",
+    "example": "Sit down, please."
+  },
+  {
+    "english": "downstairs",
+    "chinese": "楼下",
+    "example": "The kitchen is downstairs."
+  },
+  {
+    "english": "draw",
+    "chinese": "画",
+    "example": "The child can draw very well."
+  },
+  {
+    "english": "dress",
+    "chinese": "连衣裙，穿衣",
+    "example": "She wore a beautiful dress to the party."
+  },
+  {
+    "english": "drink",
+    "chinese": "喝，饮料",
+    "example": "Would you like something to drink?"
+  },
+  {
+    "english": "drive",
+    "chinese": "驾驶",
+    "example": "My brother can drive a car."
+  },
+  {
+    "english": "driver",
+    "chinese": "司机",
+    "example": "The bus driver was very helpful."
+  },
+  {
+    "english": "during",
+    "chinese": "在...期间",
+    "example": "I read a book during the flight."
+  },
+  {
+    "english": "DVD",
+    "chinese": "数字多功能光盘",
+    "example": "We watched a DVD last night."
+  },
+  {
+    "english": "each",
+    "chinese": "每个",
+    "example": "Each student must bring a pencil."
+  },
+  {
+    "english": "ear",
+    "chinese": "耳朵",
+    "example": "The rabbit has long ears."
+  },
+  {
+    "english": "early",
+    "chinese": "早的",
+    "example": "I woke up early this morning."
+  },
+  {
+    "english": "east",
+    "chinese": "东方的",
+    "example": "The sun rises in the east."
+  },
+  {
+    "english": "easy",
+    "chinese": "容易的",
+    "example": "The test was easy."
+  },
+  {
+    "english": "eat",
+    "chinese": "吃",
+    "example": "It's time to eat lunch."
+  },
+  {
+    "english": "egg",
+    "chinese": "鸡蛋",
+    "example": "I had eggs for breakfast."
+  },
+  {
+    "english": "eight",
+    "chinese": "八",
+    "example": "There are eight planets in our solar system."
+  },
+  {
+    "english": "eighteen",
+    "chinese": "十八",
+    "example": "He is eighteen years old."
+  },
+  {
+    "english": "eighty",
+    "chinese": "八十",
+    "example": "My grandmother is eighty years old."
+  },
+  {
+    "english": "elephant",
+    "chinese": "大象",
+    "example": "The elephant is a large animal."
+  },
+  {
+    "english": "eleven",
+    "chinese": "十一",
+    "example": "I have eleven cousins."
+  },
+  {
+    "english": "else",
+    "chinese": "其他的",
+    "example": "Would you like anything else?"
+  },
+  {
+    "english": "email",
+    "chinese": "电子邮件",
+    "example": "I'll send you an email with the details."
+  },
+  {
+    "english": "end",
+    "chinese": "结束，末端",
+    "example": "The film has a happy end."
+  },
+  {
+    "english": "enjoy",
+    "chinese": "享受",
+    "example": "I enjoy listening to music."
+  },
+  {
+    "english": "enough",
+    "chinese": "足够的",
+    "example": "Do we have enough time?"
+  },
+  {
+    "english": "euro",
+    "chinese": "欧元",
+    "example": "The book costs twenty euros."
+  },
+  {
+    "english": "even",
+    "chinese": "甚至",
+    "example": "Even a child can understand this."
+  },
+  {
+    "english": "evening",
+    "chinese": "晚上",
+    "example": "Good evening!"
+  },
+  {
+    "english": "event",
+    "chinese": "事件",
+    "example": "The concert was a big event."
+  },
+  {
+    "english": "ever",
+    "chinese": "曾经",
+    "example": "Have you ever been to Paris?"
+  },
+  {
+    "english": "every",
+    "chinese": "每个",
+    "example": "I go to the gym every day."
+  },
+  {
+    "english": "everybody",
+    "chinese": "每个人",
+    "example": "Everybody likes her."
+  },
+  {
+    "english": "everyone",
+    "chinese": "每个人",
+    "example": "Everyone is welcome."
+  },
+  {
+    "english": "everything",
+    "chinese": "一切",
+    "example": "Everything is ready for the party."
+  },
+  {
+    "english": "exam",
+    "chinese": "考试",
+    "example": "I have an English exam tomorrow."
+  },
+  {
+    "english": "example",
+    "chinese": "例子",
+    "example": "Can you give me an example?"
+  },
+  {
+    "english": "excited",
+    "chinese": "兴奋的",
+    "example": "The children are excited about the trip."
+  },
+  {
+    "english": "exciting",
+    "chinese": "令人兴奋的",
+    "example": "It was an exciting football match."
+  },
+  {
+    "english": "exercise",
+    "chinese": "锻炼，练习",
+    "example": "Regular exercise is important for your health."
+  },
+  {
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "example": "The hotel was too expensive."
+  },
+  {
+    "english": "explain",
+    "chinese": "解释",
+    "example": "Can you explain this rule to me?"
+  },
+  {
+    "english": "extra",
+    "chinese": "额外的",
+    "example": "We need an extra chair."
+  },
+  {
+    "english": "eye",
+    "chinese": "眼睛",
+    "example": "She has blue eyes."
+  },
+  {
+    "english": "face",
+    "chinese": "脸",
+    "example": "He has a friendly face."
+  },
+  {
+    "english": "fact",
+    "chinese": "事实",
+    "example": "It's a fact that the Earth is round."
+  },
+  {
+    "english": "fall",
+    "chinese": "落下，秋天（美式）",
+    "example": "Be careful not to fall."
+  },
+  {
+    "english": "false",
+    "chinese": "错误的",
+    "example": "The statement is false."
+  },
+  {
+    "english": "family",
+    "chinese": "家庭",
+    "example": "I have a large family."
+  },
+  {
+    "english": "famous",
+    "chinese": "著名的",
+    "example": "He is a famous actor."
+  },
+  {
+    "english": "fantastic",
+    "chinese": "极好的",
+    "example": "We had a fantastic holiday."
+  },
+  {
+    "english": "far",
+    "chinese": "远的",
+    "example": "How far is the station from here?"
+  },
+  {
+    "english": "farm",
+    "chinese": "农场",
+    "example": "My uncle has a farm."
+  },
+  {
+    "english": "farmer",
+    "chinese": "农民",
+    "example": "The farmer grows vegetables."
+  },
+  {
+    "english": "fast",
+    "chinese": "快的",
+    "example": "He can run very fast."
+  },
+  {
+    "english": "fat",
+    "chinese": "胖的，脂肪",
+    "example": "This meat has too much fat."
+  },
+  {
+    "english": "father",
+    "chinese": "父亲",
+    "example": "My father is a teacher."
+  },
+  {
+    "english": "favourite",
+    "chinese": "最喜欢的",
+    "example": "Pizza is my favourite food."
+  },
+  {
+    "english": "February",
+    "chinese": "二月",
+    "example": "February is the shortest month."
+  },
+  {
+    "english": "feel",
+    "chinese": "感觉",
+    "example": "How do you feel today?"
+  },
+  {
+    "english": "feeling",
+    "chinese": "感觉",
+    "example": "I have a strange feeling about this."
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "example": "The music festival is in July."
+  },
+  {
+    "english": "few",
+    "chinese": "很少的",
+    "example": "Few people know the answer."
+  },
+  {
+    "english": "fifteen",
+    "chinese": "十五",
+    "example": "She is fifteen years old."
+  },
+  {
+    "english": "fifth",
+    "chinese": "第五",
+    "example": "This is the fifth time I've called you."
+  },
+  {
+    "english": "fifty",
+    "chinese": "五十",
+    "example": "There are fifty states in the USA."
+  },
+  {
+    "english": "fill",
+    "chinese": "填满",
+    "example": "Please fill this bottle with water."
+  },
+  {
+    "english": "film",
+    "chinese": "电影",
+    "example": "We saw a good film last night."
+  },
+  {
+    "english": "final",
+    "chinese": "最后的",
+    "example": "This is your final warning."
+  },
+  {
+    "english": "find",
+    "chinese": "找到",
+    "example": "I can't find my keys."
+  },
+  {
+    "english": "fine",
+    "chinese": "好的，罚款",
+    "example": "I'm fine, thank you."
+  },
+  {
+    "english": "finish",
+    "chinese": "完成",
+    "example": "When did you finish your homework?"
+  },
+  {
+    "english": "fire",
+    "chinese": "火",
+    "example": "The fire warmed the room."
+  },
+  {
+    "english": "first",
+    "chinese": "第一",
+    "example": "This is my first visit to London."
+  },
+  {
+    "english": "fish",
+    "chinese": "鱼，钓鱼",
+    "example": "We caught three fish."
+  },
+  {
+    "english": "five",
+    "chinese": "五",
+    "example": "I have five fingers on each hand."
+  },
+  {
+    "english": "flat",
+    "chinese": "公寓（英式）",
+    "example": "She lives in a small flat in London."
+  },
+  {
+    "english": "flight",
+    "chinese": "航班",
+    "example": "Our flight was delayed."
+  },
+  {
+    "english": "floor",
+    "chinese": "地板，楼层",
+    "example": "The book fell on the floor."
+  },
+  {
+    "english": "flower",
+    "chinese": "花",
+    "example": "She was given a beautiful flower."
+  },
+  {
+    "english": "fly",
+    "chinese": "飞",
+    "example": "Birds can fly."
+  },
+  {
+    "english": "follow",
+    "chinese": "跟随",
+    "example": "Please follow me."
+  },
+  {
+    "english": "food",
+    "chinese": "食物",
+    "example": "Italian food is delicious."
+  },
+  {
+    "english": "foot",
+    "chinese": "脚",
+    "example": "My foot hurts."
+  },
+  {
+    "english": "football",
+    "chinese": "足球",
+    "example": "He plays football every weekend."
+  },
+  {
+    "english": "for",
+    "chinese": "为了，给",
+    "example": "This letter is for you."
+  },
+  {
+    "english": "forget",
+    "chinese": "忘记",
+    "example": "Don't forget to call me."
+  },
+  {
+    "english": "form",
+    "chinese": "表格，形式",
+    "example": "Please fill in this form."
+  },
+  {
+    "english": "forty",
+    "chinese": "四十",
+    "example": "He is forty years old."
+  },
+  {
+    "english": "four",
+    "chinese": "四",
+    "example": "A car has four wheels."
+  },
+  {
+    "english": "fourteen",
+    "chinese": "十四",
+    "example": "My sister is fourteen."
+  },
+  {
+    "english": "fourth",
+    "chinese": "第四",
+    "example": "This is the fourth time I've asked you."
+  },
+  {
+    "english": "free",
+    "chinese": "免费的，自由的",
+    "example": "The entrance is free for children."
+  },
+  {
+    "english": "Friday",
+    "chinese": "星期五",
+    "example": "We go out for dinner on Friday."
+  },
+  {
+    "english": "friend",
+    "chinese": "朋友",
+    "example": "She is my best friend."
+  },
+  {
+    "english": "friendly",
+    "chinese": "友好的",
+    "example": "The people here are very friendly."
+  },
+  {
+    "english": "from",
+    "chinese": "从",
+    "example": "I come from Spain."
+  },
+  {
+    "english": "front",
+    "chinese": "前面",
+    "example": "The garden is in front of the house."
+  },
+  {
+    "english": "fruit",
+    "chinese": "水果",
+    "example": "Apples and oranges are fruits."
+  },
+  {
+    "english": "full",
+    "chinese": "满的",
+    "example": "The bottle is full of water."
+  },
+  {
+    "english": "fun",
+    "chinese": "乐趣",
+    "example": "We had fun at the party."
+  },
+  {
+    "english": "funny",
+    "chinese": "有趣的",
+    "example": "He told a funny story."
+  },
+  {
+    "english": "future",
+    "chinese": "未来",
+    "example": "No one can predict the future."
+  },
+  {
+    "english": "game",
+    "chinese": "游戏",
+    "example": "Let's play a game."
+  },
+  {
+    "english": "garden",
+    "chinese": "花园",
+    "example": "They have a beautiful garden."
+  },
+  {
+    "english": "geography",
+    "chinese": "地理",
+    "example": "We study geography at school."
+  },
+  {
+    "english": "get",
+    "chinese": "得到",
+    "example": "I need to get some milk from the shop."
+  },
+  {
+    "english": "girl",
+    "chinese": "女孩",
+    "example": "The little girl is playing with her doll."
+  },
+  {
+    "english": "girlfriend",
+    "chinese": "女朋友",
+    "example": "He went to the cinema with his girlfriend."
+  },
+  {
+    "english": "give",
+    "chinese": "给",
+    "example": "Please give me the book."
+  },
+  {
+    "english": "glass",
+    "chinese": "玻璃，玻璃杯",
+    "example": "I'd like a glass of water, please."
+  },
+  {
+    "english": "go",
+    "chinese": "去",
+    "example": "I go to school by bus."
+  },
+  {
+    "english": "good",
+    "chinese": "好的",
+    "example": "She is a good student."
+  },
+  {
+    "english": "goodbye",
+    "chinese": "再见",
+    "example": "Goodbye! See you tomorrow!"
+  },
+  {
+    "english": "grandfather",
+    "chinese": "祖父",
+    "example": "My grandfather is seventy years old."
+  },
+  {
+    "english": "grandmother",
+    "chinese": "祖母",
+    "example": "My grandmother makes great cakes."
+  },
+  {
+    "english": "grandparent",
+    "chinese": "祖父母",
+    "example": "My grandparents live in the countryside."
+  },
+  {
+    "english": "great",
+    "chinese": "伟大的，很棒的",
+    "example": "We had a great time at the beach."
+  },
+  {
+    "english": "green",
+    "chinese": "绿色的",
+    "example": "The grass is green."
+  },
+  {
+    "english": "grey",
+    "chinese": "灰色的",
+    "example": "The sky is grey today."
+  },
+  {
+    "english": "group",
+    "chinese": "组",
+    "example": "We work in groups in our English class."
+  },
+  {
+    "english": "grow",
+    "chinese": "生长",
+    "example": "Children grow quickly."
+  },
+  {
+    "english": "guess",
+    "chinese": "猜",
+    "example": "Can you guess how old I am?"
+  },
+  {
+    "english": "guitar",
+    "chinese": "吉他",
+    "example": "He plays the guitar very well."
+  },
+  {
+    "english": "gym",
+    "chinese": "健身房",
+    "example": "I go to the gym three times a week."
+  },
+  {
+    "english": "hair",
+    "chinese": "头发",
+    "example": "She has long brown hair."
+  },
+  {
+    "english": "half",
+    "chinese": "一半",
+    "example": "Half of the students are girls."
+  },
+  {
+    "english": "hand",
+    "chinese": "手",
+    "example": "Raise your hand if you know the answer."
+  },
+  {
+    "english": "happen",
+    "chinese": "发生",
+    "example": "What happened?"
+  },
+  {
+    "english": "happy",
+    "chinese": "快乐的",
+    "example": "I'm happy to see you."
+  },
+  {
+    "english": "hard",
+    "chinese": "硬的，困难的",
+    "example": "The test was very hard."
+  },
+  {
+    "english": "hat",
+    "chinese": "帽子",
+    "example": "He was wearing a blue hat."
+  },
+  {
+    "english": "have",
+    "chinese": "有",
+    "example": "I have two brothers."
+  },
+  {
+    "english": "have to",
+    "chinese": "必须",
+    "example": "I have to go now."
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "example": "He is my brother."
+  },
+  {
+    "english": "head",
+    "chinese": "头",
+    "example": "My head hurts."
+  },
+  {
+    "english": "health",
+    "chinese": "健康",
+    "example": "Exercise is good for your health."
+  },
+  {
+    "english": "healthy",
+    "chinese": "健康的",
+    "example": "She eats healthy food."
+  },
+  {
+    "english": "hear",
+    "chinese": "听到",
+    "example": "I can't hear you."
+  },
+  {
+    "english": "hello",
+    "chinese": "你好",
+    "example": "Hello! How are you?"
+  },
+  {
+    "english": "help",
+    "chinese": "帮助",
+    "example": "Can you help me, please?"
+  },
+  {
+    "english": "her",
+    "chinese": "她的",
+    "example": "This is her book."
+  },
+  {
+    "english": "here",
+    "chinese": "这里",
+    "example": "Come here, please."
+  },
+  {
+    "english": "hey",
+    "chinese": "嘿",
+    "example": "Hey! What are you doing?"
+  },
+  {
+    "english": "hi",
+    "chinese": "嗨",
+    "example": "Hi! How's it going?"
+  },
+  {
+    "english": "high",
+    "chinese": "高的",
+    "example": "The mountain is very high."
+  },
+  {
+    "english": "him",
+    "chinese": "他（宾格）",
+    "example": "I gave him the book."
+  },
+  {
+    "english": "his",
+    "chinese": "他的",
+    "example": "That is his car."
+  },
+  {
+    "english": "history",
+    "chinese": "历史",
+    "example": "We study history at school."
+  },
+  {
+    "english": "hobby",
+    "chinese": "爱好",
+    "example": "What are your hobbies?"
+  },
+  {
+    "english": "holiday",
+    "chinese": "假期",
+    "example": "We're going on holiday next week."
+  },
+  {
+    "english": "home",
+    "chinese": "家",
+    "example": "I go home after school."
+  },
+  {
+    "english": "homework",
+    "chinese": "家庭作业",
+    "example": "I have a lot of homework tonight."
+  },
+  {
+    "english": "hope",
+    "chinese": "希望",
+    "example": "I hope you feel better soon."
+  },
+  {
+    "english": "horse",
+    "chinese": "马",
+    "example": "She likes to ride horses."
+  },
+  {
+    "english": "hospital",
+    "chinese": "医院",
+    "example": "He's in hospital with a broken leg."
+  },
+  {
+    "english": "hot",
+    "chinese": "热的",
+    "example": "Be careful, the coffee is hot."
+  },
+  {
+    "english": "hotel",
+    "chinese": "酒店",
+    "example": "We stayed in a nice hotel."
+  },
+  {
+    "english": "hour",
+    "chinese": "小时",
+    "example": "The film lasts two hours."
+  },
+  {
+    "english": "house",
+    "chinese": "房子",
+    "example": "They live in a big house."
+  },
+  {
+    "english": "how",
+    "chinese": "如何",
+    "example": "How are you?"
+  },
+  {
+    "english": "however",
+    "chinese": "然而",
+    "example": "It's raining. However, we still plan to go out."
+  },
+  {
+    "english": "hundred",
+    "chinese": "百",
+    "example": "There are one hundred cents in a dollar."
+  },
+  {
+    "english": "hungry",
+    "chinese": "饿的",
+    "example": "I'm hungry. Let's eat something."
+  },
+  {
+    "english": "husband",
+    "chinese": "丈夫",
+    "example": "Her husband is a doctor."
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "example": "I am a student."
+  },
+  {
+    "english": "ice",
+    "chinese": "冰",
+    "example": "The drink has ice in it."
+  },
+  {
+    "english": "ice cream",
+    "chinese": "冰淇淋",
+    "example": "I love chocolate ice cream."
+  },
+  {
+    "english": "idea",
+    "chinese": "主意",
+    "example": "That's a good idea!"
+  },
+  {
+    "english": "if",
+    "chinese": "如果",
+    "example": "If it rains, we will stay at home."
+  },
+  {
+    "english": "imagine",
+    "chinese": "想象",
+    "example": "Can you imagine living on the moon?"
+  },
+  {
+    "english": "important",
+    "chinese": "重要的",
+    "example": "It's important to drink enough water."
+  },
+  {
+    "english": "improve",
+    "chinese": "改进",
+    "example": "I want to improve my English."
+  },
+  {
+    "english": "in",
+    "chinese": "在...里面",
+    "example": "The cat is in the box."
+  },
+  {
+    "english": "include",
+    "chinese": "包括",
+    "example": "The price includes breakfast."
+  },
+  {
+    "english": "information",
+    "chinese": "信息",
+    "example": "I need more information about this course."
+  },
+  {
+    "english": "interest",
+    "chinese": "兴趣",
+    "example": "I have an interest in photography."
+  },
+  {
+    "english": "interested",
+    "chinese": "感兴趣的",
+    "example": "I'm interested in learning French."
+  },
+  {
+    "english": "interesting",
+    "chinese": "有趣的",
+    "example": "The book is very interesting."
+  },
+  {
+    "english": "internet",
+    "chinese": "互联网",
+    "example": "I found the information on the internet."
+  },
+  {
+    "english": "interview",
+    "chinese": "面试，采访",
+    "example": "I have a job interview tomorrow."
+  },
+  {
+    "english": "into",
+    "chinese": "进入",
+    "example": "She went into the room."
+  },
+  {
+    "english": "introduce",
+    "chinese": "介绍",
+    "example": "Let me introduce you to my friend."
+  },
+  {
+    "english": "island",
+    "chinese": "岛",
+    "example": "They spent their holiday on a tropical island."
+  },
+  {
+    "english": "it",
+    "chinese": "它",
+    "example": "It is raining."
+  },
+  {
+    "english": "its",
+    "chinese": "它的",
+    "example": "The dog wagged its tail."
+  },
+  {
+    "english": "jacket",
+    "chinese": "夹克",
+    "example": "It's cold; wear a jacket."
+  },
+  {
+    "english": "January",
+    "chinese": "一月",
+    "example": "New Year's Day is in January."
+  },
+  {
+    "english": "jeans",
+    "chinese": "牛仔裤",
+    "example": "I wear jeans every day."
+  },
+  {
+    "english": "job",
+    "chinese": "工作",
+    "example": "He has a new job."
+  },
+  {
+    "english": "join",
+    "chinese": "加入",
+    "example": "Would you like to join us for dinner?"
+  },
+  {
+    "english": "journey",
+    "chinese": "旅程",
+    "example": "The journey took three hours."
+  },
+  {
+    "english": "juice",
+    "chinese": "果汁",
+    "example": "I'd like a glass of orange juice."
+  },
+  {
+    "english": "July",
+    "chinese": "七月",
+    "example": "It's usually hot in July."
+  },
+  {
+    "english": "June",
+    "chinese": "六月",
+    "example": "Summer begins in June."
+  },
+  {
+    "english": "just",
+    "chinese": "刚刚，只是",
+    "example": "I just arrived."
+  },
+  {
+    "english": "keep",
+    "chinese": "保持",
+    "example": "Keep quiet, please."
+  },
+  {
+    "english": "key",
+    "chinese": "钥匙，关键的",
+    "example": "I can't find my keys."
+  },
+  {
+    "english": "kilometre",
+    "chinese": "公里",
+    "example": "The town is five kilometres from here."
+  },
+  {
+    "english": "kind",
+    "chinese": "种类，善良的",
+    "example": "She is a kind person."
+  },
+  {
+    "english": "kitchen",
+    "chinese": "厨房",
+    "example": "I'm cooking dinner in the kitchen."
+  },
+  {
+    "english": "know",
+    "chinese": "知道",
+    "example": "Do you know the answer?"
+  },
+  {
+    "english": "land",
+    "chinese": "陆地",
+    "example": "We saw land after weeks at sea."
+  },
+  {
+    "english": "language",
+    "chinese": "语言",
+    "example": "English is a global language."
+  },
+  {
+    "english": "large",
+    "chinese": "大的",
+    "example": "They have a large garden."
+  },
+  {
+    "english": "last",
+    "chinese": "最后的，持续",
+    "example": "This is my last chocolate."
+  },
+  {
+    "english": "late",
+    "chinese": "迟的",
+    "example": "I'm sorry I'm late."
+  },
+  {
+    "english": "later",
+    "chinese": "后来",
+    "example": "See you later!"
+  },
+  {
+    "english": "laugh",
+    "chinese": "笑",
+    "example": "The joke made everyone laugh."
+  },
+  {
+    "english": "learn",
+    "chinese": "学习",
+    "example": "Children learn quickly."
+  },
+  {
+    "english": "leave",
+    "chinese": "离开",
+    "example": "What time does the train leave?"
+  },
+  {
+    "english": "left",
+    "chinese": "左边",
+    "example": "Turn left at the traffic lights."
+  },
+  {
+    "english": "leg",
+    "chinese": "腿",
+    "example": "He broke his leg in the accident."
+  },
+  {
+    "english": "lesson",
+    "chinese": "课",
+    "example": "The English lesson starts at 9 o'clock."
+  },
+  {
+    "english": "let",
+    "chinese": "让",
+    "example": "Let me help you."
+  },
+  {
+    "english": "letter",
+    "chinese": "信，字母",
+    "example": "I received a letter from my friend."
+  },
+  {
+    "english": "library",
+    "chinese": "图书馆",
+    "example": "I borrowed this book from the library."
+  },
+  {
+    "english": "lie",
+    "chinese": "躺，谎言",
+    "example": "Don't lie to me."
+  },
+  {
+    "english": "life",
+    "chinese": "生活，生命",
+    "example": "Life is beautiful."
+  },
+  {
+    "english": "light",
+    "chinese": "光，轻的",
+    "example": "Turn on the light, please."
+  },
+  {
+    "english": "like",
+    "chinese": "喜欢，像",
+    "example": "I like chocolate ice cream."
+  },
+  {
+    "english": "line",
+    "chinese": "线，排",
+    "example": "Please stand in line."
+  },
+  {
+    "english": "lion",
+    "chinese": "狮子",
+    "example": "The lion is the king of the jungle."
+  },
+  {
+    "english": "list",
+    "chinese": "列表",
+    "example": "I made a list of things to buy."
+  },
+  {
+    "english": "listen",
+    "chinese": "听",
+    "example": "Listen to me carefully."
+  },
+  {
+    "english": "little",
+    "chinese": "小的，少的",
+    "example": "I have little money left."
+  },
+  {
+    "english": "live",
+    "chinese": "居住，活的",
+    "example": "I live in a small town."
+  },
+  {
+    "english": "local",
+    "chinese": "当地的",
+    "example": "We went to a local restaurant."
+  },
+  {
+    "english": "long",
+    "chinese": "长的",
+    "example": "She has long hair."
+  },
+  {
+    "english": "look",
+    "chinese": "看",
+    "example": "Look at that beautiful bird!"
+  },
+  {
+    "english": "lose",
+    "chinese": "失去",
+    "example": "Don't lose your keys."
+  },
+  {
+    "english": "lot",
+    "chinese": "很多",
+    "example": "I have a lot of work to do."
+  },
+  {
+    "english": "love",
+    "chinese": "爱",
+    "example": "I love my family."
+  },
+  {
+    "english": "lunch",
+    "chinese": "午餐",
+    "example": "What did you have for lunch?"
+  },
+  {
+    "english": "machine",
+    "chinese": "机器",
+    "example": "This machine makes coffee."
+  },
+  {
+    "english": "magazine",
+    "chinese": "杂志",
+    "example": "I read a magazine while waiting at the doctor's."
+  },
+  {
+    "english": "main",
+    "chinese": "主要的",
+    "example": "What is the main idea of the story?"
+  },
+  {
+    "english": "make",
+    "chinese": "制作",
+    "example": "My mother makes delicious cakes."
+  },
+  {
+    "english": "man",
+    "chinese": "男人",
+    "example": "That man is my father."
+  },
+  {
+    "english": "many",
+    "chinese": "许多",
+    "example": "How many brothers do you have?"
+  },
+  {
+    "english": "map",
+    "chinese": "地图",
+    "example": "We need a map to find the way."
+  },
+  {
+    "english": "March",
+    "chinese": "三月",
+    "example": "Spring begins in March."
+  },
+  {
+    "english": "market",
+    "chinese": "市场",
+    "example": "We buy fresh vegetables at the market."
+  },
+  {
+    "english": "married",
+    "chinese": "已婚的",
+    "example": "They are married."
+  },
+  {
+    "english": "match",
+    "chinese": "比赛，匹配",
+    "example": "We watched a football match on TV."
+  },
+  {
+    "english": "May",
+    "chinese": "五月",
+    "example": "May is a beautiful month."
+  },
+  {
+    "english": "maybe",
+    "chinese": "也许",
+    "example": "Maybe it will rain tomorrow."
+  },
+  {
+    "english": "me",
+    "chinese": "我（宾格）",
+    "example": "Can you help me?"
+  },
+  {
+    "english": "meal",
+    "chinese": "一餐",
+    "example": "We had a delicious meal."
+  },
+  {
+    "english": "mean",
+    "chinese": "意思是",
+    "example": "What does this word mean?"
+  },
+  {
+    "english": "meaning",
+    "chinese": "意思",
+    "example": "I don't understand the meaning of this sentence."
+  },
+  {
+    "english": "meat",
+    "chinese": "肉",
+    "example": "I don't eat meat."
+  },
+  {
+    "english": "meet",
+    "chinese": "遇见",
+    "example": "Nice to meet you."
+  },
+  {
+    "english": "meeting",
+    "chinese": "会议",
+    "example": "I have a meeting at 10 o'clock."
+  },
+  {
+    "english": "member",
+    "chinese": "成员",
+    "example": "She is a member of the tennis club."
+  },
+  {
+    "english": "menu",
+    "chinese": "菜单",
+    "example": "Can I see the menu, please?"
+  },
+  {
+    "english": "message",
+    "chinese": "消息",
+    "example": "I left a message on your phone."
+  },
+  {
+    "english": "metre",
+    "chinese": "米",
+    "example": "The room is five metres long."
+  },
+  {
+    "english": "midnight",
+    "chinese": "午夜",
+    "example": "The party ended at midnight."
+  },
+  {
+    "english": "mile",
+    "chinese": "英里",
+    "example": "The school is two miles from here."
+  },
+  {
+    "english": "milk",
+    "chinese": "牛奶",
+    "example": "I drink milk for breakfast."
+  },
+  {
+    "english": "million",
+    "chinese": "百万",
+    "example": "The city has over a million inhabitants."
+  },
+  {
+    "english": "minute",
+    "chinese": "分钟",
+    "example": "I'll be ready in a minute."
+  },
+  {
+    "english": "miss",
+    "chinese": "想念，错过",
+    "example": "I miss my family."
+  },
+  {
+    "english": "mistake",
+    "chinese": "错误",
+    "example": "I made a mistake in the test."
+  },
+  {
+    "english": "model",
+    "chinese": "模型",
+    "example": "He builds model airplanes."
+  },
+  {
+    "english": "modern",
+    "chinese": "现代的",
+    "example": "They live in a modern house."
+  },
+  {
+    "english": "moment",
+    "chinese": "时刻",
+    "example": "Wait a moment, please."
+  },
+  {
+    "english": "Monday",
+    "chinese": "星期一",
+    "example": "I go to the gym on Monday."
+  },
+  {
+    "english": "money",
+    "chinese": "钱",
+    "example": "I don't have enough money to buy this."
+  },
+  {
+    "english": "month",
+    "chinese": "月",
+    "example": "There are twelve months in a year."
+  },
+  {
+    "english": "more",
+    "chinese": "更多的",
+    "example": "I want more coffee."
+  },
+  {
+    "english": "morning",
+    "chinese": "早上",
+    "example": "Good morning!"
+  },
+  {
+    "english": "most",
+    "chinese": "最多的",
+    "example": "Most people like chocolate."
+  },
+  {
+    "english": "mother",
+    "chinese": "母亲",
+    "example": "My mother is a nurse."
+  },
+  {
+    "english": "mountain",
+    "chinese": "山",
+    "example": "We went climbing in the mountains."
+  },
+  {
+    "english": "mouse",
+    "chinese": "老鼠",
+    "example": "There's a mouse in the kitchen!"
+  },
+  {
+    "english": "mouth",
+    "chinese": "嘴",
+    "example": "Open your mouth, please."
+  },
+  {
+    "english": "move",
+    "chinese": "移动",
+    "example": "Don't move!"
+  },
+  {
+    "english": "movie",
+    "chinese": "电影",
+    "example": "We watched a movie last night."
+  },
+  {
+    "english": "much",
+    "chinese": "许多",
+    "example": "How much does it cost?"
+  },
+  {
+    "english": "mum",
+    "chinese": "妈妈",
+    "example": "My mum makes the best cakes."
+  },
+  {
+    "english": "museum",
+    "chinese": "博物馆",
+    "example": "We visited the natural history museum."
+  },
+  {
+    "english": "music",
+    "chinese": "音乐",
+    "example": "I listen to music every day."
+  },
+  {
+    "english": "must",
+    "chinese": "必须",
+    "example": "You must finish your homework."
+  },
+  {
+    "english": "my",
+    "chinese": "我的",
+    "example": "This is my book."
+  },
+  {
+    "english": "name",
+    "chinese": "名字",
+    "example": "What's your name?"
+  },
+  {
+    "english": "natural",
+    "chinese": "自然的",
+    "example": "She has a natural talent for singing."
+  },
+  {
+    "english": "near",
+    "chinese": "靠近",
+    "example": "The hotel is near the station."
+  },
+  {
+    "english": "need",
+    "chinese": "需要",
+    "example": "I need some help."
+  },
+  {
+    "english": "negative",
+    "chinese": "负面的",
+    "example": "The test result was negative."
+  },
+  {
+    "english": "neighbour",
+    "chinese": "邻居",
+    "example": "Our neighbours are very friendly."
+  },
+  {
+    "english": "never",
+    "chinese": "从不",
+    "example": "I never eat meat."
+  },
+  {
+    "english": "new",
+    "chinese": "新的",
+    "example": "I bought a new car."
+  },
+  {
+    "english": "news",
+    "chinese": "新闻",
+    "example": "I watch the news every evening."
+  },
+  {
+    "english": "newspaper",
+    "chinese": "报纸",
+    "example": "My father reads the newspaper at breakfast."
+  },
+  {
+    "english": "next",
+    "chinese": "下一个",
+    "example": "See you next week!"
+  },
+  {
+    "english": "next to",
+    "chinese": "在旁边",
+    "example": "The bank is next to the post office."
+  },
+  {
+    "english": "nice",
+    "chinese": "好的",
+    "example": "It's a nice day today."
+  },
+  {
+    "english": "night",
+    "chinese": "晚上",
+    "example": "Good night!"
+  },
+  {
+    "english": "nine",
+    "chinese": "九",
+    "example": "A cat has nine lives."
+  },
+  {
+    "english": "nineteen",
+    "chinese": "十九",
+    "example": "She is nineteen years old."
+  },
+  {
+    "english": "ninety",
+    "chinese": "九十",
+    "example": "My grandmother is ninety years old."
+  },
+  {
+    "english": "no",
+    "chinese": "不",
+    "example": "No, thank you."
+  },
+  {
+    "english": "no one",
+    "chinese": "没有人",
+    "example": "No one knows the answer."
+  },
+  {
+    "english": "nobody",
+    "chinese": "没有人",
+    "example": "Nobody was at home."
+  },
+  {
+    "english": "north",
+    "chinese": "北方",
+    "example": "Canada is north of the United States."
+  },
+  {
+    "english": "nose",
+    "chinese": "鼻子",
+    "example": "He has a big nose."
+  },
+  {
+    "english": "not",
+    "chinese": "不",
+    "example": "I'm not tired."
+  },
+  {
+    "english": "note",
+    "chinese": "笔记",
+    "example": "I made a note of the address."
+  },
+  {
+    "english": "nothing",
+    "chinese": "没有东西",
+    "example": "There's nothing in the box."
+  },
+  {
+    "english": "November",
+    "chinese": "十一月",
+    "example": "It often rains in November."
+  },
+  {
+    "english": "now",
+    "chinese": "现在",
+    "example": "I'm busy right now."
+  },
+  {
+    "english": "number",
+    "chinese": "数字",
+    "example": "What's your phone number?"
+  },
+  {
+    "english": "nurse",
+    "chinese": "护士",
+    "example": "The nurse took my temperature."
+  },
+  {
+    "english": "object",
+    "chinese": "物体",
+    "example": "What is that object on the table?"
+  },
+  {
+    "english": "o'clock",
+    "chinese": "...点钟",
+    "example": "It's three o'clock."
+  },
+  {
+    "english": "October",
+    "chinese": "十月",
+    "example": "Halloween is in October."
+  },
+  {
+    "english": "of",
+    "chinese": "的",
+    "example": "the capital of France"
+  },
+  {
+    "english": "off",
+    "chinese": "离开",
+    "example": "Turn off the light, please."
+  },
+  {
+    "english": "office",
+    "chinese": "办公室",
+    "example": "My father works in an office."
+  },
+  {
+    "english": "often",
+    "chinese": "经常",
+    "example": "How often do you go to the cinema?"
+  },
+  {
+    "english": "oh",
+    "chinese": "哦",
+    "example": "Oh, I see!"
+  },
+  {
+    "english": "OK",
+    "chinese": "好的",
+    "example": "Is it OK if I open the window?"
+  },
+  {
+    "english": "old",
+    "chinese": "老的",
+    "example": "How old are you?"
+  },
+  {
+    "english": "on",
+    "chinese": "在...上面",
+    "example": "The book is on the table."
+  },
+  {
+    "english": "once",
+    "chinese": "一次",
+    "example": "I go to the cinema once a week."
+  },
+  {
+    "english": "one",
+    "chinese": "一",
+    "example": "I have one sister."
+  },
+  {
+    "english": "onion",
+    "chinese": "洋葱",
+    "example": "I don't like onions."
+  },
+  {
+    "english": "online",
+    "chinese": "在线",
+    "example": "I bought this book online."
+  },
+  {
+    "english": "only",
+    "chinese": "只有",
+    "example": "This is the only copy."
+  },
+  {
+    "english": "open",
+    "chinese": "打开",
+    "example": "Open the window, please."
+  },
+  {
+    "english": "opinion",
+    "chinese": "观点",
+    "example": "What's your opinion?"
+  },
+  {
+    "english": "opposite",
+    "chinese": "相反的",
+    "example": "The bank is opposite the post office."
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "example": "Would you like tea or coffee?"
+  },
+  {
+    "english": "orange",
+    "chinese": "橙子，橙色的",
+    "example": "I'd like an orange juice, please."
+  },
+  {
+    "english": "order",
+    "chinese": "点餐，顺序",
+    "example": "Are you ready to order?"
+  },
+  {
+    "english": "other",
+    "chinese": "其他的",
+    "example": "Do you have any other questions?"
+  },
+  {
+    "english": "our",
+    "chinese": "我们的",
+    "example": "This is our house."
+  },
+  {
+    "english": "out",
+    "chinese": "外面",
+    "example": "Let's go out for a walk."
+  },
+  {
+    "english": "outside",
+    "chinese": "外面",
+    "example": "It's cold outside."
+  },
+  {
+    "english": "over",
+    "chinese": "超过，在...上方",
+    "example": "The bridge over the river"
+  },
+  {
+    "english": "own",
+    "chinese": "自己的",
+    "example": "I have my own room."
+  },
+  {
+    "english": "page",
+    "chinese": "页",
+    "example": "Turn to page 10."
+  },
+  {
+    "english": "paint",
+    "chinese": "油漆，绘画",
+    "example": "We need to paint the wall."
+  },
+  {
+    "english": "painting",
+    "chinese": "绘画",
+    "example": "That's a beautiful painting."
+  },
+  {
+    "english": "pair",
+    "chinese": "一双",
+    "example": "I need a new pair of shoes."
+  },
+  {
+    "english": "paper",
+    "chinese": "纸",
+    "example": "I need a piece of paper."
+  },
+  {
+    "english": "paragraph",
+    "chinese": "段落",
+    "example": "Write a paragraph about your holiday."
+  },
+  {
+    "english": "parent",
+    "chinese": "父母",
+    "example": "My parents live in London."
+  },
+  {
+    "english": "park",
+    "chinese": "公园，停车",
+    "example": "The children are playing in the park."
+  },
+  {
+    "english": "part",
+    "chinese": "部分",
+    "example": "Which part of the film did you like best?"
+  },
+  {
+    "english": "partner",
+    "chinese": "伙伴",
+    "example": "My dance partner is very good."
+  },
+  {
+    "english": "party",
+    "chinese": "派对",
+    "example": "We're having a party on Saturday."
+  },
+  {
+    "english": "passport",
+    "chinese": "护照",
+    "example": "You need a passport to travel abroad."
+  },
+  {
+    "english": "past",
+    "chinese": "过去",
+    "example": "In the past, life was very different."
+  },
+  {
+    "english": "pay",
+    "chinese": "支付",
+    "example": "How much did you pay for that book?"
+  },
+  {
+    "english": "pen",
+    "chinese": "钢笔",
+    "example": "Can I borrow your pen?"
+  },
+  {
+    "english": "pencil",
+    "chinese": "铅笔",
+    "example": "The child is drawing with a pencil."
+  },
+  {
+    "english": "people",
+    "chinese": "人们",
+    "example": "There were many people at the concert."
+  },
+  {
+    "english": "pepper",
+    "chinese": "胡椒",
+    "example": "Add some salt and pepper."
+  },
+  {
+    "english": "perfect",
+    "chinese": "完美的",
+    "example": "The weather was perfect."
+  },
+  {
+    "english": "period",
+    "chinese": "时期",
+    "example": "We studied the Victorian period in history."
+  },
+  {
+    "english": "person",
+    "chinese": "人",
+    "example": "She is a very nice person."
+  },
+  {
+    "english": "personal",
+    "chinese": "个人的",
+    "example": "That's a personal question."
+  },
+  {
+    "english": "phone",
+    "chinese": "电话",
+    "example": "What's your phone number?"
+  },
+  {
+    "english": "photo",
+    "chinese": "照片",
+    "example": "I took a photo of the mountains."
+  },
+  {
+    "english": "photograph",
+    "chinese": "照片",
+    "example": "This is a photograph of my family."
+  },
+  {
+    "english": "phrase",
+    "chinese": "短语",
+    "example": "Can you explain this phrase?"
+  },
+  {
+    "english": "piano",
+    "chinese": "钢琴",
+    "example": "She plays the piano very well."
+  },
+  {
+    "english": "picture",
+    "chinese": "图片",
+    "example": "He drew a picture of his house."
+  },
+  {
+    "english": "piece",
+    "chinese": "块",
+    "example": "Would you like a piece of cake?"
+  },
+  {
+    "english": "pig",
+    "chinese": "猪",
+    "example": "The farmer keeps pigs."
+  },
+  {
+    "english": "pink",
+    "chinese": "粉红色的",
+    "example": "She was wearing a pink dress."
+  },
+  {
+    "english": "place",
+    "chinese": "地方",
+    "example": "This is a nice place for a picnic."
+  },
+  {
+    "english": "plan",
+    "chinese": "计划",
+    "example": "What are your plans for the weekend?"
+  },
+  {
+    "english": "plane",
+    "chinese": "飞机",
+    "example": "We went to Paris by plane."
+  },
+  {
+    "english": "plant",
+    "chinese": "植物",
+    "example": "I water my plants every day."
+  },
+  {
+    "english": "play",
+    "chinese": "玩，戏剧",
+    "example": "The children are playing in the garden."
+  },
+  {
+    "english": "player",
+    "chinese": "玩家，运动员",
+    "example": "He is a good tennis player."
+  },
+  {
+    "english": "please",
+    "chinese": "请",
+    "example": "Please sit down."
+  },
+  {
+    "english": "point",
+    "chinese": "点，指出",
+    "example": "What's your point?"
+  },
+  {
+    "english": "police",
+    "chinese": "警察",
+    "example": "Call the police!"
+  },
+  {
+    "english": "policeman",
+    "chinese": "警察",
+    "example": "The policeman directed the traffic."
+  },
+  {
+    "english": "pool",
+    "chinese": "水池",
+    "example": "The hotel has a swimming pool."
+  },
+  {
+    "english": "poor",
+    "chinese": "贫穷的",
+    "example": "They are very poor."
+  },
+  {
+    "english": "popular",
+    "chinese": "受欢迎的",
+    "example": "She is very popular at school."
+  },
+  {
+    "english": "positive",
+    "chinese": "积极的",
+    "example": "I'm positive that I'm right."
+  },
+  {
+    "english": "possible",
+    "chinese": "可能的",
+    "example": "Is it possible to finish this today?"
+  },
+  {
+    "english": "post",
+    "chinese": "邮件，张贴",
+    "example": "I'll post the letter tomorrow."
+  },
+  {
+    "english": "potato",
+    "chinese": "土豆",
+    "example": "We had roast potatoes with our dinner."
+  },
+  {
+    "english": "pound",
+    "chinese": "磅，英镑",
+    "example": "The book costs ten pounds."
+  },
+  {
+    "english": "practice",
+    "chinese": "练习",
+    "example": "You need more practice."
+  },
+  {
+    "english": "practise",
+    "chinese": "练习",
+    "example": "I practise the piano every day."
+  },
+  {
+    "english": "prefer",
+    "chinese": "更喜欢",
+    "example": "I prefer tea to coffee."
+  },
+  {
+    "english": "prepare",
+    "chinese": "准备",
+    "example": "I need to prepare for the exam."
+  },
+  {
+    "english": "present",
+    "chinese": "礼物，现在的",
+    "example": "I bought a present for my mother."
+  },
+  {
+    "english": "pretty",
+    "chinese": "漂亮的",
+    "example": "She is very pretty."
+  },
+  {
+    "english": "price",
+    "chinese": "价格",
+    "example": "What's the price of this book?"
+  },
+  {
+    "english": "probably",
+    "chinese": "可能",
+    "example": "It will probably rain tomorrow."
+  },
+  {
+    "english": "problem",
+    "chinese": "问题",
+    "example": "I have a problem with my computer."
+  },
+  {
+    "english": "product",
+    "chinese": "产品",
+    "example": "This is a new product from our company."
+  },
+  {
+    "english": "programme",
+    "chinese": "节目",
+    "example": "Did you see that programme on TV last night?"
+  },
+  {
+    "english": "project",
+    "chinese": "项目",
+    "example": "We're working on a school project."
+  },
+  {
+    "english": "purple",
+    "chinese": "紫色的",
+    "example": "She was wearing a purple dress."
+  },
+  {
+    "english": "put",
+    "chinese": "放",
+    "example": "Put the book on the table, please."
+  },
+  {
+    "english": "quarter",
+    "chinese": "四分之一",
+    "example": "A quarter of the students are absent."
+  },
+  {
+    "english": "question",
+    "chinese": "问题",
+    "example": "Can I ask you a question?"
+  },
+  {
+    "english": "quick",
+    "chinese": "快的",
+    "example": "Be quick! We're late."
+  },
+  {
+    "english": "quickly",
+    "chinese": "快地",
+    "example": "He ran quickly to catch the bus."
+  },
+  {
+    "english": "quiet",
+    "chinese": "安静的",
+    "example": "Please be quiet in the library."
+  },
+  {
+    "english": "quite",
+    "chinese": "相当",
+    "example": "It's quite cold today."
+  },
+  {
+    "english": "radio",
+    "chinese": "收音机",
+    "example": "I listen to the radio in the car."
+  },
+  {
+    "english": "rain",
+    "chinese": "雨，下雨",
+    "example": "It's starting to rain."
+  },
+  {
+    "english": "read",
+    "chinese": "读",
+    "example": "I like to read books."
+  },
+  {
+    "english": "reader",
+    "chinese": "读者",
+    "example": "She is a fast reader."
+  },
+  {
+    "english": "reading",
+    "chinese": "阅读",
+    "example": "Reading is my favourite hobby."
+  },
+  {
+    "english": "ready",
+    "chinese": "准备好的",
+    "example": "Dinner is ready."
+  },
+  {
+    "english": "real",
+    "chinese": "真实的",
+    "example": "Is this real gold?"
+  },
+  {
+    "english": "really",
+    "chinese": "真的",
+    "example": "I'm really tired."
+  },
+  {
+    "english": "reason",
+    "chinese": "原因",
+    "example": "What's the reason for your visit?"
+  },
+  {
+    "english": "red",
+    "chinese": "红色的",
+    "example": "The car is red."
+  },
+  {
+    "english": "relax",
+    "chinese": "放松",
+    "example": "I like to relax in the evening."
+  },
+  {
+    "english": "remember",
+    "chinese": "记得",
+    "example": "I can't remember his name."
+  },
+  {
+    "english": "repeat",
+    "chinese": "重复",
+    "example": "Could you repeat that, please?"
+  },
+  {
+    "english": "report",
+    "chinese": "报告",
+    "example": "I have to write a report for school."
+  },
+  {
+    "english": "restaurant",
+    "chinese": "餐厅",
+    "example": "We had dinner at a nice restaurant."
+  },
+  {
+    "english": "result",
+    "chinese": "结果",
+    "example": "What was the result of the match?"
+  },
+  {
+    "english": "return",
+    "chinese": "返回",
+    "example": "When will you return?"
+  },
+  {
+    "english": "rice",
+    "chinese": "米饭",
+    "example": "I like rice with my meal."
+  },
+  {
+    "english": "rich",
+    "chinese": "富有的",
+    "example": "He is very rich."
+  },
+  {
+    "english": "ride",
+    "chinese": "骑",
+    "example": "Can you ride a bicycle?"
+  },
+  {
+    "english": "right",
+    "chinese": "右边，正确的",
+    "example": "Turn right at the traffic lights."
+  },
+  {
+    "english": "river",
+    "chinese": "河",
+    "example": "We walked along the river."
+  },
+  {
+    "english": "road",
+    "chinese": "路",
+    "example": "Be careful when crossing the road."
+  },
+  {
+    "english": "room",
+    "chinese": "房间",
+    "example": "My room is very small."
+  },
+  {
+    "english": "routine",
+    "chinese": "常规",
+    "example": "I have a daily routine."
+  },
+  {
+    "english": "rule",
+    "chinese": "规则",
+    "example": "You must obey the rules."
+  },
+  {
+    "english": "run",
+    "chinese": "跑",
+    "example": "I run every morning."
+  },
+  {
+    "english": "sad",
+    "chinese": "悲伤的",
+    "example": "I was sad when my friend moved away."
+  },
+  {
+    "english": "salad",
+    "chinese": "沙拉",
+    "example": "I had a salad for lunch."
+  },
+  {
+    "english": "salt",
+    "chinese": "盐",
+    "example": "Add a little salt to the soup."
+  },
+  {
+    "english": "same",
+    "chinese": "相同的",
+    "example": "We have the same birthday."
+  },
+  {
+    "english": "sandwich",
+    "chinese": "三明治",
+    "example": "I had a cheese sandwich for lunch."
+  },
+  {
+    "english": "Saturday",
+    "chinese": "星期六",
+    "example": "We usually go shopping on Saturday."
+  },
+  {
+    "english": "say",
+    "chinese": "说",
+    "example": "What did you say?"
+  },
+  {
+    "english": "school",
+    "chinese": "学校",
+    "example": "My children go to school by bus."
+  },
+  {
+    "english": "science",
+    "chinese": "科学",
+    "example": "I love science lessons."
+  },
+  {
+    "english": "scientist",
+    "chinese": "科学家",
+    "example": "She is a famous scientist."
+  },
+  {
+    "english": "sea",
+    "chinese": "海",
+    "example": "We swam in the sea."
+  },
+  {
+    "english": "second",
+    "chinese": "第二，秒",
+    "example": "This is my second visit to London."
+  },
+  {
+    "english": "section",
+    "chinese": "部分",
+    "example": "Read the first section of the book."
+  },
+  {
+    "english": "see",
+    "chinese": "看见",
+    "example": "I can't see anything without my glasses."
+  },
+  {
+    "english": "sell",
+    "chinese": "卖",
+    "example": "I want to sell my car."
+  },
+  {
+    "english": "send",
+    "chinese": "发送",
+    "example": "I'll send you an email."
+  },
+  {
+    "english": "sentence",
+    "chinese": "句子",
+    "example": "This is a very long sentence."
+  },
+  {
+    "english": "September",
+    "chinese": "九月",
+    "example": "School starts in September."
+  },
+  {
+    "english": "seven",
+    "chinese": "七",
+    "example": "There are seven days in a week."
+  },
+  {
+    "english": "seventeen",
+    "chinese": "十七",
+    "example": "She is seventeen years old."
+  },
+  {
+    "english": "seventy",
+    "chinese": "七十",
+    "example": "My grandfather is seventy years old."
+  },
+  {
+    "english": "share",
+    "chinese": "分享",
+    "example": "Would you like to share my umbrella?"
+  },
+  {
+    "english": "she",
+    "chinese": "她",
+    "example": "She is my sister."
+  },
+  {
+    "english": "sheep",
+    "chinese": "羊",
+    "example": "The farmer has many sheep."
+  },
+  {
+    "english": "shirt",
+    "chinese": "衬衫",
+    "example": "He was wearing a blue shirt."
+  },
+  {
+    "english": "shoe",
+    "chinese": "鞋子",
+    "example": "I need new shoes."
+  },
+  {
+    "english": "shop",
+    "chinese": "商店",
+    "example": "I'm going to the shop to buy some milk."
+  },
+  {
+    "english": "shopping",
+    "chinese": "购物",
+    "example": "I hate shopping for clothes."
+  },
+  {
+    "english": "short",
+    "chinese": "短的",
+    "example": "She has short hair."
+  },
+  {
+    "english": "should",
+    "chinese": "应该",
+    "example": "You should see a doctor."
+  },
+  {
+    "english": "show",
+    "chinese": "展示",
+    "example": "Can you show me how to do this?"
+  },
+  {
+    "english": "shower",
+    "chinese": "淋浴",
+    "example": "I take a shower every morning."
+  },
+  {
+    "english": "sick",
+    "chinese": "生病的",
+    "example": "I feel sick."
+  },
+  {
+    "english": "similar",
+    "chinese": "相似的",
+    "example": "Our opinions are similar."
+  },
+  {
+    "english": "sing",
+    "chinese": "唱歌",
+    "example": "She sings very well."
+  },
+  {
+    "english": "singer",
+    "chinese": "歌手",
+    "example": "He is a famous singer."
+  },
+  {
+    "english": "sister",
+    "chinese": "姐妹",
+    "example": "My sister is older than me."
+  },
+  {
+    "english": "sit",
+    "chinese": "坐",
+    "example": "Please sit down."
+  },
+  {
+    "english": "situation",
+    "chinese": "情况",
+    "example": "It's a difficult situation."
+  },
+  {
+    "english": "six",
+    "chinese": "六",
+    "example": "A cube has six sides."
+  },
+  {
+    "english": "sixteen",
+    "chinese": "十六",
+    "example": "She is sixteen years old."
+  },
+  {
+    "english": "sixty",
+    "chinese": "六十",
+    "example": "My father is sixty years old."
+  },
+  {
+    "english": "skill",
+    "chinese": "技能",
+    "example": "Reading is an important skill."
+  },
+  {
+    "english": "skirt",
+    "chinese": "裙子",
+    "example": "She was wearing a long skirt."
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡觉",
+    "example": "I need to sleep for eight hours."
+  },
+  {
+    "english": "slow",
+    "chinese": "慢的",
+    "example": "The traffic is very slow today."
+  },
+  {
+    "english": "small",
+    "chinese": "小的",
+    "example": "They live in a small house."
+  },
+  {
+    "english": "snake",
+    "chinese": "蛇",
+    "example": "I'm afraid of snakes."
+  },
+  {
+    "english": "snow",
+    "chinese": "雪，下雪",
+    "example": "It often snows in winter."
+  },
+  {
+    "english": "so",
+    "chinese": "所以",
+    "example": "It was raining, so we stayed at home."
+  },
+  {
+    "english": "some",
+    "chinese": "一些",
+    "example": "Would you like some tea?"
+  },
+  {
+    "english": "somebody",
+    "chinese": "某人",
+    "example": "Somebody is at the door."
+  },
+  {
+    "english": "someone",
+    "chinese": "某人",
+    "example": "Someone called you while you were out."
+  },
+  {
+    "english": "something",
+    "chinese": "某事",
+    "example": "I have something to tell you."
+  },
+  {
+    "english": "sometimes",
+    "chinese": "有时",
+    "example": "Sometimes I go to the cinema."
+  },
+  {
+    "english": "son",
+    "chinese": "儿子",
+    "example": "They have two sons."
+  },
+  {
+    "english": "song",
+    "chinese": "歌曲",
+    "example": "That's a beautiful song."
+  },
+  {
+    "english": "soon",
+    "chinese": "很快",
+    "example": "See you soon!"
+  },
+  {
+    "english": "sorry",
+    "chinese": "对不起",
+    "example": "I'm sorry I'm late."
+  },
+  {
+    "english": "sound",
+    "chinese": "声音",
+    "example": "I heard a strange sound."
+  },
+  {
+    "english": "soup",
+    "chinese": "汤",
+    "example": "I had tomato soup for lunch."
+  },
+  {
+    "english": "south",
+    "chinese": "南方",
+    "example": "They moved to the south of France."
+  },
+  {
+    "english": "space",
+    "chinese": "空间",
+    "example": "There's not enough space in this room."
+  },
+  {
+    "english": "speak",
+    "chinese": "说",
+    "example": "Do you speak English?"
+  },
+  {
+    "english": "special",
+    "chinese": "特别的",
+    "example": "Today is a special day."
+  },
+  {
+    "english": "spell",
+    "chinese": "拼写",
+    "example": "How do you spell your name?"
+  },
+  {
+    "english": "spelling",
+    "chinese": "拼写",
+    "example": "Your spelling is very good."
+  },
+  {
+    "english": "spend",
+    "chinese": "花费",
+    "example": "How much did you spend on your holiday?"
+  },
+  {
+    "english": "sport",
+    "chinese": "运动",
+    "example": "Football is my favourite sport."
+  },
+  {
+    "english": "spring",
+    "chinese": "春天",
+    "example": "Flowers bloom in spring."
+  },
+  {
+    "english": "stand",
+    "chinese": "站",
+    "example": "Please stand up."
+  },
+  {
+    "english": "star",
+    "chinese": "星星",
+    "example": "We looked at the stars in the sky."
+  },
+  {
+    "english": "start",
+    "chinese": "开始",
+    "example": "What time does the film start?"
+  },
+  {
+    "english": "statement",
+    "chinese": "陈述",
+    "example": "The police took a statement from the witness."
+  },
+  {
+    "english": "station",
+    "chinese": "车站",
+    "example": "I'll meet you at the station."
+  },
+  {
+    "english": "stay",
+    "chinese": "停留",
+    "example": "How long will you stay in London?"
+  },
+  {
+    "english": "still",
+    "chinese": "仍然",
+    "example": "I'm still waiting for the bus."
+  },
+  {
+    "english": "stop",
+    "chinese": "停止",
+    "example": "The bus stopped at the corner."
+  },
+  {
+    "english": "story",
+    "chinese": "故事",
+    "example": "Tell me a story."
+  },
+  {
+    "english": "street",
+    "chinese": "街道",
+    "example": "I live on a quiet street."
+  },
+  {
+    "english": "strong",
+    "chinese": "强壮的",
+    "example": "He is very strong."
+  },
+  {
+    "english": "student",
+    "chinese": "学生",
+    "example": "She is a university student."
+  },
+  {
+    "english": "study",
+    "chinese": "学习",
+    "example": "I need to study for my exam."
+  },
+  {
+    "english": "style",
+    "chinese": "风格",
+    "example": "I like your style of dress."
+  },
+  {
+    "english": "subject",
+    "chinese": "科目",
+    "example": "Maths is my favourite subject."
+  },
+  {
+    "english": "success",
+    "chinese": "成功",
+    "example": "Hard work leads to success."
+  },
+  {
+    "english": "sugar",
+    "chinese": "糖",
+    "example": "I don't take sugar in my tea."
+  },
+  {
+    "english": "summer",
+    "chinese": "夏天",
+    "example": "It's very hot in summer."
+  },
+  {
+    "english": "sun",
+    "chinese": "太阳",
+    "example": "The sun is very bright today."
+  },
+  {
+    "english": "Sunday",
+    "chinese": "星期日",
+    "example": "We usually have a family dinner on Sunday."
+  },
+  {
+    "english": "supermarket",
+    "chinese": "超市",
+    "example": "I need to go to the supermarket to buy some food."
+  },
+  {
+    "english": "sure",
+    "chinese": "确定的",
+    "example": "Are you sure?"
+  },
+  {
+    "english": "sweater",
+    "chinese": "毛衣",
+    "example": "It's cold; wear a sweater."
+  },
+  {
+    "english": "swim",
+    "chinese": "游泳",
+    "example": "I like to swim in the sea."
+  },
+  {
+    "english": "swimming",
+    "chinese": "游泳",
+    "example": "Swimming is good exercise."
+  },
+  {
+    "english": "table",
+    "chinese": "桌子",
+    "example": "The book is on the table."
+  },
+  {
+    "english": "take",
+    "chinese": "拿",
+    "example": "Please take a seat."
+  },
+  {
+    "english": "talk",
+    "chinese": "谈话",
+    "example": "We need to talk."
+  },
+  {
+    "english": "tall",
+    "chinese": "高的",
+    "example": "He is very tall."
+  },
+  {
+    "english": "taxi",
+    "chinese": "出租车",
+    "example": "We took a taxi to the airport."
+  },
+  {
+    "english": "tea",
+    "chinese": "茶",
+    "example": "Would you like a cup of tea?"
+  },
+  {
+    "english": "teach",
+    "chinese": "教",
+    "example": "My mother teaches English."
+  },
+  {
+    "english": "teacher",
+    "chinese": "老师",
+    "example": "She is a good teacher."
+  },
+  {
+    "english": "team",
+    "chinese": "团队",
+    "example": "Our team won the match."
+  },
+  {
+    "english": "teenager",
+    "chinese": "青少年",
+    "example": "He is a typical teenager."
+  },
+  {
+    "english": "telephone",
+    "chinese": "电话",
+    "example": "The telephone is ringing."
+  },
+  {
+    "english": "television",
+    "chinese": "电视",
+    "example": "I watch television in the evening."
+  },
+  {
+    "english": "tell",
+    "chinese": "告诉",
+    "example": "Tell me the truth."
+  },
+  {
+    "english": "ten",
+    "chinese": "十",
+    "example": "I have ten fingers."
+  },
+  {
+    "english": "tennis",
+    "chinese": "网球",
+    "example": "I play tennis every weekend."
+  },
+  {
+    "english": "terrible",
+    "chinese": "糟糕的",
+    "example": "The weather was terrible."
+  },
+  {
+    "english": "test",
+    "chinese": "测试",
+    "example": "I have a maths test tomorrow."
+  },
+  {
+    "english": "text",
+    "chinese": "文本",
+    "example": "Read the text on page 10."
+  },
+  {
+    "english": "than",
+    "chinese": "比",
+    "example": "She is taller than me."
+  },
+  {
+    "english": "thank",
+    "chinese": "谢谢",
+    "example": "Thank you for your help."
+  },
+  {
+    "english": "thanks",
+    "chinese": "谢谢",
+    "example": "Thanks for the present."
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "example": "That book is mine."
+  },
+  {
+    "english": "the",
+    "chinese": "这，那",
+    "example": "The sun is shining."
+  },
+  {
+    "english": "theatre",
+    "chinese": "剧院",
+    "example": "We went to the theatre last night."
+  },
+  {
+    "english": "their",
+    "chinese": "他们的",
+    "example": "That is their house."
+  },
+  {
+    "english": "them",
+    "chinese": "他们（宾格）",
+    "example": "I gave them the books."
+  },
+  {
+    "english": "then",
+    "chinese": "然后",
+    "example": "We had dinner, then we went to the cinema."
+  },
+  {
+    "english": "there",
+    "chinese": "那里",
+    "example": "Put the book over there."
+  },
+  {
+    "english": "they",
+    "chinese": "他们",
+    "example": "They are my friends."
+  },
+  {
+    "english": "thing",
+    "chinese": "东西",
+    "example": "What is that thing on the table?"
+  },
+  {
+    "english": "think",
+    "chinese": "想",
+    "example": "I think you are right."
+  },
+  {
+    "english": "third",
+    "chinese": "第三",
+    "example": "This is my third visit to Paris."
+  },
+  {
+    "english": "thirteen",
+    "chinese": "十三",
+    "example": "She is thirteen years old."
+  },
+  {
+    "english": "thirty",
+    "chinese": "三十",
+    "example": "There are thirty days in April."
+  },
+  {
+    "english": "this",
+    "chinese": "这个",
+    "example": "This is my book."
+  },
+  {
+    "english": "thousand",
+    "chinese": "千",
+    "example": "The crowd was over a thousand people."
+  },
+  {
+    "english": "three",
+    "chinese": "三",
+    "example": "I have three brothers."
+  },
+  {
+    "english": "through",
+    "chinese": "通过",
+    "example": "We walked through the park."
+  },
+  {
+    "english": "Thursday",
+    "chinese": "星期四",
+    "example": "I have a meeting on Thursday."
+  },
+  {
+    "english": "ticket",
+    "chinese": "票",
+    "example": "I bought a ticket for the concert."
+  },
+  {
+    "english": "time",
+    "chinese": "时间",
+    "example": "What time is it?"
+  },
+  {
+    "english": "tired",
+    "chinese": "累的",
+    "example": "I'm very tired today."
+  },
+  {
+    "english": "title",
+    "chinese": "标题",
+    "example": "What's the title of the book?"
+  },
+  {
+    "english": "to",
+    "chinese": "到",
+    "example": "We went to London."
+  },
+  {
+    "english": "today",
+    "chinese": "今天",
+    "example": "Today is Monday."
+  },
+  {
+    "english": "together",
+    "chinese": "一起",
+    "example": "Let's work together."
+  },
+  {
+    "english": "toilet",
+    "chinese": "厕所",
+    "example": "Where is the toilet, please?"
+  },
+  {
+    "english": "tomato",
+    "chinese": "番茄",
+    "example": "I need some tomatoes for the salad."
+  },
+  {
+    "english": "tomorrow",
+    "chinese": "明天",
+    "example": "See you tomorrow!"
+  },
+  {
+    "english": "tonight",
+    "chinese": "今晚",
+    "example": "What are you doing tonight?"
+  },
+  {
+    "english": "too",
+    "chinese": "也，太",
+    "example": "I'm too tired to go out."
+  },
+  {
+    "english": "tooth",
+    "chinese": "牙齿",
+    "example": "I need to go to the dentist; I have a toothache."
+  },
+  {
+    "english": "topic",
+    "chinese": "话题",
+    "example": "What is the topic of today's lesson?"
+  },
+  {
+    "english": "tourist",
+    "chinese": "游客",
+    "example": "This city is full of tourists in summer."
+  },
+  {
+    "english": "town",
+    "chinese": "城镇",
+    "example": "I live in a small town."
+  },
+  {
+    "english": "traffic",
+    "chinese": "交通",
+    "example": "The traffic is very heavy this morning."
+  },
+  {
+    "english": "train",
+    "chinese": "火车",
+    "example": "We went to Manchester by train."
+  },
+  {
+    "english": "travel",
+    "chinese": "旅行",
+    "example": "I love to travel."
+  },
+  {
+    "english": "tree",
+    "chinese": "树",
+    "example": "There is a big tree in our garden."
+  },
+  {
+    "english": "trip",
+    "chinese": "旅行",
+    "example": "We're planning a trip to France."
+  },
+  {
+    "english": "trousers",
+    "chinese": "裤子",
+    "example": "I need new trousers."
+  },
+  {
+    "english": "true",
+    "chinese": "真实的",
+    "example": "Is that true?"
+  },
+  {
+    "english": "try",
+    "chinese": "尝试",
+    "example": "I'll try to finish this today."
+  },
+  {
+    "english": "T-shirt",
+    "chinese": "T恤",
+    "example": "He was wearing a blue T-shirt."
+  },
+  {
+    "english": "Tuesday",
+    "chinese": "星期二",
+    "example": "I have a piano lesson on Tuesday."
+  },
+  {
+    "english": "turn",
+    "chinese": "转弯，变成",
+    "example": "Turn left at the traffic lights."
+  },
+  {
+    "english": "TV",
+    "chinese": "电视",
+    "example": "I watch TV every evening."
+  },
+  {
+    "english": "twelve",
+    "chinese": "十二",
+    "example": "There are twelve months in a year."
+  },
+  {
+    "english": "twenty",
+    "chinese": "二十",
+    "example": "She is twenty years old."
+  },
+  {
+    "english": "twice",
+    "chinese": "两次",
+    "example": "I go to the gym twice a week."
+  },
+  {
+    "english": "two",
+    "chinese": "二",
+    "example": "I have two sisters."
+  },
+  {
+    "english": "type",
+    "chinese": "类型",
+    "example": "What type of music do you like?"
+  },
+  {
+    "english": "umbrella",
+    "chinese": "雨伞",
+    "example": "Take an umbrella; it's raining."
+  },
+  {
+    "english": "uncle",
+    "chinese": "叔叔",
+    "example": "My uncle is coming to visit us."
+  },
+  {
+    "english": "under",
+    "chinese": "在...下面",
+    "example": "The cat is under the table."
+  },
+  {
+    "english": "understand",
+    "chinese": "理解",
+    "example": "Do you understand this question?"
+  },
+  {
+    "english": "university",
+    "chinese": "大学",
+    "example": "She studies medicine at university."
+  },
+  {
+    "english": "until",
+    "chinese": "直到",
+    "example": "I'll wait until you come back."
+  },
+  {
+    "english": "up",
+    "chinese": "向上",
+    "example": "Stand up, please."
+  },
+  {
+    "english": "upstairs",
+    "chinese": "楼上",
+    "example": "The bathroom is upstairs."
+  },
+  {
+    "english": "us",
+    "chinese": "我们（宾格）",
+    "example": "She gave us the books."
+  },
+  {
+    "english": "use",
+    "chinese": "使用",
+    "example": "Can I use your phone?"
+  },
+  {
+    "english": "useful",
+    "chinese": "有用的",
+    "example": "This is a useful book."
+  },
+  {
+    "english": "usually",
+    "chinese": "通常",
+    "example": "I usually have breakfast at 8 o'clock."
+  },
+  {
+    "english": "vacation",
+    "chinese": "假期",
+    "example": "We're going on vacation next week."
+  },
+  {
+    "english": "vegetable",
+    "chinese": "蔬菜",
+    "example": "Eat plenty of vegetables."
+  },
+  {
+    "english": "very",
+    "chinese": "非常",
+    "example": "I'm very tired."
+  },
+  {
+    "english": "video",
+    "chinese": "视频",
+    "example": "I watched a video on YouTube."
+  },
+  {
+    "english": "village",
+    "chinese": "村庄",
+    "example": "My grandparents live in a small village."
+  },
+  {
+    "english": "visit",
+    "chinese": "参观",
+    "example": "We want to visit the museum."
+  },
+  {
+    "english": "visitor",
+    "chinese": "访客",
+    "example": "We have visitors from France."
+  },
+  {
+    "english": "wait",
+    "chinese": "等待",
+    "example": "Please wait here."
+  },
+  {
+    "english": "waiter",
+    "chinese": "服务员",
+    "example": "The waiter brought our food."
+  },
+  {
+    "english": "wake",
+    "chinese": "醒来",
+    "example": "I usually wake up at 7 o'clock."
+  },
+  {
+    "english": "walk",
+    "chinese": "走路",
+    "example": "I walk to school every day."
+  },
+  {
+    "english": "wall",
+    "chinese": "墙",
+    "example": "Hang the picture on the wall."
+  },
+  {
+    "english": "want",
+    "chinese": "想要",
+    "example": "I want a new computer."
+  },
+  {
+    "english": "warm",
+    "chinese": "温暖的",
+    "example": "It's warm today."
+  },
+  {
+    "english": "wash",
+    "chinese": "洗",
+    "example": "Wash your hands before dinner."
+  },
+  {
+    "english": "watch",
+    "chinese": "手表，观看",
+    "example": "What time is it? I don't have my watch."
+  },
+  {
+    "english": "water",
+    "chinese": "水",
+    "example": "I need a glass of water."
+  },
+  {
+    "english": "way",
+    "chinese": "方式，路",
+    "example": "Can you show me the way to the station?"
+  },
+  {
+    "english": "we",
+    "chinese": "我们",
+    "example": "We are students."
+  },
+  {
+    "english": "wear",
+    "chinese": "穿",
+    "example": "What are you going to wear to the party?"
+  },
+  {
+    "english": "weather",
+    "chinese": "天气",
+    "example": "The weather is nice today."
+  },
+  {
+    "english": "website",
+    "chinese": "网站",
+    "example": "I found the information on their website."
+  },
+  {
+    "english": "Wednesday",
+    "chinese": "星期三",
+    "example": "I have a meeting on Wednesday."
+  },
+  {
+    "english": "week",
+    "chinese": "周",
+    "example": "There are seven days in a week."
+  },
+  {
+    "english": "weekend",
+    "chinese": "周末",
+    "example": "What are you doing at the weekend?"
+  },
+  {
+    "english": "welcome",
+    "chinese": "欢迎",
+    "example": "Welcome to our home!"
+  },
+  {
+    "english": "well",
+    "chinese": "好地",
+    "example": "She speaks English well."
+  },
+  {
+    "english": "west",
+    "chinese": "西方",
+    "example": "The sun sets in the west."
+  },
+  {
+    "english": "what",
+    "chinese": "什么",
+    "example": "What is your name?"
+  },
+  {
+    "english": "when",
+    "chinese": "什么时候",
+    "example": "When did you arrive?"
+  },
+  {
+    "english": "where",
+    "chinese": "哪里",
+    "example": "Where do you live?"
+  },
+  {
+    "english": "which",
+    "chinese": "哪一个",
+    "example": "Which book do you want?"
+  },
+  {
+    "english": "white",
+    "chinese": "白色的",
+    "example": "She was wearing a white dress."
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "example": "Who is that man?"
+  },
+  {
+    "english": "why",
+    "chinese": "为什么",
+    "example": "Why are you late?"
+  },
+  {
+    "english": "wife",
+    "chinese": "妻子",
+    "example": "My wife is a doctor."
+  },
+  {
+    "english": "will",
+    "chinese": "将",
+    "example": "I will call you tomorrow."
+  },
+  {
+    "english": "win",
+    "chinese": "赢",
+    "example": "Which team won the match?"
+  },
+  {
+    "english": "window",
+    "chinese": "窗户",
+    "example": "Open the window, please."
+  },
+  {
+    "english": "wine",
+    "chinese": "葡萄酒",
+    "example": "Would you like a glass of wine?"
+  },
+  {
+    "english": "winter",
+    "chinese": "冬天",
+    "example": "It often snows in winter."
+  },
+  {
+    "english": "with",
+    "chinese": "和...一起",
+    "example": "I went to the cinema with my friends."
+  },
+  {
+    "english": "without",
+    "chinese": "没有",
+    "example": "I can't live without music."
+  },
+  {
+    "english": "woman",
+    "chinese": "女人",
+    "example": "That woman is my teacher."
+  },
+  {
+    "english": "wonderful",
+    "chinese": "精彩的",
+    "example": "We had a wonderful holiday."
+  },
+  {
+    "english": "word",
+    "chinese": "单词",
+    "example": "What does this word mean?"
+  },
+  {
+    "english": "work",
+    "chinese": "工作",
+    "example": "I start work at 9 o'clock."
+  },
+  {
+    "english": "worker",
+    "chinese": "工人",
+    "example": "He is a factory worker."
+  },
+  {
+    "english": "world",
+    "chinese": "世界",
+    "example": "She travels all over the world."
+  },
+  {
+    "english": "would",
+    "chinese": "会",
+    "example": "I would like a cup of tea, please."
+  },
+  {
+    "english": "write",
+    "chinese": "写",
+    "example": "Please write your name here."
+  },
+  {
+    "english": "writer",
+    "chinese": "作家",
+    "example": "He is a famous writer."
+  },
+  {
+    "english": "writing",
+    "chinese": "写作",
+    "example": "Writing is difficult for me."
+  },
+  {
+    "english": "wrong",
+    "chinese": "错误的",
+    "example": "Your answer is wrong."
+  },
+  {
+    "english": "yeah",
+    "chinese": "是的",
+    "example": "Yeah, I agree."
+  },
+  {
+    "english": "year",
+    "chinese": "年",
+    "example": "I've lived here for five years."
+  },
+  {
+    "english": "yellow",
+    "chinese": "黄色的",
+    "example": "The sun is yellow."
+  },
+  {
+    "english": "yes",
+    "chinese": "是的",
+    "example": "Yes, I would like some coffee."
+  },
+  {
+    "english": "yesterday",
+    "chinese": "昨天",
+    "example": "I saw him yesterday."
+  },
+  {
+    "english": "you",
+    "chinese": "你，你们",
+    "example": "You are my friend."
+  },
+  {
+    "english": "young",
+    "chinese": "年轻的",
+    "example": "She is very young."
+  },
+  {
+    "english": "your",
+    "chinese": "你的，你们的",
+    "example": "Is this your book?"
+  },
+  {
+    "english": "yourself",
+    "chinese": "你自己",
+    "example": "Did you hurt yourself?"
+  }
+]
